@@ -5,6 +5,7 @@ tools:
 - name: rem_complex
   owner: recetox
   revisions:
+  - 60db8070a5c3
   - a0e07a0bc047
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -17,6 +18,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 331a50e8fd2f
   - 545054b15d7c
   - 6153e8ada1ee
   - ab6c14374bc0
@@ -26,6 +28,7 @@ tools:
   owner: earlhaminst
   revisions:
   - 7c0bb0c48a27
+  - cf657dae1dca
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: apoc
@@ -33,6 +36,7 @@ tools:
   revisions:
   - 451f90534945
   - 67d2a6f3b4e3
+  - f7eb699686eb
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: parmconv
