@@ -33,6 +33,7 @@ tools:
 - name: busco
   owner: iuc
   revisions:
+  - 4e70d88adf2f
   - 94170eee0ad8
   - bb935709506a
   - e5c372c91e46
