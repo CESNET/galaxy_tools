@@ -5,6 +5,7 @@ tools:
 - name: tracy_basecall
   owner: iuc
   revisions:
+  - 806fb8363272
   - f2e0d83186c7
   tool_panel_section_id: sanger_sequencing
   tool_panel_section_label: Sanger Sequencing
@@ -12,5 +13,6 @@ tools:
   owner: iuc
   revisions:
   - 6ec40b104f9d
+  - d6ef5937ded6
   tool_panel_section_id: sanger_sequencing
   tool_panel_section_label: Sanger Sequencing
