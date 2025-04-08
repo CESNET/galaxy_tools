@@ -33,6 +33,8 @@ jobs:
           make INSTANCE=galaxy-qa1.galaxy.cloud.e-infra.cz fix
           make INSTANCE=usegalaxy.cz lint
           make INSTANCE=usegalaxy.cz fix
+          make INSTANCE=galaxy-umsa.grid.cesnet.cz lint
+          make INSTANCE=galaxy-umsa.grid.cesnet.cz fix
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
