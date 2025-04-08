@@ -2,3 +2,7 @@ bioblend
 ephemeris
 pykwalify
 PyYAML
+
+# for fix_uninstallable.py
+mercurial
+galaxy-tool-util
