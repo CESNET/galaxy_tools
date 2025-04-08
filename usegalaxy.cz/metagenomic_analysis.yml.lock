@@ -700,6 +700,7 @@ tools:
 - name: phyloseq_from_dada2
   owner: iuc
   revisions:
+  - 24488fae5b04
   - 46a99bd1f10e
   - 6000b8a8dd9d
   tool_panel_section_id: metagenomic_analysis
@@ -709,12 +710,14 @@ tools:
   revisions:
   - 11d43fa12aab
   - 32f892954ef6
+  - cee4982a717b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_richness
   owner: iuc
   revisions:
   - 10a7732528b2
+  - 7ed99cb39c9d
   - 92b82deaaed1
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

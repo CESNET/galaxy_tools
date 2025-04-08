@@ -876,6 +876,7 @@ tools:
 - name: arriba_draw_fusions
   owner: iuc
   revisions:
+  - 24271361028f
   - 31f8063eedea
   - 765e685641ce
   - 7acb00fc980a
@@ -885,6 +886,7 @@ tools:
   owner: iuc
   revisions:
   - 32e542c2a773
+  - 6d1f577b3e47
   - 7a5a2d28c539
   - acbda5dc6955
   tool_panel_section_id: rna_analysis
@@ -894,6 +896,7 @@ tools:
   revisions:
   - 3d61a698e5e1
   - 45c2ec061cf9
+  - 6535dd4a4064
   - f6b8b38636a4
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
