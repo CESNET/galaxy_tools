@@ -33,7 +33,7 @@ jobs:
             make INSTANCE=$INSTANCE lint
             make INSTANCE=$INSTANCE update-all
         env:
-          INSTANCE: ${{ inputs.instance }}
+          INSTANCE: ${{ matrix.instance }}
       - name: Set output variables
         id: vars
         run: |
@@ -48,7 +48,7 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
         env:
-          INSTANCE: ${{ inputs.instance }}
+          INSTANCE: ${{ matrix.instance }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
