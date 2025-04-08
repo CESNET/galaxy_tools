@@ -10,6 +10,7 @@ on:
         options:
         - galaxy-qa1.galaxy.cloud.e-infra.cz
         - usegalaxy.cz
+        - galaxy-umsa.grid.cesnet.cz
 
 jobs:
   build:
