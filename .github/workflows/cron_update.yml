@@ -1,0 +1,68 @@
+name: Dispatch Update
+
+on:
+  schedule:
+  # 7:07 wednesdays
+    - cron:  '7 7 * * 3'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        instance: [usegalaxy.cz, galaxy-umsa.grid.cesnet.cz]
+        python-version: [3.11]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Lint, Fix, and Update
+        run: |
+            make INSTANCE=$INSTANCE lint
+            make INSTANCE=$INSTANCE update-all
+        env:
+          INSTANCE: ${{ matrix.instance }}
+      - name: Set output variables
+        id: vars
+        run: |
+          pr_title="Update all tools of $INSTANCE"
+          {
+            echo "pr_title=$pr_title"
+            echo "branch_name=$INSTANCE"
+            echo "pr_body<<EOF"
+            echo "I ran the following:"
+            echo "- make INSTANCE=$INSTANCE lint"
+            echo "- make INSTANCE=$INSTANCE update-all"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+        env:
+          INSTANCE: ${{ matrix.instance }}
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: create-pull-request/${{ steps.vars.outputs.branch_name }}
+          # branch-suffix: random
+          committer: CESNETbot <martin.cech@cesnet.cz>
+          commit-message: ${{ steps.vars.outputs.pr_title }}
+          title: ${{ steps.vars.outputs.pr_title }}
+          body: ${{ steps.vars.outputs.pr_body }}
+          labels: automated
+          assignees: martenson
+          reviewers: martenson
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
