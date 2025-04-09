@@ -1,4 +1,4 @@
-name: Dispatch Update
+name: Cron Update Productions
 
 on:
   schedule:
