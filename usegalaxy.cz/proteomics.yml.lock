@@ -69,6 +69,7 @@ tools:
   revisions:
   - 387d3633cade
   - 9b67a50799e9
+  - d3adf102f1a5
   - de26b312c0d2
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
@@ -1574,11 +1575,13 @@ tools:
   - 5532c0e5d4a6
   - 6140163233a5
   - 85c411546123
+  - 8a701e0754a1
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: proteinortho_grab_proteins
   owner: iuc
   revisions:
+  - 1187ff061d62
   - 36dffb2bc194
   - a87f7278b4ee
   - e2a8e134e928
