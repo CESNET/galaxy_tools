@@ -66,6 +66,7 @@ tools:
   owner: recetox
   revisions:
   - 0b86600b715e
+  - 0f1b15d51801
   - 6cd2a9e6ac49
   - e5fcba090b10
   tool_panel_section_id: recetox
