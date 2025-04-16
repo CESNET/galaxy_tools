@@ -548,6 +548,7 @@ tools:
 - name: alphafold2
   owner: galaxy-australia
   revisions:
+  - 2891385d6ace
   - 3f188450ca4f
   - 58854e2e6654
   - 7fbec959cf2b

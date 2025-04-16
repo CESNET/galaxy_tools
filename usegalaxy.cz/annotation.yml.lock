@@ -772,6 +772,7 @@ tools:
 - name: bakta
   owner: iuc
   revisions:
+  - 1942e86e2ee1
   - 728dacaf08a9
   - d77802fe76f7
   - da5f1924bb2e

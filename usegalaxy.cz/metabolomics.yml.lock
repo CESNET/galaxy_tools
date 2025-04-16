@@ -285,6 +285,7 @@ tools:
 - name: biotransformer
   owner: recetox
   revisions:
+  - 0f1b15d51801
   - 6cd2a9e6ac49
   - e5fcba090b10
   tool_panel_section_id: metabolomics
