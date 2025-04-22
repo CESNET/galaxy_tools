@@ -68,3 +68,15 @@ tools:
   - b1667c118127
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
+- name: xcms_plot_eic
+  owner: workflow4metabolomics
+  revisions:
+  - 51015f22fcb7
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: xcms_plot_raw
+  owner: workflow4metabolomics
+  revisions:
+  - 520448a32548
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
