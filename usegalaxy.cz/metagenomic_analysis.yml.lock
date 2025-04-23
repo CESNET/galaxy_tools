@@ -93,6 +93,7 @@ tools:
   - 1faea6e8c92b
   - 76b57044069d
   - 81ada02ffe46
+  - a0c4b280e67c
   - d730086e1432
   - ef7cd2e7bc05
   tool_panel_section_id: metagenomic_analysis
@@ -102,6 +103,7 @@ tools:
   revisions:
   - 0a3caad1554a
   - 2c6f204ae1b9
+  - 30d4702cdba6
   - 54aa421c2911
   - 965f73e77296
   - c2f471480624
