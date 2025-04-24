@@ -158,6 +158,7 @@ tools:
 - name: fastx_renamer
   owner: devteam
   revisions:
+  - 0ffae348abae
   - b29d37ca9e41
   - f984bb114520
   tool_panel_section_id: fasta_fastq
@@ -167,11 +168,13 @@ tools:
   revisions:
   - 177f0621c266
   - 6027ef51ef91
+  - 7566b751e769
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_trimmer
   owner: devteam
   revisions:
+  - 1ea2ae5afb28
   - 61b4cedc8934
   - 73194cdd4f57
   tool_panel_section_id: fasta_fastq
@@ -179,6 +182,7 @@ tools:
 - name: fastq_to_fasta
   owner: devteam
   revisions:
+  - 191e43b329f6
   - 77b41c89d856
   - e282bc27be9a
   tool_panel_section_id: fasta_fastq
@@ -186,6 +190,7 @@ tools:
 - name: fastx_quality_statistics
   owner: devteam
   revisions:
+  - 48c943a0290a
   - 59003d0543cd
   - cc0fd298cc17
   tool_panel_section_id: fasta_fastq
@@ -193,6 +198,7 @@ tools:
 - name: fastq_quality_boxplot
   owner: devteam
   revisions:
+  - 47df89f900a4
   - 7cf5b1d072b5
   - 867ab348287d
   tool_panel_section_id: fasta_fastq
@@ -202,12 +208,14 @@ tools:
   revisions:
   - 045f0e1043f7
   - 54053ea6c77e
+  - 86713dc416ec
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_quality_filter
   owner: devteam
   revisions:
   - 64e9a6afdd0c
+  - b1e332a385f1
   - ce9cd02d5b88
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -216,11 +224,13 @@ tools:
   revisions:
   - 516b97a23d7e
   - 859422bcb689
+  - e773f1eb16cf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_nucleotide_changer
   owner: devteam
   revisions:
+  - 90e8c76156a7
   - ec0b5076173a
   - f773e98b26cf
   tool_panel_section_id: fasta_fastq
@@ -241,6 +251,7 @@ tools:
   owner: devteam
   revisions:
   - 07497255281e
+  - 72494a86e047
   - 7ce1891db6f5
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -248,6 +259,7 @@ tools:
   owner: iuc
   revisions:
   - 10678d49d39e
+  - 25c59c0ceb55
   - 65b93b623c77
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -279,6 +291,7 @@ tools:
 - name: fastx_artifacts_filter
   owner: devteam
   revisions:
+  - 34edfa69c149
   - 529bccd5e4a1
   - d5e9e83cd3d8
   tool_panel_section_id: fasta_fastq
@@ -369,12 +382,14 @@ tools:
   owner: devteam
   revisions:
   - 90858c306551
+  - c60cf18ec2b0
   - cb1e251cac37
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_nucleotides_distribution
   owner: devteam
   revisions:
+  - 751878fa37e5
   - ad116ae3f4d9
   - b6b54ba71bd8
   tool_panel_section_id: fasta_fastq
@@ -383,6 +398,7 @@ tools:
   owner: devteam
   revisions:
   - 0b7ec11b3c7c
+  - 229caeddb2df
   - 4bedca26c133
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
