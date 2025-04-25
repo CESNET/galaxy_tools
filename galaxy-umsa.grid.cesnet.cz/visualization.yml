@@ -18,3 +18,7 @@ tools:
   owner: recetox
 - name: heatmap
   owner: ethevenot
+- name: xcms_plot_eic
+  owner: workflow4metabolomics
+- name: xcms_plot_raw
+  owner: workflow4metabolomics
