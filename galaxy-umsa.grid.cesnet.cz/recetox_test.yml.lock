@@ -41,6 +41,6 @@ tools:
   owner: recetox
   revisions:
   - 55ca5d902f62
-  tool_panel_section_id: chemicaltoolbox
-  tool_panel_section_label: ChemicalToolBox
+  tool_panel_section_id: recetox_test
+  tool_panel_section_label: RECETOX-TEST
   tool_shed_url: testtoolshed.g2.bx.psu.edu
