@@ -553,6 +553,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 28ffaaa5739f
   - 331a50e8fd2f
   - 9ec469ff191a
   tool_panel_section_id: metabolomics

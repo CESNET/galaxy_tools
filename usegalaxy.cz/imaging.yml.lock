@@ -503,6 +503,7 @@ tools:
   owner: imgteam
   revisions:
   - 9bd039f46843
+  - aef9911c0d5c
   - dcc8c1d6af48
   - de611b3b5ae8
   tool_panel_section_id: imaging
