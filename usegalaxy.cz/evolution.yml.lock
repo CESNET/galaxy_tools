@@ -11,6 +11,7 @@ tools:
 - name: iqtree
   owner: iuc
   revisions:
+  - 18a61a9c1601
   - 6bbd30d58cf4
   - 9b892d7f82cc
   tool_panel_section_id: evolution

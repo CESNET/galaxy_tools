@@ -510,6 +510,7 @@ tools:
   revisions:
   - 1e1291983bc7
   - a5937157062f
+  - e698621cca1f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpeff
@@ -787,6 +788,7 @@ tools:
   owner: iuc
   revisions:
   - 553b27c30eb8
+  - 563fd95fa88a
   - f75bf16ac901
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
