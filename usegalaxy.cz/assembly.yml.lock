@@ -243,6 +243,7 @@ tools:
   - 1ce9b1d72ec3
   - 276f5d8712d5
   - 3ee0ef312022
+  - 643e0ff70be5
   - 8d4f03b5fe9d
   - cb8dfd28c16f
   - cd256484eb1a
@@ -295,6 +296,7 @@ tools:
   owner: nml
   revisions:
   - 33368fec3b70
+  - 822954de3f59
   - b512435320e3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -323,6 +325,7 @@ tools:
   revisions:
   - 2ecf5a570907
   - 697c9156dafe
+  - f192c2fbe13f
   - fd128c111ab0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -337,6 +340,7 @@ tools:
   revisions:
   - 001aa495b39a
   - 1d06c8b38e77
+  - 5bd3f053c303
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl
@@ -447,6 +451,7 @@ tools:
   owner: iuc
   revisions:
   - a9aa4115cb68
+  - d5645713603a
   - d5fb354f745d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -454,6 +459,7 @@ tools:
   owner: iuc
   revisions:
   - 1708851f8804
+  - 388dbecbf03b
   - b40b77418372
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -462,6 +468,7 @@ tools:
   revisions:
   - 328aa71f0f3c
   - 6766a94ef559
+  - ed32d95f436a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
@@ -469,12 +476,14 @@ tools:
   revisions:
   - c5c4fa59be65
   - e5a3b75a271f
+  - edac5e292b7f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_coronaspades
   owner: iuc
   revisions:
   - 152ff7d1817a
+  - 2cf8a2028ddc
   - 34305b013402
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -482,6 +491,7 @@ tools:
   owner: iuc
   revisions:
   - 051fd2db8a27
+  - 5e7a2a927b56
   - 60b8f1668552
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -518,6 +528,7 @@ tools:
   revisions:
   - 50b6ec4074f4
   - 5799092ffdff
+  - 59150c883ed5
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: yahs

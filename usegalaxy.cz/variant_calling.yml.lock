@@ -825,6 +825,7 @@ tools:
 - name: ensembl_vep
   owner: iuc
   revisions:
+  - 7572cb1cdd96
   - b43df0ce6c87
   - b8c112397c5e
   - c91e09b60325

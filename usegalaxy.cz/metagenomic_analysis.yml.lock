@@ -96,6 +96,7 @@ tools:
   - a0c4b280e67c
   - d730086e1432
   - ef7cd2e7bc05
+  - f54e7b3da33c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: drep_compare
@@ -107,6 +108,7 @@ tools:
   - 54aa421c2911
   - 965f73e77296
   - c2f471480624
+  - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2
