@@ -14,6 +14,7 @@ tools:
   revisions:
   - 3ae9331790a6
   - 4e9a3745dce4
+  - 8f46605c84ec
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: landmark_registration
@@ -502,6 +503,7 @@ tools:
 - name: points2labelimage
   owner: imgteam
   revisions:
+  - 4a49f74a3c14
   - 9bd039f46843
   - aef9911c0d5c
   - dcc8c1d6af48
@@ -533,6 +535,7 @@ tools:
   owner: imgteam
   revisions:
   - 6e65fd971e13
+  - 7f8102bdbfa1
   - 984358e43242
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

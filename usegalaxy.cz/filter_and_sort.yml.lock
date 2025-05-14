@@ -6,6 +6,7 @@ tools:
   owner: iuc
   revisions:
   - 0f710191a66d
+  - 31d5c8c3adde
   - 3c5e024a18cf
   - f99dd58de04f
   tool_panel_section_id: filter_and_sort
