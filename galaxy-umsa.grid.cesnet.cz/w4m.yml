@@ -1,10 +1,12 @@
 tool_panel_section_label: W4M
 tools:
-- name: xcms_refine
-  owner: workflow4metabolomics
 - name: qualitymetrics
   owner: ethevenot
 - name: bank_inhouse
   owner: fgiacomoni
 - name: batchcorrection
   owner: melpetera
+- name: tablemerge
+  owner: melpetera
+- name: checkformat
+  owner: ethevenot

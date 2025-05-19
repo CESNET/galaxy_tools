@@ -13,6 +13,7 @@ tools:
   revisions:
   - 0e7290688b50
   - 17b666467c32
+  - 63d211052ffb
   - dfd5d981b5a4
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
@@ -20,6 +21,7 @@ tools:
   owner: iuc
   revisions:
   - 10515715c940
+  - 15cebddc6dba
   - 1a72f938213e
   - 391a4cc45fea
   tool_panel_section_id: visualization
@@ -27,6 +29,7 @@ tools:
 - name: ggplot2_pca
   owner: iuc
   revisions:
+  - 1df3b30325dd
   - 7e616a1bdb07
   - ae344ccf9d62
   - b1268b7544d3
@@ -36,6 +39,7 @@ tools:
   owner: iuc
   revisions:
   - 398e5104f8a2
+  - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
   tool_panel_section_id: visualization
@@ -54,6 +58,43 @@ tools:
   revisions:
   - 5298e06f14f9
   - e3a675da7fd0
+  - f87634b12749
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: ggplot2_boxplot
+  owner: iuc
+  revisions:
+  - 653803fab921
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: ggplot2_barplot
+  owner: iuc
+  revisions:
+  - 41e9114cc7cd
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: seaborn
+  owner: iuc
+  revisions:
+  - 293a939f28c8
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: seaborn_pairgrid
+  owner: iuc
+  revisions:
+  - 4a46d83cb08f
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: upsetplot
+  owner: iuc
+  revisions:
+  - ec6141f6e5cb
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: maplot
+  owner: iuc
+  revisions:
+  - e9212adafd7a
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: rcx_boxplot
@@ -72,11 +113,13 @@ tools:
   owner: workflow4metabolomics
   revisions:
   - 51015f22fcb7
+  - cbedca3ba6e1
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: xcms_plot_raw
   owner: workflow4metabolomics
   revisions:
   - 520448a32548
+  - 8b8d360316c3
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization

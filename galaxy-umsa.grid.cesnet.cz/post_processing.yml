@@ -1,4 +1,0 @@
-tool_panel_section_label: Post-processing
-tools:
-- name: tablemerge
-  owner: melpetera
