@@ -2,13 +2,6 @@ install_repository_dependencies: true
 install_resolver_dependencies: false
 install_tool_dependencies: false
 tools:
-- name: xcms_refine
-  owner: workflow4metabolomics
-  revisions:
-  - 090b33a9981c
-  - 6c2798bce3eb
-  tool_panel_section_id: w4m
-  tool_panel_section_label: W4M
 - name: qualitymetrics
   owner: ethevenot
   revisions:
@@ -25,5 +18,17 @@ tools:
   owner: melpetera
   revisions:
   - 23314e1192d4
+  tool_panel_section_id: w4m
+  tool_panel_section_label: W4M
+- name: tablemerge
+  owner: melpetera
+  revisions:
+  - e44c5246247a
+  tool_panel_section_id: w4m
+  tool_panel_section_label: W4M
+- name: checkformat
+  owner: ethevenot
+  revisions:
+  - e7c5811ec12f
   tool_panel_section_id: w4m
   tool_panel_section_label: W4M
