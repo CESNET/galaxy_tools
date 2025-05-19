@@ -76,7 +76,7 @@ tools:
   tool_panel_section_label: XCMS
 - name: xcms_refine
   owner: workflow4metabolomics
-  revisions
+  revisions:
   - 090b33a9981c
   - 6c2798bce3eb
   tool_panel_section_id: xcms
