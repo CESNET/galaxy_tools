@@ -79,6 +79,7 @@ tools:
   owner: iuc
   revisions:
   - 10515715c940
+  - 15cebddc6dba
   - 1a72f938213e
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -87,6 +88,7 @@ tools:
   revisions:
   - 0e7290688b50
   - 17b666467c32
+  - 63d211052ffb
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_point
@@ -95,11 +97,13 @@ tools:
   - 3b12bf9b4b87
   - 5298e06f14f9
   - 5fe1dc76176e
+  - f87634b12749
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_histogram
   owner: iuc
   revisions:
+  - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
   tool_panel_section_id: graph_display_data
@@ -153,6 +157,7 @@ tools:
 - name: volcanoplot
   owner: iuc
   revisions:
+  - 11c344627e52
   - 5e08a1e22dbc
   - 83c573f2e73c
   tool_panel_section_id: graph_display_data
@@ -175,6 +180,7 @@ tools:
 - name: ggplot2_pca
   owner: iuc
   revisions:
+  - 1df3b30325dd
   - ae344ccf9d62
   - b1268b7544d3
   tool_panel_section_id: graph_display_data

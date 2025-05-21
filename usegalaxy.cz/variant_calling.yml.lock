@@ -789,6 +789,7 @@ tools:
   revisions:
   - 553b27c30eb8
   - 563fd95fa88a
+  - de7a6727f578
   - f75bf16ac901
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
