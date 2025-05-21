@@ -563,6 +563,7 @@ tools:
   revisions:
   - 19e45916daf9
   - 2d80c8b2dfc2
+  - 5c04f9decc01
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_differential_analysis
@@ -671,6 +672,7 @@ tools:
 - name: waveica
   owner: recetox
   revisions:
+  - 6fc9f6dbcef5
   - bf32ae95a06f
   - dbbedb14b44c
   tool_panel_section_id: metabolomics
