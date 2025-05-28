@@ -453,6 +453,7 @@ tools:
 - name: qualitymetrics
   owner: ethevenot
   revisions:
+  - 25c9349d1be9
   - 6d3b7b6573d8
   - acdf51018708
   tool_panel_section_id: metabolomics
