@@ -114,6 +114,7 @@ tools:
 - name: kraken2
   owner: iuc
   revisions:
+  - 241a78eb2935
   - cdee7158adf3
   - e674066930b2
   tool_panel_section_id: metagenomic_analysis
