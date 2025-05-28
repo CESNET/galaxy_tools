@@ -5,6 +5,7 @@ tools:
 - name: qualitymetrics
   owner: ethevenot
   revisions:
+  - 25c9349d1be9
   - acdf51018708
   tool_panel_section_id: w4m
   tool_panel_section_label: W4M
