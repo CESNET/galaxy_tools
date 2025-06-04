@@ -35,6 +35,7 @@ tools:
   owner: iuc
   revisions:
   - 5f0d3c6f4e59
+  - 81f337815c1b
   - 8ada4c573595
   - e8971ca74398
   tool_panel_section_id: variant_calling
