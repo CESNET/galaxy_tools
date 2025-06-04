@@ -21,6 +21,7 @@ tools:
   owner: recetox
   revisions:
   - 3e2cb0bc6959
+  - 646ef66527da
   - b5467dead5b1
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
