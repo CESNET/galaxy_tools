@@ -84,9 +84,3 @@ tools:
   owner: iuc
 - name: picrust2_shuffle_predictions
   owner: iuc
-- name: cpt_related_genomes_nuc
-  owner: cpt
-- name: cpt_related_genomes_prot
-  owner: cpt
-- name: cpt_xmfa_to_table
-  owner: cpt

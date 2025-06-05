@@ -168,7 +168,5 @@ tools:
   owner: iuc
 - name: bbtools_bbmerge
   owner: iuc
-- name: cpt_fasta_remove_id
-  owner: cpt
 - name: prinseq
   owner: iuc

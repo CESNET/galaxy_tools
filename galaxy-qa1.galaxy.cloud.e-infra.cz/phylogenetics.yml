@@ -54,7 +54,3 @@ tools:
   owner: iuc
 - name: snp_dists
   owner: iuc
-- name: cpt_related_genomes_nuc
-  owner: cpt
-- name: cpt_xmfa_to_table
-  owner: cpt

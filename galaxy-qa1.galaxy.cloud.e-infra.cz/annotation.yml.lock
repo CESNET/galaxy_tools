@@ -384,30 +384,6 @@ tools:
   - 15cff34c2005
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
-- name: cpt_phageqc_annotations
-  owner: cpt
-  revisions:
-  - c3140b08d703
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_intron_detection
-  owner: cpt
-  revisions:
-  - 0a98d5259ef0
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_gbk_renumber
-  owner: cpt
-  revisions:
-  - 8cac332dbc77
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_require_shine
-  owner: cpt
-  revisions:
-  - a6dc48930318
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
 - name: tb_variant_filter
   owner: iuc
   revisions:
@@ -420,25 +396,6 @@ tools:
   - 2f40d2ccb0eb
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
-- name: cpt_gff_add_parents
-  owner: cpt
-  revisions:
-  - d839cfd1c3a6
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_remove_annotations
-  owner: cpt
-  revisions:
-  - 49f50c55a9f8
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_prep_for_apollo
-  owner: cpt
-  revisions:
-  - 6901154b1003
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: funannotate_predict
   owner: iuc
   revisions:
   - 3cc3ef448854

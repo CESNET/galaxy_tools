@@ -621,12 +621,6 @@ tools:
   - c9e516d65a3d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
-- name: cpt_fasta_remove_id
-  owner: cpt
-  revisions:
-  - 78222649a59a
-  tool_panel_section_id: fasta_fastq
-  tool_panel_section_label: FASTA/FASTQ
 - name: prinseq
   owner: iuc
   revisions:
