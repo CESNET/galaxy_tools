@@ -96,5 +96,3 @@ tools:
   owner: devteam
 - name: fastx_barcode_splitter
   owner: devteam
-- name: cpt_fasta_remove_id
-  owner: cpt

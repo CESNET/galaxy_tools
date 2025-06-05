@@ -72,7 +72,5 @@ tools:
   owner: iuc
 - name: pathifier
   owner: artbio
-- name: cpt_linear_genome_plot
-  owner: cpt
 - name: geneiobio
   owner: iuc
