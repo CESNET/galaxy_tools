@@ -393,13 +393,14 @@ tools:
 - name: pharokka
   owner: iuc
   revisions:
-  - 2f40d2ccb0eb
+  - 3cc3ef448854
+  - 4b96ced19f75
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
+- name: funannotate_predict
   owner: iuc
   revisions:
   - 3cc3ef448854
-  - 4b96ced19f75
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: funannotate_compare
