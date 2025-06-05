@@ -396,6 +396,7 @@ tools:
   - 2f40d2ccb0eb
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
+- name: funannotate_predict
   owner: iuc
   revisions:
   - 3cc3ef448854
