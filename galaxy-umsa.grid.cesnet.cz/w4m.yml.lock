@@ -9,12 +9,6 @@ tools:
   - acdf51018708
   tool_panel_section_id: w4m
   tool_panel_section_label: W4M
-- name: bank_inhouse
-  owner: fgiacomoni
-  revisions:
-  - 52798007c6b2
-  tool_panel_section_id: w4m
-  tool_panel_section_label: W4M
 - name: batchcorrection
   owner: melpetera
   revisions:

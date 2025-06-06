@@ -326,12 +326,6 @@ tools:
   - 4eb2de7c24d1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
-- name: bank_inhouse
-  owner: fgiacomoni
-  revisions:
-  - 52798007c6b2
-  tool_panel_section_id: metabolomics
-  tool_panel_section_label: Metabolomics
 - name: lcmsmatching
   owner: prog
   revisions:
