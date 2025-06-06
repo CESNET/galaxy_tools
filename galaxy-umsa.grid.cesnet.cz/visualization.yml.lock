@@ -97,12 +97,6 @@ tools:
   - e9212adafd7a
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
-- name: rcx_boxplot
-  owner: recetox
-  revisions:
-  - 92325ed91115
-  tool_panel_section_id: visualization
-  tool_panel_section_label: Visualization
 - name: heatmap
   owner: ethevenot
   revisions:
