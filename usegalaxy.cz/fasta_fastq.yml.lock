@@ -22,6 +22,7 @@ tools:
   owner: lparsons
   revisions:
   - 135b80fb1ac2
+  - 80766b36005d
   - 8c0175e03cee
   - c0b2c2e39c9c
   tool_panel_section_id: fasta_fastq

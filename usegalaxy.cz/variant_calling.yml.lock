@@ -510,6 +510,7 @@ tools:
   owner: devteam
   revisions:
   - 1e1291983bc7
+  - 85dc96ebc770
   - a5937157062f
   - e698621cca1f
   tool_panel_section_id: variant_calling
@@ -827,6 +828,7 @@ tools:
 - name: ensembl_vep
   owner: iuc
   revisions:
+  - 3a5a201f0bff
   - 7572cb1cdd96
   - b43df0ce6c87
   - b8c112397c5e
