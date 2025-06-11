@@ -23,6 +23,7 @@ tools:
   revisions:
   - 6073bb457ec0
   - 86755160afbf
+  - c41d78ae5fee
   - ddf54b12c295
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -31,5 +32,6 @@ tools:
   revisions:
   - 3bf5661c0280
   - 56a8da1f2243
+  - cd36d6e45e29
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
