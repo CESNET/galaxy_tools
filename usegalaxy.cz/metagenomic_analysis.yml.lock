@@ -835,6 +835,7 @@ tools:
 - name: checkm_taxonomy_wf
   owner: iuc
   revisions:
+  - 0ea86ba426e1
   - 19e4e2d98ebb
   - 2e995a9aa00e
   tool_panel_section_id: metagenomic_analysis
@@ -842,6 +843,7 @@ tools:
 - name: checkm_tree
   owner: iuc
   revisions:
+  - 626ab1058170
   - 6d1c282e2ce2
   - ce3fd529a6ec
   tool_panel_section_id: metagenomic_analysis
@@ -849,6 +851,7 @@ tools:
 - name: checkm_lineage_wf
   owner: iuc
   revisions:
+  - '482705438671'
   - 8345d273ba82
   - f0107b9f2dc3
   tool_panel_section_id: metagenomic_analysis
@@ -857,6 +860,7 @@ tools:
   owner: iuc
   revisions:
   - 36ea6d5441c3
+  - a99ca4bb4d1d
   - b9a38ce53252
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -865,11 +869,13 @@ tools:
   revisions:
   - 5ee29434330f
   - bcb8dc01f296
+  - f23a0598b4bc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_tetra
   owner: iuc
   revisions:
+  - 46bc08145439
   - bb3b50fa4956
   - d0d9e52a46b8
   tool_panel_section_id: metagenomic_analysis
@@ -879,11 +885,13 @@ tools:
   revisions:
   - 5466420816b9
   - 8236b90ce44c
+  - 82caa8ed507c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_taxon_set
   owner: iuc
   revisions:
+  - 03c18e927a7e
   - 407e50329077
   - 600b129adb72
   tool_panel_section_id: metagenomic_analysis
@@ -891,6 +899,7 @@ tools:
 - name: checkm_plot
   owner: iuc
   revisions:
+  - 0ac2ba0b0d81
   - 9916308301da
   - b24e4f6c8b4d
   tool_panel_section_id: metagenomic_analysis
@@ -900,6 +909,7 @@ tools:
   revisions:
   - 3693acdbf0d6
   - 640400ad260d
+  - a32ee0bb028b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: srst2
