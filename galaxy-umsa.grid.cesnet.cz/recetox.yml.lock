@@ -55,6 +55,7 @@ tools:
   revisions:
   - 050cfef6ba65
   - da7722f665f4
+  - f52181a205d3
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: rmassbank
@@ -91,6 +92,7 @@ tools:
   owner: recetox
   revisions:
   - 25625114618e
+  - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
