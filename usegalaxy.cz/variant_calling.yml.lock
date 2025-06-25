@@ -13,6 +13,7 @@ tools:
   revisions:
   - 468b90c41cde
   - 6f52ebc01098
+  - 7021ed347f7e
   - 93cfe7df7f8a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -22,6 +23,7 @@ tools:
   - 00e20a06ff1e
   - 311d11c4a68b
   - 372def2f8fd6
+  - c23737f9714f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: manta
