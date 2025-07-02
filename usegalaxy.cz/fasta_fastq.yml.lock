@@ -417,6 +417,7 @@ tools:
 - name: ucsc_fasplit
   owner: iuc
   revisions:
+  - 1add611a6018
   - bf04bd405d5b
   - d3f58a0dc09d
   tool_panel_section_id: fasta_fastq
