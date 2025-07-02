@@ -165,6 +165,7 @@ tools:
 - name: isolib
   owner: recetox
   revisions:
+  - 06f2d0d6d107
   - 2b1118bce0b1
   - 964b4559eb1b
   - f0fe957df1cc
