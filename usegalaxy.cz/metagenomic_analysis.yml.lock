@@ -604,6 +604,7 @@ tools:
 - name: scoary
   owner: iuc
   revisions:
+  - 295b25fe8e25
   - 42a1a5750539
   - 77d50ec2bcf2
   tool_panel_section_id: metagenomic_analysis
