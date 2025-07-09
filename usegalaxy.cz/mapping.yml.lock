@@ -161,6 +161,7 @@ tools:
 - name: bwa_mem2
   owner: iuc
   revisions:
+  - af91699b8d4c
   - b4a22d90cce9
   - bec6ba059ded
   - bfaa0d22c2e4

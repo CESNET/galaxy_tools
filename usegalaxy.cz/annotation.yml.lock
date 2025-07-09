@@ -63,6 +63,7 @@ tools:
   revisions:
   - 2c68b0c38785
   - 45083d070fb8
+  - 60a1dad331ec
   - 8cb134b8c1a5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
