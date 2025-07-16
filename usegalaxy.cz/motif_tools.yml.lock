@@ -13,12 +13,14 @@ tools:
   revisions:
   - 47e7ae719765
   - 5f95d385a33c
+  - 8436beac5eed
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
 - name: meme_fimo
   owner: iuc
   revisions:
   - 01f5d04846c4
+  - 613c75eee7bd
   - c5209f38700d
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
@@ -27,11 +29,13 @@ tools:
   revisions:
   - 19237efe98d1
   - 7ce0fe11b411
+  - faa378fa0c81
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
 - name: meme_dreme
   owner: iuc
   revisions:
+  - 0c97e5c18468
   - b386032d758d
   - fd05b142b3a3
   tool_panel_section_id: motif_tools

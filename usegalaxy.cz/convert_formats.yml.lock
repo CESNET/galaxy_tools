@@ -79,6 +79,7 @@ tools:
 - name: crossmap_wig
   owner: iuc
   revisions:
+  - 754f70dd85ae
   - e72c320c17c1
   - f7229c8445da
   tool_panel_section_id: convert_formats
@@ -88,11 +89,13 @@ tools:
   revisions:
   - 18f7e96459d2
   - d4965adac10c
+  - d8649c4e4c3a
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
   owner: iuc
   revisions:
+  - 0eb744382179
   - 42b239a32349
   - 75a08e10cc76
   tool_panel_section_id: convert_formats
@@ -101,6 +104,7 @@ tools:
   owner: iuc
   revisions:
   - 50b7875a49d0
+  - b1c12a94db6f
   - ee86b27291b5
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -115,6 +119,7 @@ tools:
   revisions:
   - 158b5b2a164a
   - 6ee334657360
+  - 908df9a9f86b
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: mz_to_sqlite
@@ -252,6 +257,7 @@ tools:
 - name: crossmap_region
   owner: iuc
   revisions:
+  - 4fba951013e2
   - a50ef4d58c90
   - eb66d7a04bf8
   tool_panel_section_id: convert_formats

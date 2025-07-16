@@ -189,6 +189,7 @@ tools:
 - name: intensity_checks
   owner: melpetera
   revisions:
+  - 2e580585782e
   - bdee2c2c484b
   - ec75de7f1e08
   tool_panel_section_id: metabolomics
@@ -342,6 +343,7 @@ tools:
 - name: nmr_preprocessing
   owner: marie-tremblay-metatoul
   revisions:
+  - 122df1bf0a8c
   - 68e2d63bece0
   - 6e837e9352a2
   tool_panel_section_id: metabolomics
