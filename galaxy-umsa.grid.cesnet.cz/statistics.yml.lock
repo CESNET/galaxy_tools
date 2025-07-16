@@ -5,6 +5,7 @@ tools:
 - name: intensity_checks
   owner: melpetera
   revisions:
+  - 2e580585782e
   - ec75de7f1e08
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
