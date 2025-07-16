@@ -5,6 +5,6 @@ tools:
 - name: bioconductor_msnbase_smooth_chromatogram
   owner: recetox
 - name: bioconductor_msnbase_smooth_mz
-  owner: receto
+  owner: recetox
 - name: bioconductor_mzr
   owner: recetox
