@@ -131,6 +131,7 @@ tools:
 - name: mafft
   owner: rnateam
   revisions:
+  - 0a507f4bd19a
   - 1233363389c1
   - a65296ffb4a0
   - bcfce5aac49c

@@ -404,6 +404,7 @@ tools:
 - name: pretext_map
   owner: iuc
   revisions:
+  - 0346286a3b0a
   - c6cec5ab35c1
   - dfb8a4497339
   tool_panel_section_id: assembly
@@ -564,6 +565,7 @@ tools:
   owner: bgruening
   revisions:
   - 1f9f2edc8cf4
+  - bdfd7cef3438
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: instagraal

@@ -80,15 +80,3 @@ tools:
   owner: iuc
 - name: xmlstarlet
   owner: ecology
-- name: cpt_gff_split
-  owner: cpt
-- name: cpt_gbk_to_5col
-  owner: cpt
-- name: cpt_gff_to_gbk
-  owner: cpt
-- name: cpt_gbk_to_gff
-  owner: cpt
-- name: cpt_convert_mga
-  owner: cpt
-- name: cpt_fix_aragorn
-  owner: cpt

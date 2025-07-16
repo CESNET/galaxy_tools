@@ -189,6 +189,7 @@ tools:
 - name: intensity_checks
   owner: melpetera
   revisions:
+  - 2e580585782e
   - bdee2c2c484b
   - ec75de7f1e08
   tool_panel_section_id: metabolomics
@@ -294,6 +295,7 @@ tools:
   owner: recetox
   revisions:
   - 3e2cb0bc6959
+  - 646ef66527da
   - b5467dead5b1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -325,12 +327,6 @@ tools:
   - 4eb2de7c24d1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
-- name: bank_inhouse
-  owner: fgiacomoni
-  revisions:
-  - 52798007c6b2
-  tool_panel_section_id: metabolomics
-  tool_panel_section_label: Metabolomics
 - name: lcmsmatching
   owner: prog
   revisions:
@@ -347,6 +343,7 @@ tools:
 - name: nmr_preprocessing
   owner: marie-tremblay-metatoul
   revisions:
+  - 122df1bf0a8c
   - 68e2d63bece0
   - 6e837e9352a2
   tool_panel_section_id: metabolomics
@@ -453,6 +450,7 @@ tools:
 - name: qualitymetrics
   owner: ethevenot
   revisions:
+  - 25c9349d1be9
   - 6d3b7b6573d8
   - acdf51018708
   tool_panel_section_id: metabolomics
@@ -563,6 +561,7 @@ tools:
   revisions:
   - 19e45916daf9
   - 2d80c8b2dfc2
+  - 5c04f9decc01
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_differential_analysis
@@ -583,12 +582,14 @@ tools:
   owner: recetox
   revisions:
   - 3f96c93f8566
+  - 77d6425daa07
   - 7ba589b01dbc
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_formatter
   owner: recetox
   revisions:
+  - 604131c54f97
   - a5a5b147da70
   - ae45992f969e
   tool_panel_section_id: metabolomics
@@ -598,11 +599,13 @@ tools:
   revisions:
   - 09cabbc3d12d
   - da7722f665f4
+  - f52181a205d3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: ramclustr_define_experiment
   owner: recetox
   revisions:
+  - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -611,6 +614,7 @@ tools:
   revisions:
   - 13de8005adba
   - 83c4b4359ac4
+  - a6583110825c
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_fingerprint_similarity
@@ -618,6 +622,7 @@ tools:
   revisions:
   - df85b26201d1
   - fd890f162ce6
+  - fe9f3cd0b8dd
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: recetox_xmsannotator_advanced
@@ -630,6 +635,7 @@ tools:
 - name: matchms_metadata_export
   owner: recetox
   revisions:
+  - 51205379251d
   - 7504a8f93699
   - 8832425b1ff6
   tool_panel_section_id: metabolomics
@@ -639,11 +645,13 @@ tools:
   revisions:
   - 330b0dfae8da
   - b5b360897004
+  - c86d265f6f5e
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_networking
   owner: recetox
   revisions:
+  - 131baa30af82
   - 9982b85ff4e7
   - f04b378325e5
   tool_panel_section_id: metabolomics
@@ -657,6 +665,7 @@ tools:
 - name: matchms_convert
   owner: recetox
   revisions:
+  - 50836782d36f
   - 9e83636da9d3
   - d4609fbf8ca3
   tool_panel_section_id: metabolomics
@@ -664,6 +673,7 @@ tools:
 - name: matchms_split
   owner: recetox
   revisions:
+  - 6864944b00fd
   - 97be845e45c2
   - ea6c5636c0cf
   tool_panel_section_id: metabolomics
@@ -671,6 +681,8 @@ tools:
 - name: waveica
   owner: recetox
   revisions:
+  - 6fc9f6dbcef5
+  - 821062fc5782
   - bf32ae95a06f
   - dbbedb14b44c
   tool_panel_section_id: metabolomics

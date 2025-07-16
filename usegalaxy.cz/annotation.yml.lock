@@ -63,6 +63,7 @@ tools:
   revisions:
   - 2c68b0c38785
   - 45083d070fb8
+  - 60a1dad331ec
   - 8cb134b8c1a5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -218,24 +219,28 @@ tools:
   owner: iuc
   revisions:
   - 3f5fc4b09496
+  - d516fc63b6e5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: transit_resampling
   owner: iuc
   revisions:
   - 885459e1c83b
+  - a05b6a392ff0
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: transit_hmm
   owner: iuc
   revisions:
   - 7db455b6434b
+  - d6b029a6de63
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: transit_gumbel
   owner: iuc
   revisions:
   - 8fc50fe60127
+  - a6c8b6e47c51
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: tetyper
@@ -276,6 +281,7 @@ tools:
   owner: iuc
   revisions:
   - 07d7991bf205
+  - 661c164268cc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: gprofiler_snpense
@@ -717,12 +723,14 @@ tools:
   owner: iuc
   revisions:
   - 19f42b3ea391
+  - 81539b9ae80a
   - 9e776e7fab4f
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot
   owner: iuc
   revisions:
+  - 20d725740701
   - 52bdc302299b
   - 6b20d051d0dc
   - ce04c239454b
@@ -747,6 +755,7 @@ tools:
   - 438287deae4b
   - aeb4c76d007b
   - d6a874226260
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: red
@@ -817,124 +826,7 @@ tools:
   revisions:
   - a9b0b926e133
   - bd103884a09c
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_phageqc_annotations
-  owner: cpt
-  revisions:
-  - c3140b08d703
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_gff_extract_seq
-  owner: cpt
-  revisions:
-  - 3d9f283ff09d
-  - ab40380424c9
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_intron_detection
-  owner: cpt
-  revisions:
-  - 0a98d5259ef0
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_lipory
-  owner: cpt
-  revisions:
-  - 2654bcd9b14d
-  - b79df4966ebb
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_gbk_renumber
-  owner: cpt
-  revisions:
-  - 8cac332dbc77
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_genome_editor
-  owner: cpt
-  revisions:
-  - 0e8079ac24f8
-  - 78ce8a1a8fd1
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_annotation_table
-  owner: cpt
-  revisions:
-  - 6998c2570145
-  - 848dd74f4382
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_gff_rebase
-  owner: cpt
-  revisions:
-  - 4f4b413056f6
-  - d0b52c1d6b25
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_require_shine
-  owner: cpt
-  revisions:
-  - a6dc48930318
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_get_orfs
-  owner: cpt
-  revisions:
-  - f56389d8abda
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_gff_add_parents
-  owner: cpt
-  revisions:
-  - d839cfd1c3a6
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_fix_sixpack
-  owner: cpt
-  revisions:
-  - 326429ea1d33
-  - e23a13d56fce
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_shinefind
-  owner: cpt
-  revisions:
-  - 6a5aac2a4c89
-  - 75f99d20c2a2
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_type_filter
-  owner: cpt
-  revisions:
-  - a77124b86382
-  - d40c9632250f
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_req_phage_start
-  owner: cpt
-  revisions:
-  - 33b5403e0357
-  - 4962f275bcaa
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_remove_annotations
-  owner: cpt
-  revisions:
-  - 49f50c55a9f8
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_prep_for_apollo
-  owner: cpt
-  revisions:
-  - 6901154b1003
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_convert_glimmer
-  owner: cpt
-  revisions:
-  - 746e52d94b49
-  - faff58a642fb
+  - bec8f57c9d8e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: agat
@@ -956,12 +848,6 @@ tools:
   revisions:
   - 54b6b4d0613a
   - b5066aa77fea
-  tool_panel_section_id: annotation
-  tool_panel_section_label: Annotation
-- name: cpt_intersect_adjacent
-  owner: cpt
-  revisions:
-  - 7e393668b4b9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: blast2go

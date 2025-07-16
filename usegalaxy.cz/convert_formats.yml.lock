@@ -56,6 +56,7 @@ tools:
   revisions:
   - 19e45916daf9
   - 2d80c8b2dfc2
+  - 5c04f9decc01
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msconvert
@@ -78,6 +79,7 @@ tools:
 - name: crossmap_wig
   owner: iuc
   revisions:
+  - 754f70dd85ae
   - e72c320c17c1
   - f7229c8445da
   tool_panel_section_id: convert_formats
@@ -87,11 +89,13 @@ tools:
   revisions:
   - 18f7e96459d2
   - d4965adac10c
+  - d8649c4e4c3a
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
   owner: iuc
   revisions:
+  - 0eb744382179
   - 42b239a32349
   - 75a08e10cc76
   tool_panel_section_id: convert_formats
@@ -100,6 +104,7 @@ tools:
   owner: iuc
   revisions:
   - 50b7875a49d0
+  - b1c12a94db6f
   - ee86b27291b5
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -114,6 +119,7 @@ tools:
   revisions:
   - 158b5b2a164a
   - 6ee334657360
+  - 908df9a9f86b
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: mz_to_sqlite
@@ -224,6 +230,7 @@ tools:
 - name: ucsc_twobittofa
   owner: iuc
   revisions:
+  - 6e1aa95afa75
   - 8067dfa00ed2
   - e9bbe2f71784
   tool_panel_section_id: convert_formats
@@ -250,6 +257,7 @@ tools:
 - name: crossmap_region
   owner: iuc
   revisions:
+  - 4fba951013e2
   - a50ef4d58c90
   - eb66d7a04bf8
   tool_panel_section_id: convert_formats
@@ -259,6 +267,7 @@ tools:
   revisions:
   - 0b663ca9a961
   - 18dbde5680c0
+  - 85a38dffb93d
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: ab1_fastq_converter
@@ -277,47 +286,5 @@ tools:
   owner: ecology
   revisions:
   - 4a9ac1df3278
-  tool_panel_section_id: convert_formats
-  tool_panel_section_label: Convert Formats
-- name: cpt_gff_split
-  owner: cpt
-  revisions:
-  - 8bd03ba8510a
-  - ba8b6a5ffd9e
-  tool_panel_section_id: convert_formats
-  tool_panel_section_label: Convert Formats
-- name: cpt_gbk_to_5col
-  owner: cpt
-  revisions:
-  - 1bdd481d5c25
-  - 8f5f2142fc2b
-  tool_panel_section_id: convert_formats
-  tool_panel_section_label: Convert Formats
-- name: cpt_gff_to_gbk
-  owner: cpt
-  revisions:
-  - 03384dbb511d
-  - 35a6c466e270
-  tool_panel_section_id: convert_formats
-  tool_panel_section_label: Convert Formats
-- name: cpt_gbk_to_gff
-  owner: cpt
-  revisions:
-  - a921d6148d88
-  - bb6332a85aa6
-  tool_panel_section_id: convert_formats
-  tool_panel_section_label: Convert Formats
-- name: cpt_convert_mga
-  owner: cpt
-  revisions:
-  - 1bf722ba06e3
-  - 2c83f55438c9
-  tool_panel_section_id: convert_formats
-  tool_panel_section_label: Convert Formats
-- name: cpt_fix_aragorn
-  owner: cpt
-  revisions:
-  - 733cb0807083
-  - 8da37080e35f
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

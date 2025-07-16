@@ -240,50 +240,12 @@ tools:
   owner: iuc
 - name: braker3
   owner: genouest
-- name: cpt_phageqc_annotations
-  owner: cpt
-- name: cpt_gff_extract_seq
-  owner: cpt
-- name: cpt_intron_detection
-  owner: cpt
-- name: cpt_lipory
-  owner: cpt
-- name: cpt_gbk_renumber
-  owner: cpt
-- name: cpt_genome_editor
-  owner: cpt
-- name: cpt_annotation_table
-  owner: cpt
-- name: cpt_gff_rebase
-  owner: cpt
-- name: cpt_require_shine
-  owner: cpt
-- name: cpt_get_orfs
-  owner: cpt
-- name: cpt_gff_add_parents
-  owner: cpt
-- name: cpt_fix_sixpack
-  owner: cpt
-- name: cpt_shinefind
-  owner: cpt
-- name: cpt_type_filter
-  owner: cpt
-- name: cpt_req_phage_start
-  owner: cpt
-- name: cpt_remove_annotations
-  owner: cpt
-- name: cpt_prep_for_apollo
-  owner: cpt
-- name: cpt_convert_glimmer
-  owner: cpt
 - name: agat
   owner: bgruening
 - name: helixer
   owner: genouest
 - name: hmmer3
   owner: iuc
-- name: cpt_intersect_adjacent
-  owner: cpt
 - name: blast2go
   owner: peterjc
 - name: funannotate_predict

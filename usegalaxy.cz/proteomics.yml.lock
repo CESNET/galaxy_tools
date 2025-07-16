@@ -68,6 +68,7 @@ tools:
   owner: iuc
   revisions:
   - 387d3633cade
+  - 8e27ee06aea4
   - 9b67a50799e9
   - d3adf102f1a5
   - de26b312c0d2
@@ -1572,6 +1573,7 @@ tools:
 - name: proteinortho
   owner: iuc
   revisions:
+  - 16888c5c9ed5
   - 5532c0e5d4a6
   - 6140163233a5
   - 85c411546123
@@ -1583,6 +1585,7 @@ tools:
   revisions:
   - 1187ff061d62
   - 36dffb2bc194
+  - a83f63833669
   - a87f7278b4ee
   - e2a8e134e928
   tool_panel_section_id: proteomics
@@ -2030,6 +2033,7 @@ tools:
   - 4d3da69301ae
   - 9fa3dbf06f17
   - ae4dc0c041f9
+  - be5a0b2d8bd7
   - ff8c9e0e8a7b
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics

@@ -13,6 +13,7 @@ tools:
   revisions:
   - 468b90c41cde
   - 6f52ebc01098
+  - 7021ed347f7e
   - 93cfe7df7f8a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -22,6 +23,7 @@ tools:
   - 00e20a06ff1e
   - 311d11c4a68b
   - 372def2f8fd6
+  - c23737f9714f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: manta
@@ -35,6 +37,7 @@ tools:
   owner: iuc
   revisions:
   - 5f0d3c6f4e59
+  - 81f337815c1b
   - 8ada4c573595
   - e8971ca74398
   tool_panel_section_id: variant_calling
@@ -119,6 +122,7 @@ tools:
   owner: iuc
   revisions:
   - 4f3c5e634679
+  - c192a2c7ef00
   - fb20fa735dfe
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -509,6 +513,7 @@ tools:
   owner: devteam
   revisions:
   - 1e1291983bc7
+  - 85dc96ebc770
   - a5937157062f
   - e698621cca1f
   tool_panel_section_id: variant_calling
@@ -789,6 +794,7 @@ tools:
   revisions:
   - 553b27c30eb8
   - 563fd95fa88a
+  - de7a6727f578
   - f75bf16ac901
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -825,6 +831,8 @@ tools:
 - name: ensembl_vep
   owner: iuc
   revisions:
+  - 3a5a201f0bff
+  - 543f208417cb
   - 7572cb1cdd96
   - b43df0ce6c87
   - b8c112397c5e
@@ -855,6 +863,7 @@ tools:
   owner: iuc
   revisions:
   - 78df8fc2b3ab
+  - 98c227b9be71
   - a40dd4fd3096
   - d9965e143053
   tool_panel_section_id: variant_calling

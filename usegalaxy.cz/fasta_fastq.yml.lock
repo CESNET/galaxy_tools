@@ -22,6 +22,7 @@ tools:
   owner: lparsons
   revisions:
   - 135b80fb1ac2
+  - 80766b36005d
   - 8c0175e03cee
   - c0b2c2e39c9c
   tool_panel_section_id: fasta_fastq
@@ -260,7 +261,10 @@ tools:
   revisions:
   - 10678d49d39e
   - 25c59c0ceb55
+  - 281054a26e41
+  - 480ddbd12a03
   - 65b93b623c77
+  - e25816738ef3
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_filter_by_length
@@ -336,6 +340,7 @@ tools:
   owner: iuc
   revisions:
   - 3da72230c066
+  - 8511b6d85fc7
   - a019807f4e67
   - a09586d5149a
   tool_panel_section_id: fasta_fastq
@@ -413,6 +418,7 @@ tools:
 - name: ucsc_fasplit
   owner: iuc
   revisions:
+  - 1add611a6018
   - bf04bd405d5b
   - d3f58a0dc09d
   tool_panel_section_id: fasta_fastq
@@ -573,6 +579,7 @@ tools:
 - name: seqkit_stats
   owner: iuc
   revisions:
+  - 3d6d1121a427
   - 54a954ee64d4
   - b9297580f1e0
   tool_panel_section_id: fasta_fastq
@@ -581,6 +588,7 @@ tools:
   owner: iuc
   revisions:
   - 2fa2353fe3ab
+  - 654a2f089252
   - b1b12eaebfa9
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -597,6 +605,7 @@ tools:
   - 571e6933e972
   - 642d73815dd1
   - 6510652376b1
+  - fe7a1e57a6cf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_regex_finder
@@ -618,12 +627,6 @@ tools:
   revisions:
   - c05232655d00
   - c9e516d65a3d
-  tool_panel_section_id: fasta_fastq
-  tool_panel_section_label: FASTA/FASTQ
-- name: cpt_fasta_remove_id
-  owner: cpt
-  revisions:
-  - 78222649a59a
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: prinseq

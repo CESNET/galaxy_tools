@@ -308,21 +308,3 @@ tools:
   - 881f2faa5fe7
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
-- name: cpt_related_genomes_nuc
-  owner: cpt
-  revisions:
-  - 5a5fe0a6f78d
-  tool_panel_section_id: phylogenetics
-  tool_panel_section_label: Phylogenetics
-- name: cpt_related_genomes_prot
-  owner: cpt
-  revisions:
-  - ebcc87a27f9c
-  tool_panel_section_id: phylogenetics
-  tool_panel_section_label: Phylogenetics
-- name: cpt_xmfa_to_table
-  owner: cpt
-  revisions:
-  - 06d8e28d0bd7
-  tool_panel_section_id: phylogenetics
-  tool_panel_section_label: Phylogenetics

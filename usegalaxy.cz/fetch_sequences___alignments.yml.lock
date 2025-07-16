@@ -27,5 +27,6 @@ tools:
   revisions:
   - 571e6933e972
   - 642d73815dd1
+  - fe7a1e57a6cf
   tool_panel_section_id: fetch_sequences___alignments
   tool_panel_section_label: Fetch Sequences / Alignments

@@ -124,24 +124,10 @@ tools:
   owner: bgruening
 - name: pfamscan
   owner: bgruening
-- name: cpt_phageqc_annotations
-  owner: cpt
-- name: cpt_intron_detection
-  owner: cpt
-- name: cpt_gbk_renumber
-  owner: cpt
-- name: cpt_require_shine
-  owner: cpt
 - name: tb_variant_filter
   owner: iuc
 - name: pharokka
   owner: iuc
-- name: cpt_gff_add_parents
-  owner: cpt
-- name: cpt_remove_annotations
-  owner: cpt
-- name: cpt_prep_for_apollo
-  owner: cpt
 - name: funannotate_predict
   owner: iuc
 - name: funannotate_compare

@@ -302,9 +302,3 @@ tools:
   - 0b7ec11b3c7c
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
-- name: cpt_fasta_remove_id
-  owner: cpt
-  revisions:
-  - 78222649a59a
-  tool_panel_section_id: fasta_fastq
-  tool_panel_section_label: FASTA/FASTQ

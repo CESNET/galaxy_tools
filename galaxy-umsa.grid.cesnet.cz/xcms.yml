@@ -18,3 +18,5 @@ tools:
   owner: lecorguille
 - name: xcms_export_samplemetadata
   owner: lecorguille
+- name: xcms_refine
+  owner: workflow4metabolomics

@@ -61,10 +61,40 @@ tools:
   - f87634b12749
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
-- name: rcx_boxplot
-  owner: recetox
+- name: ggplot2_boxplot
+  owner: iuc
   revisions:
-  - 92325ed91115
+  - 653803fab921
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: ggplot2_barplot
+  owner: iuc
+  revisions:
+  - 41e9114cc7cd
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: seaborn
+  owner: iuc
+  revisions:
+  - 293a939f28c8
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: seaborn_pairgrid
+  owner: iuc
+  revisions:
+  - 4a46d83cb08f
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: upsetplot
+  owner: iuc
+  revisions:
+  - ec6141f6e5cb
+  tool_panel_section_id: visualization
+  tool_panel_section_label: Visualization
+- name: maplot
+  owner: iuc
+  revisions:
+  - e9212adafd7a
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: heatmap

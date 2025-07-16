@@ -6,29 +6,39 @@ tools:
   owner: ecology
   revisions:
   - 74e966baa5fd
+  - c1d03f1a2e80
+  - cc9ea890823c
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization
 - name: ecoregion_brt_analysis
   owner: ecology
   revisions:
   - 3cc4b8bbce00
+  - 694738eda0dc
+  - aba980404954
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization
 - name: ecoregion_eco_map
   owner: ecology
   revisions:
   - 45784ebada45
+  - 57c618532ac1
+  - c2856067ee72
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization
 - name: ecoregion_cluster_estimate
   owner: ecology
   revisions:
+  - 0578979cfd83
+  - 6c5404468d8c
   - cf7aefee9977
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization
 - name: ecoregion_taxa_seeker
   owner: ecology
   revisions:
+  - 14bad9452425
   - 2152f424e7a2
+  - 68d98dbd8bfc
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization
