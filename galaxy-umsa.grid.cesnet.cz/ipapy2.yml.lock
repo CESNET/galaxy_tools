@@ -39,13 +39,15 @@ tools:
   - 774152f21f29
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
-- name: ipapy2_MS1_annotation
+- name: ipapy2_ms1_annotation
   owner: recetox
-  revisions: []
+  revisions:
+  - 7f84a8a5edde
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
-- name: ipapy2_MS2_annotation
+- name: ipapy2_ms2_annotation
   owner: recetox
-  revisions: []
+  revisions:
+  - 6a23970e8093
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
