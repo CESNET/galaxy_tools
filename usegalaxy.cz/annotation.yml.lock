@@ -723,12 +723,14 @@ tools:
   owner: iuc
   revisions:
   - 19f42b3ea391
+  - 81539b9ae80a
   - 9e776e7fab4f
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot
   owner: iuc
   revisions:
+  - 20d725740701
   - 52bdc302299b
   - 6b20d051d0dc
   - ce04c239454b
@@ -753,6 +755,7 @@ tools:
   - 438287deae4b
   - aeb4c76d007b
   - d6a874226260
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: red
