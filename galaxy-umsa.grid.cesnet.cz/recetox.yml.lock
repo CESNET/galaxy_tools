@@ -21,6 +21,7 @@ tools:
   owner: recetox
   revisions:
   - 3e2cb0bc6959
+  - 646ef66527da
   - b5467dead5b1
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -45,6 +46,7 @@ tools:
   - 071a424241ec
   - 1a2aeb8137bf
   - 6480c6d5fa36
+  - 821062fc5782
   - bf32ae95a06f
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -53,6 +55,7 @@ tools:
   revisions:
   - 050cfef6ba65
   - da7722f665f4
+  - f52181a205d3
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: rmassbank
@@ -89,6 +92,7 @@ tools:
   owner: recetox
   revisions:
   - 25625114618e
+  - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -103,6 +107,7 @@ tools:
   owner: galaxyp
   revisions:
   - 19e45916daf9
+  - 5c04f9decc01
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: assign_ri_from_comment
@@ -129,6 +134,7 @@ tools:
   owner: recetox
   revisions:
   - 54401f9d1a30
+  - 9b4b624c4d60
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: ms2deepscore_config_generator
@@ -159,6 +165,7 @@ tools:
 - name: isolib
   owner: recetox
   revisions:
+  - 06f2d0d6d107
   - 2b1118bce0b1
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX

@@ -46,3 +46,13 @@ tools:
   owner: recetox
 - name: isolib
   owner: recetox
+- name: wtv
+  owner: recetox
+- name: mzspeclib_convert
+  owner: recetox
+- name: mzspeclib_describe
+  owner: recetox
+- name: mzspeclib_validate
+  owner: recetox
+- name: mztabm_validate
+  owner: recetox
