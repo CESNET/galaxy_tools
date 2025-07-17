@@ -172,3 +172,33 @@ tools:
   - f0fe957df1cc
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
+- name: wtv
+  owner: recetox
+  revisions:
+  - 07b7a1012916
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX
+- name: mzspeclib_convert
+  owner: recetox
+  revisions:
+  - 02cf8faa2cd2
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX
+- name: mzspeclib_describe
+  owner: recetox
+  revisions:
+  - 4484e5822a6b
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX
+- name: mzspeclib_validate
+  owner: recetox
+  revisions:
+  - 884e26ef99ce
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX
+- name: mztabm_validate
+  owner: recetox
+  revisions:
+  - '520706977927'
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX

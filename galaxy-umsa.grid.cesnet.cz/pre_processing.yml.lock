@@ -20,3 +20,9 @@ tools:
   - 00e058234fbf
   tool_panel_section_id: pre_processing
   tool_panel_section_label: Pre-processing
+- name: bioconductor_mzr
+  owner: recetox
+  revisions:
+  - 42e59b8e9e0b
+  tool_panel_section_id: pre_processing
+  tool_panel_section_label: Pre-processing
