@@ -6,3 +6,5 @@ tools:
   owner: recetox
 - name: bioconductor_msnbase_smooth_mz
   owner: recetox
+- name: bioconductor_mzr
+  owner: recetox

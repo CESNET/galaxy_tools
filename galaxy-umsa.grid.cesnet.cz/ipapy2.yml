@@ -1,0 +1,18 @@
+tool_panel_section_label: ipapy2
+tools:
+- name: ipapy2_clustering
+  owner: recetox
+- name: ipapy2_compute_all_adducts
+  owner: recetox
+- name: ipapy2_compute_bio
+  owner: recetox
+- name: ipapy2_gibbs_sampler_add
+  owner: recetox
+- name: ipapy2_gibbs_sampler
+  owner: recetox
+- name: ipapy2_map_isotope_patterns
+  owner: recetox
+- name: ipapy2_ms1_annotation
+  owner: recetox
+- name: ipapy2_ms2_annotation
+  owner: recetox
