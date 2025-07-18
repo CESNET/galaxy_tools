@@ -56,3 +56,5 @@ tools:
   owner: recetox
 - name: mztabm_validate
   owner: recetox
+- name: freqsap
+  owner: recetox
