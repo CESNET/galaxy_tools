@@ -12,6 +12,7 @@ tools:
 - name: graphicsmagick_image_convert
   owner: bgruening
   revisions:
+  - 0ecf92b5a7c5
   - 3ae9331790a6
   - 4e9a3745dce4
   - 8f46605c84ec
@@ -683,6 +684,7 @@ tools:
   owner: goeckslab
   revisions:
   - 5f4a4dd06bc9
+  - 64609b94f90f
   - 6df8d6e42152
   - db3053f1b878
   - e860ca30cd0b
@@ -695,6 +697,7 @@ tools:
   - 70c8be4d59e9
   - 97be83fc3677
   - 9f60ef2d586e
+  - cab38f254824
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: squidpy

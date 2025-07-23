@@ -195,11 +195,13 @@ tools:
   - 3e81299dfce3
   - 601575b847c0
   - 7e2ee5f43778
+  - ab55af10f1ff
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: graphicsmagick_image_convert
   owner: bgruening
   revisions:
+  - 0ecf92b5a7c5
   - 3ae9331790a6
   - 4e9a3745dce4
   - 8f46605c84ec
