@@ -253,6 +253,7 @@ tools:
 - name: augustus_training
   owner: bgruening
   revisions:
+  - 2fdc599f2814
   - aada0deea587
   - dc027fa56d55
   tool_panel_section_id: annotation
@@ -262,6 +263,7 @@ tools:
   revisions:
   - 0fc0f9cf035a
   - 28433faa6e42
+  - 534814b64234
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: fargene
@@ -824,6 +826,7 @@ tools:
 - name: braker3
   owner: genouest
   revisions:
+  - 0be6820e3268
   - a9b0b926e133
   - bd103884a09c
   - bec8f57c9d8e
