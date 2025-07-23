@@ -202,3 +202,9 @@ tools:
   - '520706977927'
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
+- name: freqsap
+  owner: recetox
+  revisions:
+  - ddabfd6ee2a2
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX
