@@ -6,6 +6,7 @@ tools:
   owner: ecology
   revisions:
   - 74e966baa5fd
+  - 893b2b010d4a
   - c1d03f1a2e80
   - cc9ea890823c
   tool_panel_section_id: ecoregionalization
@@ -16,6 +17,7 @@ tools:
   - 3cc4b8bbce00
   - 694738eda0dc
   - aba980404954
+  - dcc059f387b6
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization
 - name: ecoregion_eco_map
@@ -23,6 +25,7 @@ tools:
   revisions:
   - 45784ebada45
   - 57c618532ac1
+  - 876a70f08281
   - c2856067ee72
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization
@@ -31,6 +34,7 @@ tools:
   revisions:
   - 0578979cfd83
   - 6c5404468d8c
+  - 8307fa98be22
   - cf7aefee9977
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization
@@ -40,5 +44,6 @@ tools:
   - 14bad9452425
   - 2152f424e7a2
   - 68d98dbd8bfc
+  - cec1f7495897
   tool_panel_section_id: ecoregionalization
   tool_panel_section_label: Ecoregionalization

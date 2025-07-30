@@ -205,6 +205,7 @@ tools:
 - name: ncbi_datasets
   owner: iuc
   revisions:
+  - 03a801ded645
   - 0f3b3813b6ae
   - 1e188c9610c3
   - 75acf92c8fd5

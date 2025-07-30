@@ -802,6 +802,7 @@ tools:
   revisions:
   - 31d5c8c3adde
   - 3c5e024a18cf
+  - a3e78550e42e
   - f99dd58de04f
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

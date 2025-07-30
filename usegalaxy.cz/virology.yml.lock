@@ -68,6 +68,7 @@ tools:
   - 08c2d81e7942
   - 11c062caec10
   - 1f467ed22412
+  - eccec0876e54
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: freyja_demix
@@ -75,12 +76,14 @@ tools:
   revisions:
   - c0a0e79d7196
   - e7a2086a0f03
+  - e9f497a660d6
   - fc6252e78d5b
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: freyja_boot
   owner: iuc
   revisions:
+  - 2d1bfff73837
   - a09398bc953a
   - cd5d77d118f2
   - dda5772507b2
@@ -91,6 +94,7 @@ tools:
   revisions:
   - 0ceb9fb0f4ce
   - 1f89eeba299a
+  - 3d9253661554
   - 640c0b8cc8bf
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
