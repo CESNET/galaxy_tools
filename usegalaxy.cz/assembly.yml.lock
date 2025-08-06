@@ -126,6 +126,7 @@ tools:
   revisions:
   - 5732f959936a
   - 86f150c8019d
+  - e05f5ee0ffb9
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: mitobim
@@ -545,6 +546,7 @@ tools:
   owner: devteam
   revisions:
   - 920677cd220f
+  - e0e4fc474b07
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: cap3

@@ -128,6 +128,7 @@ tools:
   owner: bgruening
   revisions:
   - 054483e27a35
+  - 60f7e2a6b9c7
   - 95fb5712344f
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
@@ -210,6 +211,7 @@ tools:
   - 1e188c9610c3
   - 75acf92c8fd5
   - 7b925f7c50b2
+  - 95be88b49f4e
   - a6a475ed58cb
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
