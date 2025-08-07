@@ -39,5 +39,11 @@ tools:
   - d2cf2c0c8a11
   - e28c965eeed4
   - f2e8552cf1d0
-  tool_panel_section_id: fasta_fastq
-  tool_panel_section_label: FASTA/FASTQ
+  tool_panel_section_id: quality_control
+  tool_panel_section_label: Quality Control
+- name: falco
+  owner: iuc
+  revisions:
+  - 959a14c1f2dd
+  tool_panel_section_id: quality_control
+  tool_panel_section_label: Quality Control
