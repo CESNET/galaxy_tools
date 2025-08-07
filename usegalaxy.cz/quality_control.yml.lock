@@ -25,3 +25,19 @@ tools:
   - 7a821cd57b43
   tool_panel_section_id: quality_control
   tool_panel_section_label: Quality Control
+- name: fastqc
+  owner: devteam
+  revisions:
+  - 28d39af2dd06
+  - 2c64fded1286
+  - 2d094334f61e
+  - 3d0c7bdf12f5
+  - 3fdc1a74d866
+  - 484e86282f4b
+  - 5ec9f6bceaee
+  - a00a6402d09a
+  - d2cf2c0c8a11
+  - e28c965eeed4
+  - f2e8552cf1d0
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ

@@ -4,3 +4,7 @@ tools:
   owner: iuc
 - name: fastq_info
   owner: bgruening
+- name: fastqc
+  owner: devteam
+- name: falco
+  owner: iuc
