@@ -1,7 +1,5 @@
 tool_panel_section_label: FASTA/FASTQ
 tools:
-- name: fastqc
-  owner: devteam
 - name: cutadapt
   owner: lparsons
 - name: fastqe
