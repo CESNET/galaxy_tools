@@ -208,3 +208,9 @@ tools:
   - ddabfd6ee2a2
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
+- name: use_theoretical_mz_annotations
+  owner: recetox
+  revisions:
+  - 34d6b282ab6a
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX

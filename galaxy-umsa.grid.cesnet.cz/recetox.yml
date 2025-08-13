@@ -58,3 +58,5 @@ tools:
   owner: recetox
 - name: freqsap
   owner: recetox
+- name: use_theoretical_mz_annotations
+  owner: recetox
