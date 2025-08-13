@@ -963,6 +963,7 @@ tools:
   - 416bfa61b640
   - 5ae13a156271
   - 68d2cd0be567
+  - a490494875c7
   - a6f004bc73bf
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -974,12 +975,14 @@ tools:
   - 99ff9221182c
   - b5a7583b8db0
   - bcb50c148f4b
+  - fdb13ee4be38
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin_train
   owner: iuc
   revisions:
   - 08cc1cd58f38
+  - 14046254799c
   - 191a3a14a7f1
   - 2344bc30a326
   - 43df7a4c33a2
@@ -993,6 +996,7 @@ tools:
   - 07bf5268724f
   - 0ae1a2636de5
   - 40ffba87bbcf
+  - 8ba0c2edf3f3
   - ff4e487f4f7e
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1003,6 +1007,7 @@ tools:
   - 474701f91bcd
   - 4d561bdc2c31
   - 552cfc6ed475
+  - 8317c7dc6407
   - dbf5571a8140
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1010,6 +1015,7 @@ tools:
   owner: iuc
   revisions:
   - 298542e0e136
+  - 2c7ed948eeed
   - c72b50829c03
   - dcc81bfe5f6a
   - e0aae2cd891e

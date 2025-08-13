@@ -7,6 +7,7 @@ tools:
   revisions:
   - 11a0d50a54e6
   - 66367287b4e6
+  - 6945cd53bd2d
   - be1d967337e4
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -186,6 +187,7 @@ tools:
   - 6da3972210ee
   - 95219305823a
   - a6ea26c1f225
+  - b7ce99273d62
   - cf1322aeb137
   - f7094efef903
   tool_panel_section_id: mapping

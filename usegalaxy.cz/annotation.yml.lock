@@ -531,6 +531,7 @@ tools:
   revisions:
   - 3b974afde673
   - b3d25fae5389
+  - b6ec80429d54
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: dotknot
