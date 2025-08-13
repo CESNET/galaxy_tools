@@ -10,3 +10,5 @@ tools:
   owner: recetox
 - name: table_scipy_interpolate
   owner: recetox
+- name: column_remove_by_header
+  owner: iuc

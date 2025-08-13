@@ -32,3 +32,9 @@ tools:
   - 0112f08c95ed
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
+- name: column_remove_by_header
+  owner: iuc
+  revisions:
+  - 2040e4c2750a
+  tool_panel_section_id: table_manipulation
+  tool_panel_section_label: Table Manipulation
