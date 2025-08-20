@@ -5,6 +5,7 @@ tools:
 - name: table_pandas_arithmetics
   owner: recetox
   revisions:
+  - 19968a1b4068
   - d4bacc06365e
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
@@ -12,24 +13,28 @@ tools:
   owner: recetox
   revisions:
   - 3f54cd56a65e
+  - 8537763e4713
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
 - name: table_pandas_rename_columns_regex
   owner: recetox
   revisions:
   - 505a8e975968
+  - 628a75ad9685
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
 - name: table_pandas_transform
   owner: recetox
   revisions:
   - b722dba91064
+  - eaddbdff9dbf
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
 - name: table_scipy_interpolate
   owner: recetox
   revisions:
   - 0112f08c95ed
+  - ac42a5982210
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
 - name: column_remove_by_header

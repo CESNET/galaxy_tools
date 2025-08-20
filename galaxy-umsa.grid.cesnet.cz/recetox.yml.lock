@@ -21,6 +21,7 @@ tools:
   owner: recetox
   revisions:
   - 3e2cb0bc6959
+  - 560053b805d2
   - 646ef66527da
   - b5467dead5b1
   tool_panel_section_id: recetox
@@ -64,6 +65,7 @@ tools:
   revisions:
   - 0b28816c1c2c
   - 5a6bb93ec656
+  - 60c2da112839
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: biotransformer
@@ -71,6 +73,7 @@ tools:
   revisions:
   - 0b86600b715e
   - 0f1b15d51801
+  - 200c5c982dba
   - 6cd2a9e6ac49
   - e5fcba090b10
   tool_panel_section_id: recetox
@@ -85,6 +88,7 @@ tools:
 - name: riassigner
   owner: recetox
   revisions:
+  - 984d5fa7acf5
   - af25aa61c611
   - c702620c22b1
   tool_panel_section_id: recetox
@@ -212,5 +216,6 @@ tools:
   owner: recetox
   revisions:
   - 34d6b282ab6a
+  - c68193aed29e
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
