@@ -244,6 +244,7 @@ tools:
   owner: iuc
   revisions:
   - 10678d49d39e
+  - 1c183b0a6cfd
   - 25c59c0ceb55
   - 281054a26e41
   - 480ddbd12a03
@@ -364,6 +365,7 @@ tools:
 - name: filtlong
   owner: iuc
   revisions:
+  - 1dfbdcbf604b
   - 1f296803dfa3
   - 41b2ad601cf0
   tool_panel_section_id: fasta_fastq
@@ -566,6 +568,7 @@ tools:
   - 3d6d1121a427
   - 54a954ee64d4
   - b9297580f1e0
+  - e48648aabfae
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_fx2tab
@@ -574,6 +577,7 @@ tools:
   - 2fa2353fe3ab
   - 654a2f089252
   - b1b12eaebfa9
+  - b91a71153b2f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: adapter_removal
@@ -589,6 +593,7 @@ tools:
   - 571e6933e972
   - 642d73815dd1
   - 6510652376b1
+  - da7af338cf11
   - fe7a1e57a6cf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
