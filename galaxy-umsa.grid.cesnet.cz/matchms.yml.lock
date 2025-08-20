@@ -7,6 +7,7 @@ tools:
   revisions:
   - 5bbd1a8404f5
   - 6ac4a790adad
+  - 8f5a1e44b15c
   - a598091029ad
   - cab0e4dcf372
   tool_panel_section_id: matchms
@@ -15,6 +16,7 @@ tools:
   owner: recetox
   revisions:
   - 1fd950c5586a
+  - e052eac8be4a
   - e23c14cee5a9
   - ec25de0f0c58
   - fc1a698a71e8
@@ -27,6 +29,7 @@ tools:
   - 51da674b945d
   - 7c5b86026e57
   - a5d41764722d
+  - d5a50ec6035d
   tool_panel_section_id: matchms
   tool_panel_section_label: matchms
 - name: matchms_networking
@@ -35,6 +38,7 @@ tools:
   - 131baa30af82
   - 3cd1cf3034d1
   - ab8a33c370f5
+  - c42b977ec884
   - f04b378325e5
   tool_panel_section_id: matchms
   tool_panel_section_label: matchms
@@ -43,6 +47,7 @@ tools:
   revisions:
   - 05a7fc94e66c
   - 330b0dfae8da
+  - 5c379988b7ea
   - 844d32c59314
   - c86d265f6f5e
   tool_panel_section_id: matchms
@@ -54,12 +59,14 @@ tools:
   - 44e7027714d7
   - 77d6425daa07
   - 7ba589b01dbc
+  - b2c7b7705734
   tool_panel_section_id: matchms
   tool_panel_section_label: matchms
 - name: matchms_metadata_export
   owner: recetox
   revisions:
   - 51205379251d
+  - 86727e1d0866
   - 8832425b1ff6
   - cbadbec49b5d
   - dd49ef90297c
@@ -69,6 +76,7 @@ tools:
   owner: recetox
   revisions:
   - 1d3ee4f9f63d
+  - 1ffbd537984f
   - ad9d2d1b2b8d
   - fd890f162ce6
   - fe9f3cd0b8dd
@@ -78,6 +86,7 @@ tools:
   owner: recetox
   revisions:
   - 50836782d36f
+  - 5611c132f607
   - 692471e62c68
   - 9e83636da9d3
   - bff7bfcf975e
@@ -87,6 +96,7 @@ tools:
   owner: recetox
   revisions:
   - 07cac38cbd29
+  - 3f7790b73906
   - 83c4b4359ac4
   - a6583110825c
   - da15e8ea3b28
@@ -97,6 +107,7 @@ tools:
   revisions:
   - 446fddefcee7
   - 6864944b00fd
+  - 7676700d7c4f
   - ea6c5636c0cf
   - fc1bc38ede0b
   tool_panel_section_id: matchms
@@ -107,12 +118,14 @@ tools:
   - 0a64e2bcce96
   - 10908b5bb7c8
   - 19367db5cf3c
+  - ef233c08112e
   - fbdb2ae524df
   tool_panel_section_id: matchms
   tool_panel_section_label: matchms
 - name: matchms_formatter
   owner: recetox
   revisions:
+  - 5fa29e292e12
   - 604131c54f97
   - 6501d0287dcd
   - a5a5b147da70
@@ -125,12 +138,14 @@ tools:
   - 6fa0150f6172
   - 80df426e7e47
   - c24ebd41dd53
+  - c7be8e58a6af
   - d50ce2f51fc0
   tool_panel_section_id: matchms
   tool_panel_section_label: matchms
 - name: matchms_matchms_export_skyline_transition_list
   owner: recetox
   revisions:
+  - 314dc0e8bf3f
   - 535eadf882a3
   - 8aa0014a5ad4
   tool_panel_section_id: matchms
