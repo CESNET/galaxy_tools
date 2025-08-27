@@ -885,6 +885,7 @@ tools:
   - 31f8063eedea
   - 765e685641ce
   - 7acb00fc980a
+  - a2c1c52a7e47
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: arriba_get_filters
@@ -893,12 +894,14 @@ tools:
   - 32e542c2a773
   - 6d1f577b3e47
   - 7a5a2d28c539
+  - 88e27e10b1ed
   - acbda5dc6955
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: arriba
   owner: iuc
   revisions:
+  - 0da0b2dc624c
   - 3d61a698e5e1
   - 45c2ec061cf9
   - 6535dd4a4064
