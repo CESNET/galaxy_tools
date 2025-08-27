@@ -568,6 +568,7 @@ tools:
   - 3d6d1121a427
   - 54a954ee64d4
   - b9297580f1e0
+  - dffafc82f0ae
   - e48648aabfae
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -578,6 +579,7 @@ tools:
   - 654a2f089252
   - b1b12eaebfa9
   - b91a71153b2f
+  - bf232552f5fe
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: adapter_removal
@@ -590,6 +592,7 @@ tools:
 - name: seqkit_locate
   owner: iuc
   revisions:
+  - 0acbccd721b9
   - 571e6933e972
   - 642d73815dd1
   - 6510652376b1

@@ -25,6 +25,7 @@ tools:
 - name: seqkit_locate
   owner: iuc
   revisions:
+  - 0acbccd721b9
   - 571e6933e972
   - 642d73815dd1
   - da7af338cf11
