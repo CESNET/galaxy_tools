@@ -115,6 +115,7 @@ tools:
   - 4f3c5e634679
   - c192a2c7ef00
   - cdcaa40e5e45
+  - ecc7758d828f
   - fb20fa735dfe
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF

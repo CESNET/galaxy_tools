@@ -966,6 +966,7 @@ tools:
   revisions:
   - 915637bd1d1a
   - aaa868913641
+  - fd25e549f512
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin_generate_cannot_links
