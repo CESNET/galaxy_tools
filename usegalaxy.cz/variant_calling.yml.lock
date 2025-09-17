@@ -196,6 +196,7 @@ tools:
 - name: cutesv
   owner: iuc
   revisions:
+  - 278efc44f61a
   - c0f8fe52948e
   - cb441f258c37
   - ccc439243918
@@ -834,6 +835,7 @@ tools:
 - name: ensembl_vep
   owner: iuc
   revisions:
+  - 227838fa7fa6
   - 3a5a201f0bff
   - 543f208417cb
   - 7572cb1cdd96
