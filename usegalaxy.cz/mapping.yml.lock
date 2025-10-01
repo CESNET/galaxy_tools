@@ -101,6 +101,7 @@ tools:
   - c1ec08cb34f9
   - ceb6467e276c
   - d5ceb9f3c25b
+  - f76cbb84d67f
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: segemehl

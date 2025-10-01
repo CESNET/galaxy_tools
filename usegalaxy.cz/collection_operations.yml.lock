@@ -6,6 +6,7 @@ tools:
   owner: imgteam
   revisions:
   - 38eec75fbe9b
+  - 4634764e6e2b
   - 57f0914ddb7b
   tool_panel_section_id: collection_operations
   tool_panel_section_label: Collection Operations
