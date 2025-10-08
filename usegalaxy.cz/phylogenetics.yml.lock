@@ -7,11 +7,13 @@ tools:
   revisions:
   - 0407236012e5
   - 9d83d1ab0330
+  - e0d7277ae941
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphy_busted
   owner: iuc
   revisions:
+  - 5da8672e89a3
   - caf23deba39a
   - e908c4003bd8
   tool_panel_section_id: phylogenetics
@@ -21,6 +23,7 @@ tools:
   revisions:
   - 35723f87964d
   - 4515f2f64e13
+  - ab9d1d5d5e29
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphy_gard
@@ -28,12 +31,14 @@ tools:
   revisions:
   - 5b777002c2de
   - 659517798cc4
+  - 9127799ac97e
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphy_absrel
   owner: iuc
   revisions:
   - '841557158611'
+  - 8db8d509d51b
   - a6619171428e
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
@@ -41,6 +46,7 @@ tools:
   owner: iuc
   revisions:
   - 1b893cdead55
+  - 6bc07d6011c0
   - 6e72195b364a
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
@@ -49,11 +55,13 @@ tools:
   revisions:
   - a73fff151e38
   - cf51d3630757
+  - e05a908455f4
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphy_sm19
   owner: iuc
   revisions:
+  - 6971ee03a002
   - a809f93e7e6d
   - d52a803b2b5c
   tool_panel_section_id: phylogenetics
@@ -62,12 +70,14 @@ tools:
   owner: iuc
   revisions:
   - 5fd8dc04d6af
+  - 7852b50fabb7
   - d5d909979314
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphy_slac
   owner: iuc
   revisions:
+  - 1122d1a1ff67
   - 1467fb7e162d
   - 2753a5c7597a
   tool_panel_section_id: phylogenetics
@@ -77,6 +87,7 @@ tools:
   revisions:
   - b110a31a9c61
   - ec783806a5c3
+  - ef2129a50a13
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: t_coffee
@@ -93,6 +104,7 @@ tools:
   revisions:
   - 5eb9d7217640
   - 7207313de5a8
+  - fba248cbd49e
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: sarscov2formatter
@@ -208,6 +220,7 @@ tools:
   owner: iuc
   revisions:
   - 6761212b7f1d
+  - b30255d232d2
   - beeeed9665ea
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
@@ -215,6 +228,7 @@ tools:
   owner: iuc
   revisions:
   - 2318841ec191
+  - 5b4fd931a989
   - 91cf1290ba6f
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
@@ -222,6 +236,7 @@ tools:
   owner: iuc
   revisions:
   - 31e7f5a25db3
+  - ea698cd7e086
   - f5bbd4b34541
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
@@ -230,6 +245,7 @@ tools:
   revisions:
   - 6960dd62c983
   - 91679ca1480d
+  - be3e39ccb02b
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: usher_matutils

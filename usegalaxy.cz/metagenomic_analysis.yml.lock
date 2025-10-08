@@ -406,6 +406,7 @@ tools:
 - name: maxbin2
   owner: mbernt
   revisions:
+  - 0917b2d6010d
   - 2bc40bfbcfb4
   - 8a0473eb465e
   - 9da9706f7ca9

@@ -73,12 +73,14 @@ tools:
   - 08c2d81e7942
   - 11c062caec10
   - 1f467ed22412
+  - 5b9314d73110
   - eccec0876e54
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: freyja_demix
   owner: iuc
   revisions:
+  - 945b31d82638
   - c0a0e79d7196
   - e7a2086a0f03
   - e9f497a660d6
@@ -92,6 +94,7 @@ tools:
   - a09398bc953a
   - cd5d77d118f2
   - dda5772507b2
+  - e78fe0649ed4
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: freyja_aggregate_plot
@@ -101,6 +104,7 @@ tools:
   - 1f89eeba299a
   - 3d9253661554
   - 640c0b8cc8bf
+  - d0632d8bac6a
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: cooc_mutbamscan
