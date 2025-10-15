@@ -254,6 +254,7 @@ tools:
   revisions:
   - 359e043a285c
   - 767943cd85bf
+  - f287fbd75138
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_region
