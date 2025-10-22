@@ -250,6 +250,7 @@ tools:
   - 480ddbd12a03
   - 65b93b623c77
   - e25816738ef3
+  - f875da9d433c
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_filter_by_length
