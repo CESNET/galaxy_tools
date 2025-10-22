@@ -246,6 +246,7 @@ tools:
 - name: bigwig_to_bedgraph
   owner: bgruening
   revisions:
+  - 0a73ffe34e7d
   - 3799012ce2ff
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

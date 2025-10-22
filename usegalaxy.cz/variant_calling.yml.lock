@@ -67,6 +67,7 @@ tools:
   revisions:
   - 7ca2fba4be83
   - b1ca9fce4749
+  - fe8bc8d1e7f5
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: strelka_somatic

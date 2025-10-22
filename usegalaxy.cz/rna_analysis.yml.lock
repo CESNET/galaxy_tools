@@ -350,6 +350,7 @@ tools:
   - 070900306913
   - ae2aad0a6d50
   - f2843df56434
+  - fd9902d118e5
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: crosscontamination_barcode_filter
