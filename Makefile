@@ -13,10 +13,9 @@ lint: ## Lint all yaml files for a given INSTANCE
 	find ./$(INSTANCE) -name '*.yml' | grep '^\./[^/]*/' | xargs -n 1 -P $(NPROC) python3 scripts/identify_unpinned.py
 
 fix: ## For a given INSTANCE fix all lockfiles and add the latest revision to every repo that has no revision
-	@# Generates the lockfile or updates it if it is missing tools
 	find ./$(INSTANCE) -name '*.yml' | grep '^\./[^/]*/' | xargs -n 1 -P $(NPROC) python3 scripts/fix_lockfile.py
-	@# --without says to add the latest revision to every entry missing one (i.e. update all)
 	find ./$(INSTANCE) -name '*.yml' | grep '^\./[^/]*/' | xargs -n 1 -P $(NPROC) python3 scripts/update_tool.py --without --log debug
+	find ./$(INSTANCE) -name '*.yml.lock' | grep '^\./[^/]*/' | grep -v '_test\.yml\.lock$' | xargs -n 1 -P $(NPROC) python3 scripts/fix_outdated.py
 
 update-owner:  ## Run the update script for a subset of repos defined by the OWNER var
 	find ./$(INSTANCE) -name '*.yml' | grep '^\./[^/]*/' | xargs -n 1 -P $(NPROC) python scripts/update_tool.py --owner $(OWNER)
