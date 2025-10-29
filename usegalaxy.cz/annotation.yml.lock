@@ -461,6 +461,7 @@ tools:
   owner: bgruening
   revisions:
   - 358f58401cd6
+  - b86f3e5626f4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: transtermhp

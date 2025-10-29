@@ -985,6 +985,7 @@ tools:
   - 68d2cd0be567
   - a490494875c7
   - a6f004bc73bf
+  - fd17362def4f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin
@@ -993,6 +994,7 @@ tools:
   - 6b517dc161e4
   - 7b382efabb98
   - 99ff9221182c
+  - afee33334a63
   - b5a7583b8db0
   - bcb50c148f4b
   - fdb13ee4be38
@@ -1005,6 +1007,7 @@ tools:
   - 14046254799c
   - 191a3a14a7f1
   - 2344bc30a326
+  - 3215ab8a94de
   - 43df7a4c33a2
   - 8b77643cf479
   tool_panel_section_id: metagenomic_analysis
@@ -1016,6 +1019,7 @@ tools:
   - 07bf5268724f
   - 0ae1a2636de5
   - 40ffba87bbcf
+  - 517069eeb0d5
   - 8ba0c2edf3f3
   - ff4e487f4f7e
   tool_panel_section_id: metagenomic_analysis
@@ -1028,6 +1032,7 @@ tools:
   - 4d561bdc2c31
   - 552cfc6ed475
   - 8317c7dc6407
+  - 8428eb03a349
   - dbf5571a8140
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1036,6 +1041,7 @@ tools:
   revisions:
   - 298542e0e136
   - 2c7ed948eeed
+  - a72b974c98a2
   - c72b50829c03
   - dcc81bfe5f6a
   - e0aae2cd891e
