@@ -70,5 +70,6 @@ tools:
   revisions:
   - 83fbdf93d51e
   - 8cb6bd511879
+  - a829941376bd
   tool_panel_section_id: dna_metabarcoding
   tool_panel_section_label: DNA Metabarcoding

@@ -80,6 +80,7 @@ tools:
 - name: alevin
   owner: bgruening
   revisions:
+  - '528052085629'
   - b0fe3e482cb7
   - e32b215b7c04
   - f2000bc73102
