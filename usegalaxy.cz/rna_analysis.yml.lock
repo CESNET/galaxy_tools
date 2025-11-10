@@ -12,6 +12,7 @@ tools:
 - name: salmonquantmerge
   owner: bgruening
   revisions:
+  - 71ce24befa24
   - a896b8b7d264
   - dba18bf7528f
   - ee72e302b6a3
@@ -214,6 +215,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 30d90b851d3c
   - ebab418107f5
   - f4d5237a84f6
   tool_panel_section_id: rna_analysis
