@@ -5,6 +5,7 @@ tools:
 - name: mosdepth
   owner: iuc
   revisions:
+  - 2fe966f8532e
   - 5854d0da92b4
   - 69f93450c57d
   - b1a8d09e5a82

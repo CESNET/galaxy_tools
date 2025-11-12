@@ -242,6 +242,7 @@ tools:
 - name: pretext_snapshot
   owner: iuc
   revisions:
+  - 0cc7a80463b9
   - 26f2fe7e53a1
   - 44c66e8d21e6
   - 9ec9c22767c8
