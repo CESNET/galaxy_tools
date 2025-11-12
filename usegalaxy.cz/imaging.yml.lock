@@ -505,6 +505,7 @@ tools:
 - name: points2labelimage
   owner: imgteam
   revisions:
+  - 22bb32eae6a1
   - 4a49f74a3c14
   - 9bd039f46843
   - aef9911c0d5c

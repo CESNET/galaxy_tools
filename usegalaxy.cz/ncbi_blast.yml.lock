@@ -25,6 +25,7 @@ tools:
 - name: diamond
   owner: bgruening
   revisions:
+  - 0cdcf7e99b62
   - 1e3323a44643
   - 20d92dc4c6cb
   - 3c6b132b154a
