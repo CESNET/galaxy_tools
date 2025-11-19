@@ -1687,6 +1687,7 @@ tools:
   revisions:
   - 21a560af5913
   - 2e297d531259
+  - 4edfc76f8a29
   - 9aaa46d45472
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics

@@ -79,6 +79,7 @@ tools:
   owner: iuc
   revisions:
   - 1a6cdf55390f
+  - 56ff60ec416d
   - 6dee4abadccb
   - eca2e2e20436
   tool_panel_section_id: metagenomic_analysis
@@ -86,6 +87,7 @@ tools:
 - name: extract_metaphlan_database
   owner: iuc
   revisions:
+  - 1fa07868c0f3
   - 6efa06ffbac8
   - b4c750fe0fe3
   - db58d5898fea
@@ -492,6 +494,7 @@ tools:
   - 0270541aaf46
   - 27250f92a01a
   - 3cc4a60615c0
+  - c3e2a0805600
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metaphlan_hclust_heatmap
@@ -518,6 +521,7 @@ tools:
   owner: iuc
   revisions:
   - 25a5fa5f86a5
+  - 2c8db4bf8834
   - 892a0629e2ed
   - f93a61ef06cf
   tool_panel_section_id: metagenomic_analysis

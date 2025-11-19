@@ -162,6 +162,7 @@ tools:
   - 5e08a1e22dbc
   - 83c573f2e73c
   - cfb0595f9842
+  - e4790edb4299
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_heatmap2
