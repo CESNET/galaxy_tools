@@ -35,6 +35,7 @@ tools:
   revisions:
   - 08d873cdd5f6
   - 12baadec7809
+  - 816cbd8f4e6e
   tool_panel_section_id: dna_metabarcoding
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_uniq
