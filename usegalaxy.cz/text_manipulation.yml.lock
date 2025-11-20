@@ -272,3 +272,15 @@ tools:
   - 5ff75eb1a893
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
+- name: tesseract
+  owner: iuc
+  revisions:
+  - 521bcbb5aa16
+  tool_panel_section_id: text_manipulation
+  tool_panel_section_label: Text Manipulation
+- name: wordcloud
+  owner: bgruening
+  revisions:
+  - 6055ffae8903
+  tool_panel_section_id: text_manipulation
+  tool_panel_section_label: Text Manipulation
