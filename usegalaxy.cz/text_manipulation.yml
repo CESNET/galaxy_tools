@@ -78,3 +78,7 @@ tools:
   owner: artbio
 - name: jq
   owner: iuc
+- name: tesseract
+  owner: iuc
+- name: wordcloud
+  owner: bgruening
