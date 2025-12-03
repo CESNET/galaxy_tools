@@ -14,5 +14,5 @@ tools:
   revisions:
   - 7ef2403a250d
   - a4774b7b2e85
-  tool_panel_section_id: hca_scanpy
-  tool_panel_section_label: HCA-Scanpy
+  tool_panel_section_id: scanpy
+  tool_panel_section_label: Scanpy
