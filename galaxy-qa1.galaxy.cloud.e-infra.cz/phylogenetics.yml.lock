@@ -178,3 +178,24 @@ tools:
   - f78492521996
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
+- name: pangolin
+  owner: iuc
+  revisions:
+  - 2f1019071464
+  - c12c7d0e067b
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+- name: nextclade
+  owner: iuc
+  revisions:
+  - 128ba8da994f
+  - 4f6349228462
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+- name: fasttree
+  owner: iuc
+  revisions:
+  - bc939965ce41
+  - e005e659ae21
+  tool_panel_section_id: genome_diversity
+  tool_panel_section_label: Genome Diversity

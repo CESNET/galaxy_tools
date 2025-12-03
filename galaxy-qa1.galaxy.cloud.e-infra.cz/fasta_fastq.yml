@@ -96,3 +96,27 @@ tools:
   owner: devteam
 - name: fastx_barcode_splitter
   owner: devteam
+- name: seqkit_translate
+  owner: iuc
+- name: fastp
+  owner: iuc
+- name: cutadapt
+  owner: lparsons
+- name: trimmomatic
+  owner: pjbriggs
+- name: fastq_filter
+  owner: devteam
+- name: fastqtofasta
+  owner: devteam
+- name: fasta_compute_length
+  owner: devteam
+- name: seqtk
+  owner: iuc
+- name: ncbi_fcs_gx
+  owner: iuc
+- name: rdeval
+  owner: richard-burhans
+- name: mgnify_seqprep
+  owner: bgruening
+- name: ncbi_blast_plus
+  owner: devteam

@@ -70,3 +70,9 @@ tools:
   - e1cb2e012307
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
+- name: macs2
+  owner: iuc
+  revisions:
+  - 86e2413cf3f8
+  tool_panel_section_id: peak_calling
+  tool_panel_section_label: Peak Calling

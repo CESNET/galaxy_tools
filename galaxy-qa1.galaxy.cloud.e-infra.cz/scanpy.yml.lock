@@ -9,3 +9,10 @@ tools:
   - 73d43034c860
   tool_panel_section_id: scanpy
   tool_panel_section_label: Scanpy
+- name: anndata_ops
+  owner: ebi-gxa
+  revisions:
+  - 7ef2403a250d
+  - a4774b7b2e85
+  tool_panel_section_id: hca_scanpy
+  tool_panel_section_label: HCA-Scanpy

@@ -8,3 +8,41 @@ tools:
   - 2cf4a1cafc16
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
+- name: ivar_trim
+  owner: iuc
+  revisions:
+  - 0893a1dbb807
+  - 6606a8c97889
+  - 7bd020da0ce5
+  - c092052ed673
+  tool_panel_section_id: virology
+  tool_panel_section_label: Virology
+- name: ivar_variants
+  owner: iuc
+  revisions:
+  - 045d6d00f606
+  - 1ef68546d37f
+  - 5e5dfc9e71e2
+  tool_panel_section_id: virology
+  tool_panel_section_label: Virology
+- name: ivar_consensus
+  owner: iuc
+  revisions:
+  - 17f911830a8c
+  - 1c5448133894
+  - 253935875d96
+  tool_panel_section_id: virology
+  tool_panel_section_label: Virology
+- name: ivar_removereads
+  owner: iuc
+  revisions:
+  - 55a7867809f4
+  - dec59e6af429
+  tool_panel_section_id: virology
+  tool_panel_section_label: Virology
+- name: snipit
+  owner: iuc
+  revisions:
+  - 877e80114d25
+  tool_panel_section_id: virology
+  tool_panel_section_label: Virology

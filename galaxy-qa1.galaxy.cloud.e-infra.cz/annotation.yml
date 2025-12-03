@@ -138,3 +138,31 @@ tools:
   owner: iuc
 - name: funannotate_sort
   owner: iuc
+- name: staramr
+  owner: iuc
+- name: amrfinderplus
+  owner: iuc
+- name: isescan
+  owner: iuc
+- name: integron_finder
+  owner: iuc
+- name: bakta
+  owner: iuc
+- name: repeatmodeler
+  owner: csbl
+- name: prodigal
+  owner: iuc
+- name: argnorm
+  owner: iuc
+- name: mmseqs2_taxonomy_assignment
+  owner: iuc
+- name: busco
+  owner: iuc
+- name: ncbi_fcs_adaptor
+  owner: richard-burhans
+- name: compleasm
+  owner: iuc
+- name: helixer
+  owner: genouest
+- name: omark
+  owner: iuc

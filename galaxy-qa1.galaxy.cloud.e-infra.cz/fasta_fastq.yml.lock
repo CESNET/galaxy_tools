@@ -6,6 +6,7 @@ tools:
   owner: devteam
   revisions:
   - 2c64fded1286
+  - 5ec9f6bceaee
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: short_reads_trim_seq
@@ -48,6 +49,7 @@ tools:
 - name: fasta_to_tabular
   owner: devteam
   revisions:
+  - 7e801ab2b70e
   - e7ed3c310b74
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -264,6 +266,7 @@ tools:
   owner: devteam
   revisions:
   - 516b97a23d7e
+  - e773f1eb16cf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_nucleotide_changer
@@ -302,3 +305,91 @@ tools:
   - 0b7ec11b3c7c
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
+- name: seqkit_translate
+  owner: iuc
+  revisions:
+  - 0e0b003c711f
+  - d35d114c26a7
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: fastp
+  owner: iuc
+  revisions:
+  - 10678d49d39e
+  - 1c183b0a6cfd
+  - 25c59c0ceb55
+  - 281054a26e41
+  - 3432a0e49b86
+  - 65b93b623c77
+  - a626e8c0e1ba
+  - c59d48774d03
+  - dbf9c561ef29
+  - f875da9d433c
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: cutadapt
+  owner: lparsons
+  revisions:
+  - 5eb7e84243f2
+  - 80766b36005d
+  - 8e264b67a8c0
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: trimmomatic
+  owner: pjbriggs
+  revisions:
+  - b9aaed85cbd1
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: fastq_filter
+  owner: devteam
+  revisions:
+  - '144275714590'
+  - ff7d49ec777f
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: fastqtofasta
+  owner: devteam
+  revisions:
+  - 4a3e93647a4e
+  - ac3fed111eb6
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: fasta_compute_length
+  owner: devteam
+  revisions:
+  - 5cbde03c1103
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: seqtk
+  owner: iuc
+  revisions:
+  - 8511b6d85fc7
+  - a019807f4e67
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: ncbi_fcs_gx
+  owner: iuc
+  revisions:
+  - 5fe428757fab
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: rdeval
+  owner: richard-burhans
+  revisions:
+  - 37d67c252fed
+  - aef1eea2058c
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: mgnify_seqprep
+  owner: bgruening
+  revisions:
+  - 76ea9d4604bc
+  tool_panel_section_id: uncategorized
+  tool_panel_section_label: Uncategorized
+- name: ncbi_blast_plus
+  owner: devteam
+  revisions:
+  - fc35ffc8c548
+  tool_panel_section_id: ncbi_blast
+  tool_panel_section_label: NCBI Blast

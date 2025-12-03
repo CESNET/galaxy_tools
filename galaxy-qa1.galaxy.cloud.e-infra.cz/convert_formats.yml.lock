@@ -59,6 +59,7 @@ tools:
   owner: galaxyp
   revisions:
   - 331a50e8fd2f
+  - 6153e8ada1ee
   - ab6c14374bc0
   - dd4ba10d0c45
   tool_panel_section_id: convert_formats
@@ -158,5 +159,38 @@ tools:
   owner: ecology
   revisions:
   - 4a9ac1df3278
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: tooldistillator
+  owner: iuc
+  revisions:
+  - 9f1c8dc0253e
+  - c6b5c2975e51
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: tooldistillator_summarize
+  owner: iuc
+  revisions:
+  - 3d0223265277
+  - f4f71128f097
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: graphicsmagick_image_montage
+  owner: bgruening
+  revisions:
+  - 601575b847c0
+  - ab55af10f1ff
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: biom_convert
+  owner: iuc
+  revisions:
+  - d4d4e9febf5c
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: gffread
+  owner: devteam
+  revisions:
+  - 3e436657dcd0
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

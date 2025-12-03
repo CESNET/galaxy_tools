@@ -41,3 +41,9 @@ tools:
   - e11d5fafd0cc
   tool_panel_section_id: spatial_omics
   tool_panel_section_label: Spatial Omics
+- name: mesmer
+  owner: goeckslab
+  revisions:
+  - 2675ff99a53b
+  tool_panel_section_id: spatial_omics
+  tool_panel_section_label: Spatial Omics

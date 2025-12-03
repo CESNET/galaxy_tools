@@ -212,3 +212,11 @@ tools:
   owner: chemteam
 - name: gmx_rmsf
   owner: chemteam
+- name: openbabel_compound_convert
+  owner: bgruening
+- name: qcxms_neutral_run
+  owner: recetox
+- name: qcxms_production_run
+  owner: recetox
+- name: qcxms_getres
+  owner: recetox
