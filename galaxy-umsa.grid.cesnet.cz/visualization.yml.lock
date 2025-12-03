@@ -50,6 +50,7 @@ tools:
   - 374e9062d874
   - 48b42ee61bc5
   - 51c6ccaace7e
+  - 6a097d09fca3
   - ca7cb0eaad62
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
