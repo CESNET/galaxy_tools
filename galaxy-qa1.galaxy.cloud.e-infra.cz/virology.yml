@@ -2,3 +2,13 @@ tool_panel_section_label: Virology
 tools:
 - name: ivar_getmasked
   owner: iuc
+- name: ivar_trim
+  owner: iuc
+- name: ivar_variants
+  owner: iuc
+- name: ivar_consensus
+  owner: iuc
+- name: ivar_removereads
+  owner: iuc
+- name: snipit
+  owner: iuc

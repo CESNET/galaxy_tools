@@ -28,3 +28,11 @@ tools:
   owner: bgruening
 - name: hicup2juicer
   owner: bgruening
+- name: cooler_cload_tabix
+  owner: lldelisle
+- name: cooler_balance
+  owner: lldelisle
+- name: cooler_csort_tabix
+  owner: lldelisle
+- name: cooler_makebins
+  owner: lldelisle

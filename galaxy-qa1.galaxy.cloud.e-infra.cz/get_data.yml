@@ -52,3 +52,7 @@ tools:
   owner: iuc
 - name: ega_download_client
   owner: iuc
+- name: fastq_dl
+  owner: iuc
+- name: uniprotxml_downloader
+  owner: galaxyp

@@ -26,3 +26,13 @@ tools:
   owner: devteam
 - name: bwa_mem2
   owner: iuc
+- name: bowtie2
+  owner: devteam
+- name: minimap2
+  owner: iuc
+- name: rgrnastar
+  owner: iuc
+- name: bwa
+  owner: devteam
+- name: rna_starsolo
+  owner: iuc

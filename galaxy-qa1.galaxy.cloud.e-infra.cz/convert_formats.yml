@@ -50,3 +50,13 @@ tools:
   owner: iuc
 - name: xmlstarlet
   owner: ecology
+- name: tooldistillator
+  owner: iuc
+- name: tooldistillator_summarize
+  owner: iuc
+- name: graphicsmagick_image_montage
+  owner: bgruening
+- name: biom_convert
+  owner: iuc
+- name: gffread
+  owner: devteam

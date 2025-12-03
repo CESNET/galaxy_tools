@@ -22,3 +22,5 @@ tools:
   owner: rnateam
 - name: dewseq
   owner: rnateam
+- name: macs2
+  owner: iuc

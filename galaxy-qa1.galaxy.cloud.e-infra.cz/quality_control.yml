@@ -2,3 +2,5 @@ tool_panel_section_label: Quality Control
 tools:
 - name: fastq_info
   owner: bgruening
+- name: multiqc
+  owner: iuc
