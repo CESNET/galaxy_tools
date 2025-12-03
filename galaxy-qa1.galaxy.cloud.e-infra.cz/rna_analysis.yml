@@ -226,3 +226,17 @@ tools:
   owner: iuc
 - name: psiclass
   owner: iuc
+- name: stringtie
+  owner: iuc
+- name: brew3r_r
+  owner: iuc
+- name: cufflinks
+  owner: devteam
+- name: rseqc
+  owner: nilesh
+- name: featurecounts
+  owner: iuc
+- name: cmsearch_deoverlap
+  owner: rnateam
+- name: edger
+  owner: iuc

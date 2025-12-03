@@ -4,3 +4,23 @@ tools:
   owner: bgruening
 - name: plotly_parallel_coordinates_plot
   owner: bgruening
+- name: bandage
+  owner: iuc
+- name: ggplot2_heatmap
+  owner: iuc
+- name: newick_utils
+  owner: iuc
+- name: volcanoplot
+  owner: iuc
+- name: ggplot2_heatmap2
+  owner: iuc
+- name: pe_histogram
+  owner: iuc
+- name: pygenometracks
+  owner: iuc
+- name: pretext_snapshot
+  owner: iuc
+- name: ggplot2_point
+  owner: iuc
+- name: jbrowse
+  owner: iuc

@@ -54,3 +54,9 @@ tools:
   owner: iuc
 - name: snp_dists
   owner: iuc
+- name: pangolin
+  owner: iuc
+- name: nextclade
+  owner: iuc
+- name: fasttree
+  owner: iuc

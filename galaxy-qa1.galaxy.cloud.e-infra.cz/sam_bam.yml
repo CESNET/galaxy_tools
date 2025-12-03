@@ -30,3 +30,25 @@ tools:
   owner: devteam
 - name: samtools_coverage
   owner: iuc
+- name: samtools_sort
+  owner: devteam
+- name: bamtools_split_mapped
+  owner: iuc
+- name: samtools_fastx
+  owner: iuc
+- name: samtools_depth
+  owner: iuc
+- name: samtools_view
+  owner: iuc
+- name: qualimap_bamqc
+  owner: iuc
+- name: bamtools_filter
+  owner: devteam
+- name: samtools_idxstats
+  owner: devteam
+- name: bamtools_split_ref
+  owner: iuc
+- name: samtools_merge
+  owner: iuc
+- name: samtools_stats
+  owner: devteam

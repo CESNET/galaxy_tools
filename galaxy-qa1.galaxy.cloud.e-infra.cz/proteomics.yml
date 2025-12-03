@@ -196,3 +196,23 @@ tools:
   owner: galaxyp
 - name: calisp
   owner: galaxyp
+- name: maxquant
+  owner: galaxyp
+- name: pepquery2
+  owner: galaxyp
+- name: metanovo
+  owner: galaxyp
+- name: openms_decoydatabase
+  owner: galaxyp
+- name: openms_featurefindermultiplex
+  owner: galaxyp
+- name: openms_msgfplusadapter
+  owner: galaxyp
+- name: openms_peptideindexer
+  owner: galaxyp
+- name: openms_falsediscoveryrate
+  owner: galaxyp
+- name: openms_idmapper
+  owner: galaxyp
+- name: openms_metaprosip
+  owner: galaxyp

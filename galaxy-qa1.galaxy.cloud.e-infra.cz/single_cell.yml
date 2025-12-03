@@ -32,3 +32,31 @@ tools:
   owner: artbio
 - name: cite_seq_count
   owner: iuc
+- name: anndata_manipulate
+  owner: iuc
+- name: baredsc_1d
+  owner: iuc
+- name: baredsc_combine_1d
+  owner: iuc
+- name: baredsc_2d
+  owner: iuc
+- name: baredsc_combine_2d
+  owner: iuc
+- name: anndata_import
+  owner: iuc
+- name: anndata_inspect
+  owner: iuc
+- name: scanpy_inspect
+  owner: iuc
+- name: scanpy_filter
+  owner: iuc
+- name: scanpy_normalize
+  owner: iuc
+- name: scanpy_remove_confounders
+  owner: iuc
+- name: scanpy_cluster_reduce_dimension
+  owner: iuc
+- name: scanpy_plot
+  owner: iuc
+- name: velocyto_cli
+  owner: iuc

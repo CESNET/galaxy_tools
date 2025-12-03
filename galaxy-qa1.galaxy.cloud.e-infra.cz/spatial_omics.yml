@@ -12,3 +12,5 @@ tools:
   owner: perssond
 - name: quantification
   owner: perssond
+- name: mesmer
+  owner: goeckslab

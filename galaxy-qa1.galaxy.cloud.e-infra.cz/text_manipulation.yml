@@ -56,3 +56,11 @@ tools:
   owner: bgruening
 - name: add_value
   owner: devteam
+- name: filter_tabular
+  owner: iuc
+- name: query_tabular
+  owner: iuc
+- name: text_processing
+  owner: bgruening
+- name: concatenate_multiple_datasets
+  owner: artbio
