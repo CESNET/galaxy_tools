@@ -105,6 +105,7 @@ tools:
   revisions:
   - 147de996e34f
   - 8aa352093d73
+  - 9a260f6fab93
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: delly_classify
@@ -234,6 +235,7 @@ tools:
   revisions:
   - 05f317e50e61
   - 08296952d12f
+  - c3c930926708
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpeff_sars_cov_2
@@ -308,6 +310,7 @@ tools:
   revisions:
   - 5b006286a458
   - af163c712539
+  - d3286f971e89
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfselectsamples
@@ -448,6 +451,7 @@ tools:
   owner: iuc
   revisions:
   - 07396b423218
+  - c277260d3fab
   - f0d44631365f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -455,12 +459,14 @@ tools:
   owner: iuc
   revisions:
   - 271965b55437
+  - 5fa262ce95dd
   - ebb2e12a6de1
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_csq
   owner: iuc
   revisions:
+  - 9f69e7d58d03
   - d237eaef451f
   - f01b2c9506b9
   tool_panel_section_id: variant_calling
@@ -469,6 +475,7 @@ tools:
   owner: iuc
   revisions:
   - 399b40b2bcab
+  - 3c6952a2b0e4
   - b03c0b3e67a6
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -477,11 +484,13 @@ tools:
   revisions:
   - 36960e552ddc
   - 7d9166ecd10f
+  - 845a7025ba81
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_cnv
   owner: iuc
   revisions:
+  - 61dfbc82ffc8
   - 6d35a3780bfd
   - ccb83bf54de0
   tool_panel_section_id: variant_calling
@@ -694,6 +703,7 @@ tools:
 - name: bcftools_plugin_split_vep
   owner: iuc
   revisions:
+  - 66682ee970c6
   - 7b71281eb0ca
   - d55feecb6dc1
   tool_panel_section_id: variant_calling
@@ -716,12 +726,14 @@ tools:
   revisions:
   - 03191140c66a
   - 0a5dcc9a8ec2
+  - 43f0efd586c4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_view
   owner: iuc
   revisions:
   - 1a2ef636f48e
+  - 2a7d7ee53975
   - abc3ced31cd1
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -730,11 +742,13 @@ tools:
   revisions:
   - 591cc8518033
   - a2f8dc22d7c0
+  - fcf941c241cc
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_roh
   owner: iuc
   revisions:
+  - acfd6984d130
   - bdc67eeb0bc9
   - fa65af07ce7d
   tool_panel_section_id: variant_calling
@@ -744,11 +758,13 @@ tools:
   revisions:
   - 2331ddcbd5aa
   - 8057cf55fa41
+  - a0b1c0bdfa5a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_query
   owner: iuc
   revisions:
+  - 1dc6f1ac7f32
   - 31a1b89eab9b
   - a850902cac64
   tool_panel_section_id: variant_calling
@@ -757,6 +773,7 @@ tools:
   owner: iuc
   revisions:
   - 39bca000353d
+  - 3d21f507fc5d
   - 63aabc920911
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -764,12 +781,14 @@ tools:
   owner: iuc
   revisions:
   - 3eac729e66c9
+  - 68d04cd5d35a
   - 7b4454382d39
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_filter
   owner: iuc
   revisions:
+  - 3502f0e1f0e4
   - 46fcafba49ec
   - 656a916779fe
   tool_panel_section_id: variant_calling
@@ -778,6 +797,7 @@ tools:
   owner: iuc
   revisions:
   - 4935320a59a8
+  - 68736d355615
   - cfd81f17580b
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -785,12 +805,14 @@ tools:
   owner: iuc
   revisions:
   - 012656fd329f
+  - a20d6492132d
   - cacc9970727a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_annotate
   owner: iuc
   revisions:
+  - 06eaadeffb7d
   - 2c372041ed8c
   - 3f62d4939d54
   tool_panel_section_id: variant_calling
@@ -864,6 +886,7 @@ tools:
   owner: iuc
   revisions:
   - 262bba5b90ef
+  - 394dbf428c7b
   - a730269af659
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
