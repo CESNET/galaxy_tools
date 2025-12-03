@@ -38,7 +38,7 @@ jobs:
         with:
             branch: iwc-update-${{ matrix.toolset }}
             committer: CESNETbot <martin.cech@cesnet.cz>
-            title: Install IWC tools for ${{ matrix.toolset }} ${{ steps.date.outputs.date }}
+            title: Install IWC tools for ${{ matrix.toolset }}
             commit-message: "output of get_iwc_tools.py"
             labels: automated
             assignees: martenson
