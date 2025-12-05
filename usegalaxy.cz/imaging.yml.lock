@@ -732,3 +732,48 @@ tools:
   - 53240d7c1fc5
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
+- name: squidpy_scatter
+  owner: goeckslab
+  revisions:
+  - b84c324b58bd
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: squidpy_spatial
+  owner: goeckslab
+  revisions:
+  - 2a5036c29889
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagemagick_image_montage
+  owner: bgruening
+  revisions:
+  - 506a90ab5581
+  - 65703c06c1f6
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: scimap_mcmicro_to_anndata
+  owner: goeckslab
+  revisions:
+  - 49c178651194
+  - b1ead1b7e0aa
+  tool_panel_section_id: uncategorized
+  tool_panel_section_label: Uncategorized
+- name: scimap_phenotyping
+  owner: goeckslab
+  revisions:
+  - 37dc4f51e827
+  - 88fca6e905be
+  tool_panel_section_id: uncategorized
+  tool_panel_section_label: Uncategorized
+- name: backsub
+  owner: goeckslab
+  revisions:
+  - bf9f98a7f936
+  tool_panel_section_id: uncategorized
+  tool_panel_section_label: Uncategorized
+- name: scimap_plotting
+  owner: goeckslab
+  revisions:
+  - 05a8d9dea3df
+  tool_panel_section_id: uncategorized
+  tool_panel_section_label: Uncategorized

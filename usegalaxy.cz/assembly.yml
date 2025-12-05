@@ -160,3 +160,15 @@ tools:
   owner: bgruening
 - name: nextdenovo
   owner: bgruening
+- name: meryl_count_kmers
+  owner: iuc
+- name: meryl_groups_kmers
+  owner: iuc
+- name: meryl_histogram_kmers
+  owner: iuc
+- name: pretext_graph
+  owner: iuc
+- name: pairtools_parse
+  owner: iuc
+- name: pairtools_dedup
+  owner: iuc

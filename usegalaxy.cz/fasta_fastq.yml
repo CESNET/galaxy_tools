@@ -168,3 +168,11 @@ tools:
   owner: iuc
 - name: prinseq
   owner: iuc
+- name: seqkit_translate
+  owner: iuc
+- name: ncbi_fcs_gx
+  owner: iuc
+- name: rdeval
+  owner: richard-burhans
+- name: mgnify_seqprep
+  owner: bgruening

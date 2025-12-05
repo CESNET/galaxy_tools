@@ -1770,6 +1770,7 @@ tools:
   owner: galaxyp
   revisions:
   - 3ec27b4cee7c
+  - a6ff76e057fd
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: rawtools

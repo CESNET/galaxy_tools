@@ -230,6 +230,7 @@ tools:
   - aa39b19ca11e
   - cd06929b224b
   - d865b62f501c
+  - e100a765370e
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: minia
@@ -613,5 +614,45 @@ tools:
   owner: bgruening
   revisions:
   - 733eab97b979
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: meryl_count_kmers
+  owner: iuc
+  revisions:
+  - bb6774c6aeaf
+  - e893b7452150
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: meryl_groups_kmers
+  owner: iuc
+  revisions:
+  - c4758f3bf36e
+  - cc8029eca6e9
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: meryl_histogram_kmers
+  owner: iuc
+  revisions:
+  - 9a0227fa7521
+  - fa86bf923473
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: pretext_graph
+  owner: iuc
+  revisions:
+  - 36ce83a739f2
+  - 408ece2e4647
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: pairtools_parse
+  owner: iuc
+  revisions:
+  - a5876cca7b05
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: pairtools_dedup
+  owner: iuc
+  revisions:
+  - 3d1d241ceff2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

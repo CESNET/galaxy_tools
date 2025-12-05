@@ -293,3 +293,17 @@ tools:
   - 4a9ac1df3278
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
+- name: tooldistillator
+  owner: iuc
+  revisions:
+  - 9f1c8dc0253e
+  - c6b5c2975e51
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats
+- name: tooldistillator_summarize
+  owner: iuc
+  revisions:
+  - 3d0223265277
+  - f4f71128f097
+  tool_panel_section_id: convert_formats
+  tool_panel_section_label: Convert Formats

@@ -258,3 +258,19 @@ tools:
   owner: iuc
 - name: funannotate_sort
   owner: iuc
+- name: staramr
+  owner: iuc
+- name: amrfinderplus
+  owner: iuc
+- name: prodigal
+  owner: iuc
+- name: argnorm
+  owner: iuc
+- name: mmseqs2_taxonomy_assignment
+  owner: iuc
+- name: compleasm
+  owner: iuc
+- name: ncbi_fcs_adaptor
+  owner: richard-burhans
+- name: omark
+  owner: iuc

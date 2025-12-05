@@ -7,8 +7,10 @@ tools:
   revisions:
   - 11a0d50a54e6
   - 539de907fd99
+  - 5cc34c3f440d
   - 66367287b4e6
   - 6945cd53bd2d
+  - 8c6cd2650d1f
   - be1d967337e4
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping

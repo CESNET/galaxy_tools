@@ -976,3 +976,9 @@ tools:
   - 1b690aa060f6
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
+- name: brew3r_r
+  owner: iuc
+  revisions:
+  - d3b0390f325f
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis

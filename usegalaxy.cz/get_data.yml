@@ -60,3 +60,5 @@ tools:
   owner: iuc
 - name: ega_download_streamer
   owner: yhoogstrate
+- name: fastq_dl
+  owner: iuc

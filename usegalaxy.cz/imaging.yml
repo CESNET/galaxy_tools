@@ -196,3 +196,17 @@ tools:
   owner: goeckslab
 - name: mesmer
   owner: goeckslab
+- name: squidpy_scatter
+  owner: goeckslab
+- name: squidpy_spatial
+  owner: goeckslab
+- name: imagemagick_image_montage
+  owner: bgruening
+- name: scimap_mcmicro_to_anndata
+  owner: goeckslab
+- name: scimap_phenotyping
+  owner: goeckslab
+- name: backsub
+  owner: goeckslab
+- name: scimap_plotting
+  owner: goeckslab

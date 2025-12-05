@@ -11,6 +11,7 @@ tools:
   - 5e33b465d8d5
   - 75c93c70d094
   - 9a913cdee30e
+  - a7e081ceb76a
   - abfd8a6544d7
   - b2f1f75d49c4
   - bf675f34b056
@@ -18,6 +19,7 @@ tools:
   - c1a4b5f3b432
   - e4574a4d09d8
   - e4dd4c0622f6
+  - f7e2f1eb3a16
   tool_panel_section_id: quality_control
   tool_panel_section_label: Quality Control
 - name: fastq_info
