@@ -1,0 +1,22 @@
+tool_panel_section_label: RNA Analysis
+tools:
+- name: stringtie
+  owner: iuc
+- name: brew3r_r
+  owner: iuc
+- name: deseq2
+  owner: iuc
+- name: deg_annotate
+  owner: iuc
+- name: featurecounts
+  owner: iuc
+- name: cufflinks
+  owner: devteam
+- name: rseqc
+  owner: nilesh
+- name: cmsearch_deoverlap
+  owner: rnateam
+- name: feelnc
+  owner: iuc
+- name: edger
+  owner: iuc

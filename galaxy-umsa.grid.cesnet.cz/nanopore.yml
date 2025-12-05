@@ -1,0 +1,14 @@
+tool_panel_section_label: Nanopore
+tools:
+- name: medaka_consensus_pipeline
+  owner: iuc
+- name: porechop
+  owner: iuc
+- name: nanoplot
+  owner: iuc
+- name: clair3
+  owner: iuc
+- name: medaka_consensus
+  owner: iuc
+- name: medaka_variant
+  owner: iuc

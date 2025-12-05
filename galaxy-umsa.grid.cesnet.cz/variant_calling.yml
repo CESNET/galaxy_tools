@@ -1,0 +1,26 @@
+tool_panel_section_label: Variant Calling
+tools:
+- name: bcftools_norm
+  owner: iuc
+- name: bcftools_consensus
+  owner: iuc
+- name: snpeff_sars_cov_2
+  owner: iuc
+- name: lofreq_viterbi
+  owner: iuc
+- name: lofreq_indelqual
+  owner: iuc
+- name: lofreq_call
+  owner: iuc
+- name: bcftools_annotate
+  owner: iuc
+- name: vcfvcfintersect
+  owner: devteam
+- name: lofreq_filter
+  owner: iuc
+- name: freebayes
+  owner: devteam
+- name: snpeff
+  owner: iuc
+- name: snpsift
+  owner: iuc

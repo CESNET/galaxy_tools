@@ -51,6 +51,7 @@ tools:
   owner: bgruening
   revisions:
   - 67ee76f0e497
+  - bbbf5fb356dd
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: sdf_to_tab
@@ -90,6 +91,7 @@ tools:
   owner: chemteam
   revisions:
   - 29aa7091e533
+  - 4fff93efc0f9
   - 8a839e6a1e3e
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -97,6 +99,7 @@ tools:
   owner: chemteam
   revisions:
   - 095ad4d096d1
+  - a0c154146234
   - f4230f116196
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -370,6 +373,7 @@ tools:
   owner: bgruening
   revisions:
   - 0993ac4f4a23
+  - a1c53f0533b0
   - cf725c82c865
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -431,6 +435,7 @@ tools:
   owner: chemteam
   revisions:
   - 319a28774da9
+  - 9389cd867cf2
   - bc31d02be922
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -464,6 +469,7 @@ tools:
   owner: chemteam
   revisions:
   - 070e3ecc3fda
+  - 1d4dd4f908d4
   - 4da9ee404eab
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -471,6 +477,7 @@ tools:
   owner: chemteam
   revisions:
   - 79e8ab8f1e81
+  - ba83f0923369
   - d7ec25187599
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

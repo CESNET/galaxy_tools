@@ -8,3 +8,23 @@ tools:
   owner: bgruening
 - name: table_compute
   owner: iuc
+- name: add_line_to_file
+  owner: bgruening
+- name: merge
+  owner: devteam
+- name: replace_column_by_key_value_file
+  owner: bgruening
+- name: filter_tabular
+  owner: iuc
+- name: regex_find_replace
+  owner: galaxyp
+- name: query_tabular
+  owner: iuc
+- name: reshape2_melt
+  owner: iuc
+- name: column_maker
+  owner: devteam
+- name: add_input_name_as_column
+  owner: mvdbeek
+- name: add_value
+  owner: devteam

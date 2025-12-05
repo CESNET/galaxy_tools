@@ -57,6 +57,7 @@ tools:
 - name: ggplot2_point
   owner: iuc
   revisions:
+  - 3b12bf9b4b87
   - 5298e06f14f9
   - e3a675da7fd0
   - f87634b12749

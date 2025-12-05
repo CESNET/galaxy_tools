@@ -1,0 +1,10 @@
+tool_panel_section_label: Get Data
+tools:
+- name: sra_tools
+  owner: iuc
+- name: fastq_dl
+  owner: iuc
+- name: dbbuilder
+  owner: galaxyp
+- name: uniprotxml_downloader
+  owner: galaxyp

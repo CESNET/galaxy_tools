@@ -1,0 +1,36 @@
+tool_panel_section_label: FASTA/FASTQ
+tools:
+- name: seqkit_translate
+  owner: iuc
+- name: fastqc
+  owner: devteam
+- name: fastp
+  owner: iuc
+- name: cutadapt
+  owner: lparsons
+- name: trimmomatic
+  owner: pjbriggs
+- name: fastq_filter
+  owner: devteam
+- name: prinseq
+  owner: iuc
+- name: fastqtofasta
+  owner: devteam
+- name: fasta_formatter
+  owner: devteam
+- name: fasta_merge_files_and_filter_unique_sequences
+  owner: galaxyp
+- name: fasta_compute_length
+  owner: devteam
+- name: seqtk
+  owner: iuc
+- name: fasta_filter_by_length
+  owner: devteam
+- name: ncbi_fcs_gx
+  owner: iuc
+- name: rdeval
+  owner: richard-burhans
+- name: gfastats
+  owner: bgruening
+- name: fasta_stats
+  owner: iuc

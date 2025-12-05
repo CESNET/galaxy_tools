@@ -1,0 +1,16 @@
+tool_panel_section_label: Graph/Display Data
+tools:
+- name: newick_utils
+  owner: iuc
+- name: volcanoplot
+  owner: iuc
+- name: pe_histogram
+  owner: iuc
+- name: pygenometracks
+  owner: iuc
+- name: pretext_snapshot
+  owner: iuc
+- name: jbrowse
+  owner: iuc
+- name: bandage
+  owner: iuc

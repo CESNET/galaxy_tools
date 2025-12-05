@@ -1,0 +1,4 @@
+tool_panel_section_label: HCA-Scanpy
+tools:
+- name: anndata_ops
+  owner: ebi-gxa

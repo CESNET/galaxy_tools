@@ -1,0 +1,17 @@
+install_repository_dependencies: false
+install_resolver_dependencies: false
+install_tool_dependencies: false
+tool_panel_section_label: Quality Control
+tools:
+- name: multiqc
+  owner: iuc
+  revisions:
+  - 31c42a2c02d3
+  - 5e33b465d8d5
+  - 9a913cdee30e
+  - a7e081ceb76a
+  - abfd8a6544d7
+  - e4dd4c0622f6
+  - f7e2f1eb3a16
+  tool_panel_section_id: quality_control
+  tool_panel_section_label: Quality Control

@@ -1,0 +1,6 @@
+tool_panel_section_label: deepTools
+tools:
+- name: deeptools_bigwig_average
+  owner: bgruening
+- name: deeptools_bam_coverage
+  owner: bgruening
