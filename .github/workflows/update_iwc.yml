@@ -22,9 +22,11 @@ jobs:
     strategy:
       matrix:
         instance: >-
-          ${{  (github.event_name == 'workflow_dispatch')
-            && [github.event.inputs.instance]
-            || ['galaxy-qa1.galaxy.cloud.e-infra.cz', 'usegalaxy.cz', 'galaxy-umsa.grid.cesnet.cz'] }}
+          ${{ fromJSON(
+                github.event_name == 'workflow_dispatch'
+                && format('["{0}"]', github.event.inputs.instance)
+                || '["galaxy-qa1.galaxy.cloud.e-infra.cz","usegalaxy.cz","galaxy-umsa.grid.cesnet.cz"]'
+               ) }}
     steps:
       - uses: actions/setup-python@v5
         with:
