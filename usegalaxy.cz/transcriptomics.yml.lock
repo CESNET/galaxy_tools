@@ -8,12 +8,12 @@ tools:
   revisions:
   - 2557d7869e78
   - ef054892d47f
-  tool_panel_section_id: celltypescan
-  tool_panel_section_label: CellTypeScan
+  tool_panel_section_id: transcriptomics
+  tool_panel_section_label: Transcriptomics
 - name: anndata_ops
   owner: ebi-gxa
   revisions:
   - 7ef2403a250d
   - a4774b7b2e85
-  tool_panel_section_id: celltypescan
-  tool_panel_section_label: CellTypeScan
+  tool_panel_section_id: transcriptomics
+  tool_panel_section_label: Transcriptomics
