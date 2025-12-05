@@ -76,8 +76,6 @@ tools:
   owner: bgruening
 - name: concatenate_multiple_datasets
   owner: artbio
-- name: jq
-  owner: iuc
 - name: tesseract
   owner: iuc
 - name: wordcloud
