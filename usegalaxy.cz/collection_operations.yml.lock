@@ -27,12 +27,14 @@ tools:
   - 2ddc36385d7a
   - 6cbe2f30c2d7
   - 750c1684d47c
+  - baabc30154cd
   tool_panel_section_id: collection_operations
   tool_panel_section_label: Collection Operations
 - name: collapse_collections
   owner: nml
   revisions:
   - 49bd84e136c7
+  - 830961c48e42
   - 90981f86000f
   tool_panel_section_id: collection_operations
   tool_panel_section_label: Collection Operations

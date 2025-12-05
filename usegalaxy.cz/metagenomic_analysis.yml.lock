@@ -120,6 +120,7 @@ tools:
 - name: kraken2
   owner: iuc
   revisions:
+  - 20e2f64aa1fe
   - 241a78eb2935
   - cdee7158adf3
   - e150ae930235
@@ -1341,5 +1342,37 @@ tools:
   revisions:
   - 30e275ed0442
   - f1d1dafc836d
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: checkm2
+  owner: iuc
+  revisions:
+  - 304ac5b49dea
+  - 66acaec9f386
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: binette
+  owner: iuc
+  revisions:
+  - 37ab2cfedac4
+  - 9053a39d7994
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: gtdbtk_classify_wf
+  owner: iuc
+  revisions:
+  - 53a019316350
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: mash_paste
+  owner: iuc
+  revisions:
+  - e0c0fda064eb
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: mash_dist
+  owner: iuc
+  revisions:
+  - c932095af671
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

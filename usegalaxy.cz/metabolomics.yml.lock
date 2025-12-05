@@ -749,3 +749,64 @@ tools:
   - cb8c4ae59da9
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
+- name: mfassignr_kmdnoise
+  owner: recetox
+  revisions:
+  - a7a823839ae3
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: mfassignr_histnoise
+  owner: recetox
+  revisions:
+  - 9654573e6889
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: mfassignr_snplot
+  owner: recetox
+  revisions:
+  - f19c0631b9e5
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: mfassignr_isofiltr
+  owner: recetox
+  revisions:
+  - 1c199c3d5993
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: mfassignr_mfassigncho
+  owner: recetox
+  revisions:
+  - da64d663694b
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: mfassignr_recallist
+  owner: recetox
+  revisions:
+  - 6c7b17d38a1d
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: mfassignr_findrecalseries
+  owner: recetox
+  revisions:
+  - 1b4881c150cc
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: mfassignr_recal
+  owner: recetox
+  revisions:
+  - cfcf45ba58be
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: mfassignr_mfassign
+  owner: recetox
+  revisions:
+  - 22c80f584bb1
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics
+- name: table_pandas_rename_column
+  owner: recetox
+  revisions:
+  - 3f54cd56a65e
+  - 8537763e4713
+  tool_panel_section_id: metabolomics
+  tool_panel_section_label: Metabolomics

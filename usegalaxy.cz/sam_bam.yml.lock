@@ -90,10 +90,13 @@ tools:
 - name: samtools_view
   owner: iuc
   revisions:
+  - 0dbf49c414ae
   - 32dc5f781059
   - 48bbbcb692ce
   - 5826298f6a73
   - 5ec526530725
+  - bf328cec6a42
+  - c370440f901e
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_reheader
@@ -109,6 +112,7 @@ tools:
 - name: qualimap_bamqc
   owner: iuc
   revisions:
+  - 19ece8afbaab
   - 30a201c9c310
   - 4a89c6f84425
   tool_panel_section_id: sam_bam
@@ -158,6 +162,7 @@ tools:
   owner: iuc
   revisions:
   - 491037bfc0d2
+  - 66e23b11feae
   - 9038311ed624
   - b3d99709fe1a
   - b906586a6596
@@ -175,6 +180,8 @@ tools:
 - name: samtools_stats
   owner: devteam
   revisions:
+  - 145f6d74ff5e
+  - 1cc79f49b8d5
   - 1ed8ed887035
   - 3a0efe14891f
   - 541082d03bef

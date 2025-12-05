@@ -80,3 +80,7 @@ tools:
   owner: iuc
 - name: xmlstarlet
   owner: ecology
+- name: tooldistillator
+  owner: iuc
+- name: tooldistillator_summarize
+  owner: iuc

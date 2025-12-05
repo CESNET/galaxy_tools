@@ -159,6 +159,7 @@ tools:
   revisions:
   - 09d6806c609e
   - 2b3e65a4252f
+  - 2e497a770bca
   - 5fab4f81391d
   - b04635ebfab0
   tool_panel_section_id: variant_calling
@@ -179,6 +180,7 @@ tools:
   owner: iuc
   revisions:
   - 7dfca164d2e3
+  - 950d1d49d678
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_call
@@ -186,6 +188,7 @@ tools:
   revisions:
   - 4805fe3d8fda
   - b11e8e9c23bf
+  - e1461b5c52a0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: plink
@@ -248,6 +251,7 @@ tools:
   owner: iuc
   revisions:
   - aa35ee7f3ab2
+  - af7e416d8176
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_alnqual
@@ -259,6 +263,8 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 354b534eeab7
+  - 426d707dfc47
   - 971e07ca4456
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -529,6 +535,7 @@ tools:
   - 85dc96ebc770
   - a5937157062f
   - e698621cca1f
+  - ef2c525bd8cd
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpeff
@@ -537,6 +544,8 @@ tools:
   - 3aae4f16ac9e
   - 5b80f544c67f
   - 5c7b70713fb5
+  - 6322be79bd8e
+  - 74aebe30fb52
   - c7275bd8b4d6
   - e8adfc4c0a6b
   tool_panel_section_id: variant_calling
@@ -815,6 +824,7 @@ tools:
   - 06eaadeffb7d
   - 2c372041ed8c
   - 3f62d4939d54
+  - 403553ae19f6
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: beagle
