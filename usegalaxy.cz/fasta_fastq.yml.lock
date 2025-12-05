@@ -672,5 +672,5 @@ tools:
   owner: bgruening
   revisions:
   - 76ea9d4604bc
-  tool_panel_section_id: uncategorized
-  tool_panel_section_label: Uncategorized
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
