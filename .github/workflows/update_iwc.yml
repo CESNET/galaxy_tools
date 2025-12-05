@@ -1,5 +1,4 @@
-name: Dispatch update IWC tools
-
+name: Update IWC tools
 on:
   workflow_dispatch:
     inputs:
@@ -11,12 +10,21 @@ on:
         - galaxy-qa1.galaxy.cloud.e-infra.cz
         - usegalaxy.cz
         - galaxy-umsa.grid.cesnet.cz
+  schedule:
+    - cron: '9 9 * * *'   # every day at 09:09 UTC
+
 jobs:
   update-repos:
     permissions:
       contents: write
       pull-requests: write
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        instance: >-
+          ${{  (github.event_name == 'workflow_dispatch')
+            && [github.event.inputs.instance]
+            || ['galaxy-qa1.galaxy.cloud.e-infra.cz', 'usegalaxy.cz', 'galaxy-umsa.grid.cesnet.cz'] }}
     steps:
       - uses: actions/setup-python@v5
         with:
@@ -29,16 +37,16 @@ jobs:
       - name: Clone IWC repo
         run: git clone https://github.com/galaxyproject/iwc /tmp/iwc
       - name: Run update script
-        run: python scripts/get_iwc_tools.py -w /tmp/iwc -s ${{ inputs.instance }} -u uncategorized.yml
+        run: python scripts/get_iwc_tools.py -w /tmp/iwc -s ${{ matrix.instance }} -u uncategorized.yml
       - name: Get current date
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
-            branch: iwc-update-${{ inputs.instance }}
+            branch: iwc-update-${{ matrix.instance }}
             committer: CESNETbot <martin.cech@cesnet.cz>
-            title: Install IWC tools for ${{ inputs.instance }}
+            title: Install IWC tools for ${{ matrix.instance }}
             commit-message: "output of get_iwc_tools.py"
             labels: automated
             assignees: martenson
