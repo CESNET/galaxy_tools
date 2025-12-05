@@ -1,4 +1,4 @@
-name: Install and update IWC tools
+name: Dispatch update IWC tools
 
 on:
   workflow_dispatch:
