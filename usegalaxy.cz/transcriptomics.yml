@@ -1,4 +1,4 @@
-tool_panel_section_label: CellTypeScan
+tool_panel_section_label: Transcriptomics
 tools:
 - name: decoupler_pseudobulk
   owner: ebi-gxa
