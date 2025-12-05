@@ -359,6 +359,7 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
+  - 3aae4f16ac9e
   - 6322be79bd8e
   - 74aebe30fb52
   - c7275bd8b4d6
