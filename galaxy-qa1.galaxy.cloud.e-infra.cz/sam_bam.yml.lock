@@ -110,6 +110,7 @@ tools:
   revisions:
   - 491037bfc0d2
   - 66e23b11feae
+  - 9038311ed624
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_depth
