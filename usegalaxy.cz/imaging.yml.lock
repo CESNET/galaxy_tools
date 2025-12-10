@@ -15,6 +15,7 @@ tools:
   - 0ecf92b5a7c5
   - 3ae9331790a6
   - 4e9a3745dce4
+  - 54c9a136e24f
   - 8f46605c84ec
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -517,6 +518,7 @@ tools:
   owner: imgteam
   revisions:
   - 2592a29a785e
+  - 8d50a0a9e4af
   - d42501109c05
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

@@ -95,12 +95,14 @@ tools:
   - 5813f9920877
   - 5b3c1679d29b
   - 8cb783c81905
+  - 92a189c299d4
   - b409c2486353
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_inspect
   owner: iuc
   revisions:
+  - 27c054e8d949
   - 3b5ef3b00cdd
   - c5d3684f7c4c
   - d86cb2ce311b
@@ -113,12 +115,14 @@ tools:
   - 4bda4412b8c2
   - 56c0d4acef02
   - ab55fe8030b6
+  - e639abb0de92
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_plot
   owner: iuc
   revisions:
   - 0185bd174ea0
+  - 16a1c3122996
   - 5a5468c0d26f
   - 62acdd96d4a0
   - aa0c474463c2
@@ -129,6 +133,7 @@ tools:
   revisions:
   - 458d4ab0f894
   - 9fb627495ec2
+  - be0d45c46e97
   - bf2017df9837
   - c5541bfb8feb
   tool_panel_section_id: single_cell
@@ -145,6 +150,7 @@ tools:
   owner: iuc
   revisions:
   - 38db3fef7aad
+  - 49ce1315722c
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
