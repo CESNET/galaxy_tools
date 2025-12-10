@@ -582,6 +582,7 @@ tools:
 - name: seqkit_stats
   owner: iuc
   revisions:
+  - 24107542edff
   - 3d6d1121a427
   - 54a954ee64d4
   - a89d0059d1d7
@@ -595,6 +596,7 @@ tools:
   revisions:
   - 23adecaeb039
   - 2fa2353fe3ab
+  - 35136ed940a1
   - 654a2f089252
   - b1b12eaebfa9
   - b91a71153b2f
@@ -617,6 +619,7 @@ tools:
   - 6510652376b1
   - 7cb74b5d4185
   - da7af338cf11
+  - e565ba1ddce4
   - fe7a1e57a6cf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
