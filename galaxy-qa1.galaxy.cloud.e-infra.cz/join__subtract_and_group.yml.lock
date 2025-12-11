@@ -33,5 +33,6 @@ tools:
   - 4c07ddedc198
   - 562f3c677828
   - 61e2aa6bb55d
+  - d642efa5cbd7
   tool_panel_section_id: join__subtract_and_group
   tool_panel_section_label: Join, Subtract and Group
