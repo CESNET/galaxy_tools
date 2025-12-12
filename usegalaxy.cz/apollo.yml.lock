@@ -59,12 +59,6 @@ tools:
 - name: apollo_fetch_jbrowse
   owner: gga
   revisions:
-  - 30ea2be4a236
-  - 331a3bde732e
-  - 41b74ee91497
-  - 6905bb3ce9db
-  - b7c44671f012
   - d91f4bc313d3
-  - fa5ae4bf7f65
   tool_panel_section_id: apollo
   tool_panel_section_label: Apollo
