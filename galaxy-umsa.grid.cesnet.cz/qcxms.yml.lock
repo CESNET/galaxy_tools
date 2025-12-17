@@ -7,12 +7,14 @@ tools:
   revisions:
   - 33b7a99b6de3
   - 475bbef634d4
+  - c40784ec1fdd
   tool_panel_section_id: qcxms
   tool_panel_section_label: QCxMS
 - name: qcxms_production_run
   owner: recetox
   revisions:
   - 356f7916ac07
+  - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: qcxms
   tool_panel_section_label: QCxMS
@@ -20,6 +22,7 @@ tools:
   owner: recetox
   revisions:
   - 0109f244d25a
+  - 720958b09af4
   - 89b026d67e9f
   tool_panel_section_id: qcxms
   tool_panel_section_label: QCxMS

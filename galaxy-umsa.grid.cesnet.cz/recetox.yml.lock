@@ -5,6 +5,7 @@ tools:
 - name: recetox_msfinder
   owner: recetox
   revisions:
+  - a48a1c23257c
   - e7eff0c9baa3
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
