@@ -519,6 +519,7 @@ tools:
   revisions:
   - 2592a29a785e
   - 8d50a0a9e4af
+  - 999c5941a6f0
   - d42501109c05
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -526,6 +527,7 @@ tools:
   owner: imgteam
   revisions:
   - 72b8a6b7661b
+  - e85846f4a05f
   - f3c05a734dd1
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -568,6 +570,7 @@ tools:
 - name: 2d_simple_filter
   owner: imgteam
   revisions:
+  - 1b7e67168732
   - d51310ab328a
   - dba87c4b32d3
   - f264ae82f735

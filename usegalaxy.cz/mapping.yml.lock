@@ -82,6 +82,7 @@ tools:
   owner: iuc
   revisions:
   - 0e8330535ea0
+  - 8fbd98f37c10
   - 95ab864b281a
   - 98099e4da1fd
   tool_panel_section_id: mapping
