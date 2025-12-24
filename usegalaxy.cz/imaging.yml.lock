@@ -26,6 +26,7 @@ tools:
   - 12997d4c5b00
   - 4e089a0983b1
   - 9ccd642e7ae2
+  - a7a21b7ac7b4
   - aee73493bf53
   - b0503eec7bd6
   tool_panel_section_id: imaging
@@ -33,6 +34,7 @@ tools:
 - name: superdsm
   owner: imgteam
   revisions:
+  - 30d88f083ae9
   - 700ae37e5c69
   - 79ec3263686a
   tool_panel_section_id: imaging
@@ -487,11 +489,13 @@ tools:
   revisions:
   - 5791a7f65275
   - 5bc8cdc17fd0
+  - 6a2b26c297a4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: permutate_axis
   owner: imgteam
   revisions:
+  - 119863c974b3
   - 7e7215e721af
   - 91e255c78eb5
   tool_panel_section_id: imaging
@@ -571,6 +575,7 @@ tools:
   owner: imgteam
   revisions:
   - 1b7e67168732
+  - 59e9798010ce
   - d51310ab328a
   - dba87c4b32d3
   - f264ae82f735
@@ -596,6 +601,7 @@ tools:
   revisions:
   - 0c76d029dbe3
   - 7f3d9a1a0447
+  - e26894daf0a0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: points2binaryimage
@@ -676,6 +682,7 @@ tools:
   - 589af0005df5
   - 66fe62b96281
   - b74693340624
+  - bc4cf90cfc3b
   - bf590a9733ed
   - ca362a9bfa20
   tool_panel_section_id: imaging
