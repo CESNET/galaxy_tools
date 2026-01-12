@@ -198,9 +198,3 @@ tools:
   - f7094efef903
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
-- name: parabricks_fq2bam
-  owner: bgruening
-  revisions:
-  - cd355aa0bbcf
-  tool_panel_section_id: mapping
-  tool_panel_section_label: Mapping
