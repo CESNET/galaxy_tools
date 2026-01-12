@@ -48,5 +48,4 @@ tools:
   owner: iuc
 - name: bwameth
   owner: iuc
-- name: parabricks_fq2bam
-  owner: bgruening
+  
