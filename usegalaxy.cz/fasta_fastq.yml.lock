@@ -543,6 +543,7 @@ tools:
   revisions:
   - 7521d865e770
   - ae4d5733272f
+  - d5c640895ed6
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: gfastats
