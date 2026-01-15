@@ -659,6 +659,7 @@ tools:
 - name: deseq2
   owner: iuc
   revisions:
+  - 6c363db8c702
   - 9a882d108833
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
