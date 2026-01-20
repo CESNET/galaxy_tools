@@ -274,3 +274,5 @@ tools:
   owner: richard-burhans
 - name: omark
   owner: iuc
+- name: coreprofiler_allele_calling
+  owner: iuc
