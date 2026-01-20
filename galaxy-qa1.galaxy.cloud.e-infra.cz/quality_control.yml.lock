@@ -11,6 +11,7 @@ tools:
 - name: multiqc
   owner: iuc
   revisions:
+  - 26ee5e11ecbe
   - 31c42a2c02d3
   - 5e33b465d8d5
   - 9a913cdee30e
