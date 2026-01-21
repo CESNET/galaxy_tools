@@ -24,6 +24,7 @@ tools:
   revisions:
   - 6073bb457ec0
   - 86755160afbf
+  - ab83aa685821
   - c41d78ae5fee
   - ddf54b12c295
   tool_panel_section_id: text_manipulation
