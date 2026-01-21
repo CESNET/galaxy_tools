@@ -50,6 +50,7 @@ tools:
   revisions:
   - 298d81e5e138
   - b3f292d9f35d
+  - d3377a16d881
   - f3fefb6d8254
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis

@@ -109,6 +109,7 @@ tools:
   - 3dc70b59608c
   - 6073bb457ec0
   - 86755160afbf
+  - ab83aa685821
   - c41d78ae5fee
   - d698c222f354
   - ddf54b12c295
@@ -273,6 +274,7 @@ tools:
   owner: iuc
   revisions:
   - 521bcbb5aa16
+  - a3c79d2b1041
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: wordcloud
