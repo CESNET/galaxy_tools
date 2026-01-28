@@ -265,6 +265,7 @@ tools:
   - dbf9c561ef29
   - e25816738ef3
   - f875da9d433c
+  - ff33957bf802
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_filter_by_length
@@ -549,6 +550,7 @@ tools:
 - name: gfastats
   owner: bgruening
   revisions:
+  - 0fe699ced54f
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
