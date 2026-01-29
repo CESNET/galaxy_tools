@@ -11,6 +11,7 @@ tools:
 - name: purge_dups
   owner: iuc
   revisions:
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -206,6 +207,7 @@ tools:
   owner: bgruening
   revisions:
   - 0393c0415171
+  - 0fe699ced54f
   - 3ef480892a9f
   - 50b6ec4074f4
   - 5799092ffdff
