@@ -60,3 +60,7 @@ tools:
   owner: recetox
 - name: use_theoretical_mz_annotations
   owner: recetox
+- name: aoptk_chemical_identifier
+  owner: recetox
+- name: aoptk_publication_tracker
+  owner: recetox
