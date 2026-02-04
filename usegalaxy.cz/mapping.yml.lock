@@ -49,6 +49,7 @@ tools:
 - name: hisat2
   owner: iuc
   revisions:
+  - b12d81af0291
   - f4af63aaf57a
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
