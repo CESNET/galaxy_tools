@@ -220,3 +220,15 @@ tools:
   - c68193aed29e
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
+- name: aoptk_chemical_identifier
+  owner: recetox
+  revisions:
+  - 5668e27d0684
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX
+- name: aoptk_publication_tracker
+  owner: recetox
+  revisions:
+  - 0f01dc62c4f3
+  tool_panel_section_id: recetox
+  tool_panel_section_label: RECETOX
