@@ -5,6 +5,7 @@ tools:
 - name: makeeml
   owner: ecology
   revisions:
+  - 13cfbeff9922
   - 642e31c435c9
   - d6aa2a899877
   tool_panel_section_id: data_and_metadata_management
@@ -13,6 +14,7 @@ tools:
   owner: ecology
   revisions:
   - 57b8600443f5
+  - 5835a8d0dffc
   - c1d2c0922362
   tool_panel_section_id: data_and_metadata_management
   tool_panel_section_label: Data and Metadata Management

@@ -134,6 +134,7 @@ tools:
 - name: mitobim
   owner: iuc
   revisions:
+  - 6193220e8cee
   - ea46115c7f1e
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

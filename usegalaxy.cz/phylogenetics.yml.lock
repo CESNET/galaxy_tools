@@ -253,6 +253,7 @@ tools:
 - name: usher_matutils
   owner: iuc
   revisions:
+  - 39ce7344cd1e
   - 52fd1d491417
   - e0a0a473fc1e
   tool_panel_section_id: phylogenetics
@@ -260,6 +261,7 @@ tools:
 - name: usher
   owner: iuc
   revisions:
+  - 568f7ae147ea
   - 746b434c8fbb
   - 8f6c7638eab2
   tool_panel_section_id: phylogenetics

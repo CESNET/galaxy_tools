@@ -672,6 +672,7 @@ tools:
   revisions:
   - 37d67c252fed
   - aef1eea2058c
+  - f0409baac2cd
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: mgnify_seqprep
