@@ -57,11 +57,13 @@ tools:
   - 60024a528cbd
   - c388a21dcbf1
   - e5e767089163
+  - fafc9b2b1657
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: abyss
   owner: iuc
   revisions:
+  - 7a30b65088d1
   - 8f1b150a2487
   - a929ce596a34
   - db9b10824c61

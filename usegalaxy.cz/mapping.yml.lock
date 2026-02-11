@@ -38,6 +38,7 @@ tools:
   - 37b497aa133f
   - 3e1ea2facca6
   - 48d39ee9eb30
+  - bf107d23242b
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: bowtie_wrappers
