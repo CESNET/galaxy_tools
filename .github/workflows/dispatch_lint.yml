@@ -11,6 +11,7 @@ on:
         - galaxy-qa1.galaxy.cloud.e-infra.cz
         - usegalaxy.cz
         - galaxy-umsa.grid.cesnet.cz
+        - repeatexplorer-elixir.cerit-sc.cz
 
 jobs:
   build:
