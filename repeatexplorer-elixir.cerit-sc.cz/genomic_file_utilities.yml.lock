@@ -1,3 +1,6 @@
+install_repository_dependencies: false
+install_resolver_dependencies: false
+install_tool_dependencies: false
 tools:
 - name: various_galaxy_tools
   owner: petr-novak
@@ -5,4 +8,3 @@ tools:
   - 1069776f7ae2
   tool_panel_section_id: genomic_file_utilities
   tool_panel_section_label: Genomic file utilities
-  tool_shed_url: toolshed.g2.bx.psu.edu
