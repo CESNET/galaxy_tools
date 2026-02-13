@@ -12,17 +12,20 @@ tools:
   owner: devteam
   revisions:
   - 6f134426c2b0
+  - d0b9dd19e919
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
 - name: ggplot2_point
   owner: iuc
   revisions:
   - 3b12bf9b4b87
+  - f87634b12749
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
 - name: ggplot2_histogram
   owner: iuc
   revisions:
+  - 6b9816a913de
   - b0d96516e6a5
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
@@ -30,11 +33,13 @@ tools:
   owner: iuc
   revisions:
   - 0e7290688b50
+  - 63d211052ffb
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
 - name: ggplot2_pca
   owner: iuc
   revisions:
+  - 1df3b30325dd
   - b1268b7544d3
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
@@ -42,5 +47,6 @@ tools:
   owner: iuc
   revisions:
   - 10515715c940
+  - 15cebddc6dba
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation

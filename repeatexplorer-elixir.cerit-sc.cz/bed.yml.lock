@@ -11,6 +11,7 @@ tools:
 - name: bedtools
   owner: iuc
   revisions:
+  - 2892111d91f8
   - a1a923cd89e8
   tool_panel_section_id: bed
   tool_panel_section_label: BED

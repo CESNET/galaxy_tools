@@ -5,6 +5,7 @@ tools:
 - name: fasta_compute_length
   owner: devteam
   revisions:
+  - 5cbde03c1103
   - 7d37cfda8e00
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -18,23 +19,27 @@ tools:
   owner: devteam
   revisions:
   - 516b97a23d7e
+  - e773f1eb16cf
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastx_reverse_complement
   owner: devteam
   revisions:
   - 177f0621c266
+  - 7566b751e769
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastx_trimmer
   owner: devteam
   revisions:
+  - 1ea2ae5afb28
   - 73194cdd4f57
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastx_renamer
   owner: devteam
   revisions:
+  - 0ffae348abae
   - f984bb114520
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -48,11 +53,13 @@ tools:
   owner: devteam
   revisions:
   - 2dcfbbf9071a
+  - 78fb18899c99
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastq_to_tabular
   owner: devteam
   revisions:
+  - 43807a65369f
   - 4b347702c4aa
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -60,11 +67,13 @@ tools:
   owner: devteam
   revisions:
   - 297962e79f39
+  - 4a3e93647a4e
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastq_paired_end_deinterlacer
   owner: devteam
   revisions:
+  - c48cf4699be7
   - f3936d0632cb
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -72,6 +81,7 @@ tools:
   owner: devteam
   revisions:
   - 2ccb8dcabddc
+  - acb5090e281f
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fasta_filter_by_length
@@ -83,6 +93,7 @@ tools:
 - name: ucsc_fasplit
   owner: iuc
   revisions:
+  - 1add611a6018
   - bf04bd405d5b
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -96,12 +107,14 @@ tools:
 - name: trim_galore
   owner: bgruening
   revisions:
+  - b94789823aad
   - cd7e644cae1d
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: seqkit_stats
   owner: iuc
   revisions:
+  - 24107542edff
   - 54a954ee64d4
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -109,5 +122,6 @@ tools:
   owner: iuc
   revisions:
   - 4b494533146a
+  - 8511b6d85fc7
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation

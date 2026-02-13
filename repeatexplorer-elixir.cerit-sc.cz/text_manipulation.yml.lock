@@ -5,6 +5,7 @@ tools:
 - name: text_processing
   owner: bgruening
   revisions:
+  - ab83aa685821
   - d698c222f354
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text manipulation
