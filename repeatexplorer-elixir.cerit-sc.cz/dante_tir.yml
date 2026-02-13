@@ -1,0 +1,4 @@
+tool_panel_section_label: DANTE_TIR
+tools:
+- name: dante_tir
+  owner: petr-novak

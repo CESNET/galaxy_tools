@@ -1,0 +1,6 @@
+tool_panel_section_label: BED
+tools:
+- name: gffread
+  owner: devteam
+- name: bedtools
+  owner: iuc

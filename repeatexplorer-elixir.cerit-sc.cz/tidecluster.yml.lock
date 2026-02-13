@@ -1,0 +1,11 @@
+tools:
+- name: tidecluster
+  owner: petr-novak
+  revisions:
+  - 30a8a954dd93
+  - 440796be7576
+  - 971dbc97e607
+  - a0f57cfa1bb7
+  tool_panel_section_id: tidecluster
+  tool_panel_section_label: TideCluster
+  tool_shed_url: toolshed.g2.bx.psu.edu

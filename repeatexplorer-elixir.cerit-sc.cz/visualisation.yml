@@ -1,0 +1,16 @@
+tool_panel_section_label: Visualisation
+tools:
+- name: krona_text
+  owner: petr-novak
+- name: histogram
+  owner: devteam
+- name: ggplot2_point
+  owner: iuc
+- name: ggplot2_histogram
+  owner: iuc
+- name: ggplot2_violin
+  owner: iuc
+- name: ggplot2_pca
+  owner: iuc
+- name: ggplot2_heatmap
+  owner: iuc

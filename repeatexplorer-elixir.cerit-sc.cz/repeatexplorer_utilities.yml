@@ -1,0 +1,6 @@
+tool_panel_section_label: RepeatExplorer utilities
+tools:
+- name: re_utils
+  owner: petr-novak
+- name: long_reads_sampling
+  owner: petr-novak

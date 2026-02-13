@@ -1,0 +1,8 @@
+tools:
+- name: text_processing
+  owner: bgruening
+  revisions:
+  - d698c222f354
+  tool_panel_section_id: text_manipulation
+  tool_panel_section_label: Text manipulation
+  tool_shed_url: toolshed.g2.bx.psu.edu

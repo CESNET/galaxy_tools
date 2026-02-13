@@ -1,0 +1,8 @@
+tools:
+- name: ncbi_datasets
+  owner: iuc
+  revisions:
+  - 198c75abbf55
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu

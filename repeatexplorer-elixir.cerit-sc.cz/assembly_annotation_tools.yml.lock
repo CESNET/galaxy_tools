@@ -1,0 +1,9 @@
+tools:
+- name: repeat_annotation_pipeline3
+  owner: petr-novak
+  revisions:
+  - 5366d5ea04bc
+  - 755a4d643184
+  tool_panel_section_id: assembly_annotation_tools
+  tool_panel_section_label: Assembly annotation tools
+  tool_shed_url: toolshed.g2.bx.psu.edu

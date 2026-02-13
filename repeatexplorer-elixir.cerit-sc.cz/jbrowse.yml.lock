@@ -1,0 +1,8 @@
+tools:
+- name: jbrowse
+  owner: iuc
+  revisions:
+  - a6e57ff585c0
+  tool_panel_section_id: jbrowse
+  tool_panel_section_label: Jbrowse
+  tool_shed_url: toolshed.g2.bx.psu.edu

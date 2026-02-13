@@ -1,0 +1,12 @@
+tools:
+- name: dante
+  owner: petr-novak
+  revisions:
+  - f0663cdbae66
+  - 8f2bd3cae2de
+  - a9d7ebf988f9
+  - 5210db15a5fa
+  - 726b8447eb09
+  tool_panel_section_id: dante
+  tool_panel_section_label: DANTE
+  tool_shed_url: toolshed.g2.bx.psu.edu

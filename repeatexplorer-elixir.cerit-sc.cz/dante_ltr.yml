@@ -1,0 +1,4 @@
+tool_panel_section_label: DANTE_LTR
+tools:
+- name: dante_ltr
+  owner: petr-novak

@@ -1,0 +1,8 @@
+tools:
+- name: dante_tir
+  owner: petr-novak
+  revisions:
+  - ce4d06c72092
+  tool_panel_section_id: dante_tir
+  tool_panel_section_label: DANTE_TIR
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,13 @@
+tools:
+- name: repeatexplorer2_testing
+  owner: petr-novak
+  revisions:
+  - a27646c27090
+  - 3d0ba5734776
+  - 792914356c37
+  - 4308d3e572ee
+  - 5cca2c9aa4ad
+  - 20ef42e81eeb
+  tool_panel_section_id: repeatexplorer
+  tool_panel_section_label: RepeatExplorer
+  tool_shed_url: toolshed.g2.bx.psu.edu

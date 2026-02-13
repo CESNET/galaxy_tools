@@ -1,0 +1,4 @@
+tool_panel_section_label: Genomic file utilities
+tools:
+- name: various_galaxy_tools
+  owner: petr-novak

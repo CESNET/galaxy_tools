@@ -1,0 +1,12 @@
+tools:
+- name: dante_ltr
+  owner: petr-novak
+  revisions:
+  - e61f06df42b9
+  - 27e5f58763f2
+  - 08b5e23859ed
+  - d5508ce50c49
+  - 8224e3d7b03a
+  tool_panel_section_id: dante_ltr
+  tool_panel_section_label: DANTE_LTR
+  tool_shed_url: toolshed.g2.bx.psu.edu
