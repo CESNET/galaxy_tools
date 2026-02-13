@@ -557,6 +557,7 @@ tools:
   revisions:
   - 28ffaaa5739f
   - 331a50e8fd2f
+  - 6153e8ada1ee
   - 9ec469ff191a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
