@@ -1,0 +1,4 @@
+tool_panel_section_label: RepeatExplorer
+tools:
+- name: repeatexplorer2_testing
+  owner: petr-novak

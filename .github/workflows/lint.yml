@@ -32,3 +32,4 @@ jobs:
           make INSTANCE=galaxy-qa1.galaxy.cloud.e-infra.cz lint
           make INSTANCE=usegalaxy.cz lint
           make INSTANCE=galaxy-umsa.grid.cesnet.cz lint
+          make INSTANCE=repeatexplorer-elixir.cerit-sc.cz lint

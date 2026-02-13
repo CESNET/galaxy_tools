@@ -35,6 +35,8 @@ jobs:
           make INSTANCE=usegalaxy.cz fix
           make INSTANCE=galaxy-umsa.grid.cesnet.cz lint
           make INSTANCE=galaxy-umsa.grid.cesnet.cz fix
+          make INSTANCE=repeatexplorer-elixir.cerit-sc.cz lint
+          make INSTANCE=repeatexplorer-elixir.cerit-sc.cz fix
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:

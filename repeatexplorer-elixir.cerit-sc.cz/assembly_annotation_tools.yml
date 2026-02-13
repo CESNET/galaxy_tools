@@ -1,0 +1,4 @@
+tool_panel_section_label: Assembly annotation tools
+tools:
+- name: repeat_annotation_pipeline3
+  owner: petr-novak
