@@ -34,6 +34,7 @@ tools:
   - 8b8a3f793f0f
   - 9553180705b7
   - 98037ef3d2a9
+  - a02aa0dfb850
   tool_panel_section_id: ncbi_blast
   tool_panel_section_label: NCBI Blast
 - name: taxonomy_krona_chart

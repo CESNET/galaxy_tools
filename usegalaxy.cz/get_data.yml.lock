@@ -134,6 +134,7 @@ tools:
   - 054483e27a35
   - 60f7e2a6b9c7
   - 95fb5712344f
+  - bf5121c5c2be
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: ensembl_get_sequences

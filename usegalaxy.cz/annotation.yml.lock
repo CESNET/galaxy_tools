@@ -722,6 +722,7 @@ tools:
   revisions:
   - 0411fca1d681
   - 579f1cabfe79
+  - 8860f7d69d2a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: te_finder
