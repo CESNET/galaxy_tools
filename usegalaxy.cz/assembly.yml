@@ -172,3 +172,5 @@ tools:
   owner: iuc
 - name: pairtools_dedup
   owner: iuc
+- name: teloscope
+  owner: iuc
