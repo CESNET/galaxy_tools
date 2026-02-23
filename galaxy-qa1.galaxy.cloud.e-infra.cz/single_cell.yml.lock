@@ -105,6 +105,7 @@ tools:
   revisions:
   - 7e8c677a7b71
   - be1fdce914c6
+  - e6a8d5fdca85
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: baredsc_1d

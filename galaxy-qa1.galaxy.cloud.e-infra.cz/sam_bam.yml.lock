@@ -142,6 +142,7 @@ tools:
 - name: bamtools_filter
   owner: devteam
   revisions:
+  - 47db0f26ca31
   - 62e4d6cdbaa7
   - 993b19f20c76
   tool_panel_section_id: sam_bam
