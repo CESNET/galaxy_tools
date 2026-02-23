@@ -114,3 +114,5 @@ tools:
   owner: iuc
 - name: racon
   owner: bgruening
+- name: teloscope
+  owner: iuc
