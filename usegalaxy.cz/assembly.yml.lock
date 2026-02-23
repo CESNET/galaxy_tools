@@ -666,3 +666,9 @@ tools:
   - 3d1d241ceff2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
+- name: teloscope
+  owner: iuc
+  revisions:
+  - 321ceb58023e
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
