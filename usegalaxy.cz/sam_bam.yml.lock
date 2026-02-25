@@ -8,6 +8,7 @@ tools:
   - 2fe966f8532e
   - 5854d0da92b4
   - 69f93450c57d
+  - ab04d9a08de8
   - b1a8d09e5a82
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
@@ -174,6 +175,7 @@ tools:
   revisions:
   - 41e36c99a008
   - 68a116f469db
+  - 84819580b8a5
   - c05afbeaf42d
   - d2df79922531
   tool_panel_section_id: sam_bam

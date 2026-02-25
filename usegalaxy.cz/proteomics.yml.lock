@@ -598,6 +598,7 @@ tools:
   - 22a866858b81
   - bf4e668b6690
   - e376ba0fcde0
+  - f2aef0ee9d78
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: idpquery
