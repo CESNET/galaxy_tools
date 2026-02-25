@@ -857,6 +857,7 @@ tools:
   revisions:
   - 7bc75dd0f782
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer3
