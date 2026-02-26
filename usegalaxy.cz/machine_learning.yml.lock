@@ -459,3 +459,9 @@ tools:
   - e8d6b4acb7c6
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
+- name: llm_hub
+  owner: bgruening
+  revisions:
+  - 99898a312165
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
