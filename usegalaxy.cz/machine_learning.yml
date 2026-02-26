@@ -74,3 +74,6 @@ tools:
   owner: iuc
 - name: sklearn_label_encoder
   owner: bgruening
+- name: llm_hub
+  owner: bgruening
+  
