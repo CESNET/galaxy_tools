@@ -79,24 +79,28 @@ tools:
   owner: iuc
   revisions:
   - 3f5fc4b09496
+  - d516fc63b6e5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: transit_resampling
   owner: iuc
   revisions:
   - 885459e1c83b
+  - a05b6a392ff0
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: transit_hmm
   owner: iuc
   revisions:
   - 7db455b6434b
+  - d6b029a6de63
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: transit_gumbel
   owner: iuc
   revisions:
   - 8fc50fe60127
+  - a6c8b6e47c51
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: kobas
@@ -109,6 +113,7 @@ tools:
   owner: iuc
   revisions:
   - 07d7991bf205
+  - 661c164268cc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: gprofiler_snpense
@@ -248,6 +253,7 @@ tools:
   owner: bgruening
   revisions:
   - 358f58401cd6
+  - b86f3e5626f4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: segmentation_fold
@@ -306,6 +312,7 @@ tools:
 - name: cryptogenotyper
   owner: nml
   revisions:
+  - a91455432cd4
   - d4a96287909e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -373,6 +380,7 @@ tools:
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -457,6 +465,7 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -515,6 +524,7 @@ tools:
   owner: genouest
   revisions:
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: omark

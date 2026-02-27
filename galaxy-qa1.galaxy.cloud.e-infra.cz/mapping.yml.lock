@@ -29,6 +29,7 @@ tools:
 - name: hisat2
   owner: iuc
   revisions:
+  - b12d81af0291
   - f4af63aaf57a
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -73,6 +74,7 @@ tools:
   owner: devteam
   revisions:
   - 37b497aa133f
+  - bf107d23242b
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: bwa_mem2

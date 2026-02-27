@@ -53,11 +53,13 @@ tools:
   owner: galaxyp
   revisions:
   - 19e45916daf9
+  - 5c04f9decc01
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 28ffaaa5739f
   - 331a50e8fd2f
   - 6153e8ada1ee
   - ab6c14374bc0
@@ -140,6 +142,7 @@ tools:
 - name: bigwig_to_bedgraph
   owner: bgruening
   revisions:
+  - 0a73ffe34e7d
   - 3799012ce2ff
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -164,6 +167,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 740e1702cb22
   - 9f1c8dc0253e
   - c6b5c2975e51
   tool_panel_section_id: convert_formats
@@ -172,6 +176,7 @@ tools:
   owner: iuc
   revisions:
   - 3d0223265277
+  - e58dc53cb0c7
   - f4f71128f097
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

@@ -5,6 +5,7 @@ tools:
 - name: unzip
   owner: imgteam
   revisions:
+  - 0eec07359840
   - 57f0914ddb7b
   tool_panel_section_id: collection_operations
   tool_panel_section_label: Collection Operations

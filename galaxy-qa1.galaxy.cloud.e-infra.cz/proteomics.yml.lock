@@ -67,6 +67,7 @@ tools:
   revisions:
   - 22a866858b81
   - bf4e668b6690
+  - f2aef0ee9d78
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: openms_openswathdiaprescoring
@@ -285,6 +286,7 @@ tools:
   owner: galaxyp
   revisions:
   - 21a560af5913
+  - 4edfc76f8a29
   - 9aaa46d45472
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
@@ -590,6 +592,7 @@ tools:
 - name: eggnog_mapper
   owner: galaxyp
   revisions:
+  - 02439eb2b37d
   - d9c3016f7283
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics

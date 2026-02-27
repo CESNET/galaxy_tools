@@ -18,6 +18,7 @@ tools:
 - name: sleuth
   owner: iuc
   revisions:
+  - 2c3d294dbe42
   - d6b5fc94062c
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis

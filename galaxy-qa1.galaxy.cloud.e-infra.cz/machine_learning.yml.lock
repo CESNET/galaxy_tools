@@ -6,5 +6,6 @@ tools:
   owner: bgruening
   revisions:
   - 28e902e3d8d6
+  - 99898a312165
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning

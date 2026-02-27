@@ -5,6 +5,7 @@ tools:
 - name: datamash_transpose
   owner: iuc
   revisions:
+  - a2667f8d23de
   - a513e3fbb4c5
   tool_panel_section_id: join__subtract_and_group
   tool_panel_section_label: Join, Subtract and Group
@@ -24,6 +25,7 @@ tools:
 - name: datamash_reverse
   owner: iuc
   revisions:
+  - 9c42f7dabad8
   - b8a457820315
   tool_panel_section_id: join__subtract_and_group
   tool_panel_section_label: Join, Subtract and Group
