@@ -24,3 +24,5 @@ tools:
   owner: devteam
 - name: multiqc
   owner: iuc
+- name: fastp
+  owner: iuc
