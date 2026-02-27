@@ -40,6 +40,7 @@ tools:
 - name: amplican
   owner: iuc
   revisions:
+  - 6f3df153a095
   - 8c1bba8d544a
   tool_panel_section_id: genome_editing
   tool_panel_section_label: Genome editing

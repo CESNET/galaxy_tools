@@ -32,6 +32,7 @@ tools:
 - name: mitobim
   owner: iuc
   revisions:
+  - 6193220e8cee
   - ea46115c7f1e
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -218,6 +219,7 @@ tools:
   owner: devteam
   revisions:
   - 920677cd220f
+  - e0e4fc474b07
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: cap3
@@ -231,6 +233,7 @@ tools:
   owner: bgruening
   revisions:
   - 1f9f2edc8cf4
+  - bdfd7cef3438
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: necat
@@ -254,6 +257,7 @@ tools:
 - name: shovill
   owner: iuc
   revisions:
+  - 331109486d58
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -261,6 +265,7 @@ tools:
   owner: bgruening
   revisions:
   - 86f150c8019d
+  - e05f5ee0ffb9
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: bellerophon
@@ -319,12 +324,14 @@ tools:
   owner: bgruening
   revisions:
   - 5d365d5cbe9d
+  - baf229b1fdfd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_map
   owner: iuc
   revisions:
   - 0346286a3b0a
+  - 056f86469460
   - 9c942221e135
   - c6cec5ab35c1
   tool_panel_section_id: assembly
@@ -332,6 +339,7 @@ tools:
 - name: pretext_graph
   owner: iuc
   revisions:
+  - 1c2ebb81a211
   - 36ce83a739f2
   - 408ece2e4647
   tool_panel_section_id: assembly

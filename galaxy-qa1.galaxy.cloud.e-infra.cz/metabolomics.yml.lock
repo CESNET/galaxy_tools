@@ -134,6 +134,7 @@ tools:
 - name: nmr_preprocessing
   owner: marie-tremblay-metatoul
   revisions:
+  - 122df1bf0a8c
   - 6e837e9352a2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -158,6 +159,7 @@ tools:
 - name: qualitymetrics
   owner: ethevenot
   revisions:
+  - 25c9349d1be9
   - acdf51018708
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics

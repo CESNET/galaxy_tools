@@ -19,6 +19,7 @@ tools:
 - name: mash
   owner: iuc
   revisions:
+  - 22384d3d25f4
   - 86dec4abcea8
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -210,6 +211,7 @@ tools:
   revisions:
   - 20e2f64aa1fe
   - 241a78eb2935
+  - cbe396d9773e
   - e150ae930235
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -272,6 +274,7 @@ tools:
   owner: iuc
   revisions:
   - 53a019316350
+  - 7209f32a9e9d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_genome
@@ -318,47 +321,55 @@ tools:
   owner: iuc
   revisions:
   - 4e469b758915
+  - e7c2674e01fe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_filterandtrim
   owner: iuc
   revisions:
   - 00e0347751b1
+  - e8768ddeba32
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_learnerrors
   owner: iuc
   revisions:
   - a14a18a47c36
+  - dd6572434618
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_dada
   owner: iuc
   revisions:
+  - 47198090501e
   - b35a5e8ff0fe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_mergepairs
   owner: iuc
   revisions:
+  - 273b8a00c8a2
   - 646c58820267
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_makesequencetable
   owner: iuc
   revisions:
+  - 88677f452aea
   - ebd632e95aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_removebimeradenovo
   owner: iuc
   revisions:
+  - 4efeb75704c8
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_seqcounts
   owner: iuc
   revisions:
+  - 213a3fda0b91
   - 390bc2645138
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -366,6 +377,7 @@ tools:
   owner: iuc
   revisions:
   - 705d26fbea02
+  - 9f306361a58e
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_paste

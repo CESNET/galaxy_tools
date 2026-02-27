@@ -12,6 +12,7 @@ tools:
   owner: iuc
   revisions:
   - 468b90c41cde
+  - 7021ed347f7e
   - 93cfe7df7f8a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -20,6 +21,7 @@ tools:
   revisions:
   - 00e20a06ff1e
   - 311d11c4a68b
+  - c23737f9714f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: strelka_germline
@@ -137,6 +139,7 @@ tools:
 - name: gatk4_mutect2
   owner: iuc
   revisions:
+  - 2898012c5265
   - 53ce8be43212
   - fb0bb7174530
   tool_panel_section_id: variant_calling
@@ -449,6 +452,7 @@ tools:
 - name: beagle
   owner: iuc
   revisions:
+  - de7a6727f578
   - f75bf16ac901
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

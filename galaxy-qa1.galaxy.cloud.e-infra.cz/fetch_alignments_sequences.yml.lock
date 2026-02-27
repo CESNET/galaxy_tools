@@ -21,5 +21,6 @@ tools:
   - 54e818ea7c4d
   - 571e6933e972
   - 642d73815dd1
+  - e565ba1ddce4
   tool_panel_section_id: fetch_alignments_sequences
   tool_panel_section_label: Fetch Alignments/Sequences

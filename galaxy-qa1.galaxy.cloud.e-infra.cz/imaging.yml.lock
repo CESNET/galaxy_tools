@@ -14,23 +14,27 @@ tools:
   revisions:
   - 3ae9331790a6
   - 4e9a3745dce4
+  - 54c9a136e24f
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: 2d_simple_filter
   owner: imgteam
   revisions:
+  - 59e9798010ce
   - d51310ab328a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: 2d_histogram_equalization
   owner: imgteam
   revisions:
+  - 99e0ef91ea5e
   - b1c2c210813c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: 2d_auto_threshold
   owner: imgteam
   revisions:
+  - 2ee04d2ebdcf
   - 50fa6150e340
   - 699a5e9146b3
   tool_panel_section_id: imaging
@@ -38,12 +42,14 @@ tools:
 - name: bfconvert
   owner: imgteam
   revisions:
+  - fa8ce46a95bb
   - fcadded98e61
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: binary2labelimage
   owner: imgteam
   revisions:
+  - 364e235bf378
   - 7f8102bdbfa1
   - 984358e43242
   tool_panel_section_id: imaging
@@ -52,6 +58,7 @@ tools:
   owner: imgteam
   revisions:
   - 66fe62b96281
+  - bc4cf90cfc3b
   - ca362a9bfa20
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -92,6 +99,7 @@ tools:
   revisions:
   - 506a90ab5581
   - 65703c06c1f6
+  - fc43cdc81408
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: scimap_mcmicro_to_anndata

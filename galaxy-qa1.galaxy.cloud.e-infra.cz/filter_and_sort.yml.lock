@@ -7,6 +7,7 @@ tools:
   revisions:
   - 0f710191a66d
   - 3c5e024a18cf
+  - a3e78550e42e
   tool_panel_section_id: filter_and_sort
   tool_panel_section_label: Filter and Sort
 - name: filter_by_fasta_ids
