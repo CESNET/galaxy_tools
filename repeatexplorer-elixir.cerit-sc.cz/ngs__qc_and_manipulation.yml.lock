@@ -86,3 +86,9 @@ tools:
   - abfd8a6544d7
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
+- name: fastp
+  owner: iuc
+  revisions:
+  - ff33957bf802
+  tool_panel_section_id: ngs__qc_and_manipulation
+  tool_panel_section_label: 'NGS: QC and manipulation'
