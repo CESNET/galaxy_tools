@@ -349,6 +349,7 @@ tools:
 - name: cutadapt
   owner: lparsons
   revisions:
+  - 5d00fd7847eb
   - 5eb7e84243f2
   - 80766b36005d
   - 8e264b67a8c0
