@@ -21,6 +21,7 @@ tools:
 - name: msmetaenhancer
   owner: recetox
   revisions:
+  - 3b402610c6dc
   - 3e2cb0bc6959
   - 560053b805d2
   - 646ef66527da
