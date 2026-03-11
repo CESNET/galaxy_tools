@@ -116,6 +116,7 @@ tools:
   revisions:
   - 24107542edff
   - 54a954ee64d4
+  - cfa0fe8978a3
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: seqtk
