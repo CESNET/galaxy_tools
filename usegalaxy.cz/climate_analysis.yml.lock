@@ -49,6 +49,7 @@ tools:
   revisions:
   - 21e8386cf36f
   - 250554670f72
+  - d7b62d55f8dd
   tool_panel_section_id: climate_analysis
   tool_panel_section_label: Climate Analysis
 - name: cesm
@@ -60,6 +61,7 @@ tools:
 - name: cads
   owner: climate
   revisions:
+  - 67a7303bc5c9
   - b768e517a7d0
   tool_panel_section_id: climate_analysis
   tool_panel_section_label: Climate Analysis

@@ -6,6 +6,7 @@ tools:
   owner: iuc
   revisions:
   - 3967889cda03
+  - 734fbbd94307
   - 96f74538896e
   - f73ab5187eed
   - f89e3c318453
@@ -617,6 +618,7 @@ tools:
   revisions:
   - '392811378515'
   - 53dd00a4ab68
+  - 54a68f38cf3f
   - 7d9ee8cd14b8
   - 840822c1e84a
   tool_panel_section_id: assembly

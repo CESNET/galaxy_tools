@@ -22,6 +22,7 @@ tools:
   owner: bgruening
   revisions:
   - 6c6d26ff01ff
+  - dcc6bb900eee
   tool_panel_section_id: filter_and_sort
   tool_panel_section_label: Filter and Sort
 - name: xpath

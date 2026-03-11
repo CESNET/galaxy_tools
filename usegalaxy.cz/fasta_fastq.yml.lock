@@ -12,6 +12,7 @@ tools:
   - 8c0175e03cee
   - 8e264b67a8c0
   - c0b2c2e39c9c
+  - f6168dd17f82
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastqe
@@ -591,6 +592,7 @@ tools:
   - 54a954ee64d4
   - a89d0059d1d7
   - b9297580f1e0
+  - cfa0fe8978a3
   - dffafc82f0ae
   - e48648aabfae
   tool_panel_section_id: fasta_fastq
@@ -602,6 +604,7 @@ tools:
   - 2fa2353fe3ab
   - 35136ed940a1
   - 654a2f089252
+  - 787885938baa
   - b1b12eaebfa9
   - b91a71153b2f
   - bf232552f5fe
@@ -622,6 +625,7 @@ tools:
   - 642d73815dd1
   - 6510652376b1
   - 7cb74b5d4185
+  - be1ccfa4abaf
   - da7af338cf11
   - e565ba1ddce4
   - fe7a1e57a6cf
@@ -658,6 +662,7 @@ tools:
 - name: seqkit_translate
   owner: iuc
   revisions:
+  - 0d9d8de82304
   - 0e0b003c711f
   - c669e8550c46
   tool_panel_section_id: fasta_fastq
