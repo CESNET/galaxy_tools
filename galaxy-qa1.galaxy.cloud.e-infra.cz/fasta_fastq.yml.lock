@@ -353,6 +353,7 @@ tools:
   - 5eb7e84243f2
   - 80766b36005d
   - 8e264b67a8c0
+  - f6168dd17f82
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: trimmomatic
