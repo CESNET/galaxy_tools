@@ -415,3 +415,9 @@ tools:
   - fc35ffc8c548
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
+- name: ucsc_fasplit
+  owner: iuc
+  revisions:
+  - 1add611a6018
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ

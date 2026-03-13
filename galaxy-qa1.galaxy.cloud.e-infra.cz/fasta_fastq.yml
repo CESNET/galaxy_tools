@@ -120,3 +120,5 @@ tools:
   owner: bgruening
 - name: ncbi_blast_plus
   owner: devteam
+- name: ucsc_fasplit
+  owner: iuc
