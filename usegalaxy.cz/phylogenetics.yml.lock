@@ -29,6 +29,7 @@ tools:
 - name: hyphy_bgm
   owner: iuc
   revisions:
+  - 0bdd3998a0d7
   - 35723f87964d
   - 3ff0c5dac8e9
   - 4515f2f64e13
@@ -42,6 +43,7 @@ tools:
   revisions:
   - 5b777002c2de
   - 659517798cc4
+  - 6b8fd7d6b0ad
   - 724630cdd122
   - 9127799ac97e
   - 9bbe8035be5d
@@ -54,6 +56,7 @@ tools:
   - 106a316b5313
   - 180523b637d5
   - 1a53af0d39ec
+  - 3f8261f0a826
   - '841557158611'
   - 8db8d509d51b
   - a6619171428e
@@ -62,6 +65,7 @@ tools:
 - name: hyphy_fubar
   owner: iuc
   revisions:
+  - 04de395f2a4e
   - 1b893cdead55
   - 4ef4f53dcc68
   - 6a3766e076e6
@@ -75,6 +79,7 @@ tools:
   revisions:
   - 0e1a79e78bba
   - 497665e20de4
+  - 657baa39114a
   - a73fff151e38
   - ba558cf29c92
   - cf51d3630757
@@ -85,6 +90,7 @@ tools:
   owner: iuc
   revisions:
   - 011f70f720ac
+  - 07774580b606
   - 6543a5d937c4
   - 6971ee03a002
   - 9f71cd7b2554
@@ -113,6 +119,7 @@ tools:
   - 2753a5c7597a
   - 307b6a9a520b
   - cfa5f36d0c77
+  - e46726cd0c9e
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphy_fel
@@ -264,6 +271,7 @@ tools:
   owner: iuc
   revisions:
   - 1e65054da37c
+  - 4c52eab912ea
   - 6761212b7f1d
   - a610ae9901fd
   - b30255d232d2
@@ -289,6 +297,7 @@ tools:
   - 31e7f5a25db3
   - 83421c6944a1
   - a60caeb3c453
+  - aaf823b11580
   - bba232f7b231
   - ea698cd7e086
   - f5bbd4b34541
