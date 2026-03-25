@@ -263,6 +263,7 @@ tools:
   - 480ddbd12a03
   - 65b93b623c77
   - a626e8c0e1ba
+  - b2e9a56e5259
   - c59d48774d03
   - dbf9c561ef29
   - e25816738ef3
@@ -677,6 +678,7 @@ tools:
 - name: rdeval
   owner: richard-burhans
   revisions:
+  - 058bb29e28ba
   - 37d67c252fed
   - aef1eea2058c
   - f0409baac2cd

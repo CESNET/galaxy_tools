@@ -8,6 +8,7 @@ tools:
   - 22c2a1ac7ae3
   - a2667f8d23de
   - a513e3fbb4c5
+  - a884245d3b3a
   - ac092723240d
   tool_panel_section_id: join__subtract_and_group
   tool_panel_section_label: Join, Subtract and Group
@@ -30,6 +31,7 @@ tools:
   - 0f1724dd59d2
   - 17e3b698dd52
   - 9c42f7dabad8
+  - b5cc41ad28b3
   - b8a457820315
   - f198773344e4
   tool_panel_section_id: join__subtract_and_group
@@ -43,6 +45,7 @@ tools:
   - 562f3c677828
   - 61e2aa6bb55d
   - 746e8e4bf929
+  - aaafc0ac4dd2
   - d642efa5cbd7
   tool_panel_section_id: join__subtract_and_group
   tool_panel_section_label: Join, Subtract and Group

@@ -941,6 +941,7 @@ tools:
   revisions:
   - 3f9ff31c88bb
   - 51a3b375b7b8
+  - c312b506ee6f
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: cherri_train

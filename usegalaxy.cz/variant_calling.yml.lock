@@ -159,6 +159,7 @@ tools:
   owner: iuc
   revisions:
   - 09d6806c609e
+  - 0abc5513f795
   - 2b3e65a4252f
   - 2e497a770bca
   - 5fab4f81391d
@@ -274,6 +275,7 @@ tools:
   owner: iuc
   revisions:
   - 0c415ba215e7
+  - 45171c84aee1
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: odgi_viz
@@ -548,6 +550,7 @@ tools:
   - 5c7b70713fb5
   - 6322be79bd8e
   - 74aebe30fb52
+  - 908f2c5fedec
   - c7275bd8b4d6
   - e8adfc4c0a6b
   tool_panel_section_id: variant_calling
@@ -666,6 +669,7 @@ tools:
 - name: snpsift_genesets
   owner: iuc
   revisions:
+  - 60d04e5f3dcf
   - d12a810c837e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -673,6 +677,7 @@ tools:
   owner: iuc
   revisions:
   - 4e21e4f2bc48
+  - cff5bd9c728d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpsift_dbnsfp_generic
