@@ -420,6 +420,7 @@ tools:
   - 0346286a3b0a
   - 056f86469460
   - 9c942221e135
+  - bd07b0d0f568
   - c6cec5ab35c1
   - dfb8a4497339
   tool_panel_section_id: assembly
@@ -617,6 +618,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
@@ -657,6 +659,7 @@ tools:
   - 1c2ebb81a211
   - 36ce83a739f2
   - 408ece2e4647
+  - 8e422c873d02
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pairtools_parse
