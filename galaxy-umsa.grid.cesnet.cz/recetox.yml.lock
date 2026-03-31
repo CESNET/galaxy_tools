@@ -21,6 +21,7 @@ tools:
 - name: msmetaenhancer
   owner: recetox
   revisions:
+  - 3b402610c6dc
   - 3e2cb0bc6959
   - 560053b805d2
   - 646ef66527da
@@ -50,6 +51,7 @@ tools:
   - 6480c6d5fa36
   - 6fc9f6dbcef5
   - 821062fc5782
+  - bf28a0fc0db6
   - bf32ae95a06f
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -90,6 +92,7 @@ tools:
   owner: recetox
   revisions:
   - 984d5fa7acf5
+  - 9b2fe4c49ecb
   - af25aa61c611
   - c702620c22b1
   tool_panel_section_id: recetox
@@ -122,6 +125,7 @@ tools:
   - 6975af39ba79
   - 7226eba9c09d
   - 97ccdb1ba47c
+  - e2fa3b23d7db
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: rename_annotated_feature
@@ -139,6 +143,7 @@ tools:
 - name: rcx_tk
   owner: recetox
   revisions:
+  - 320ebaa133e5
   - 54401f9d1a30
   - 9b4b624c4d60
   tool_panel_section_id: recetox
@@ -210,6 +215,7 @@ tools:
 - name: freqsap
   owner: recetox
   revisions:
+  - 1c2a8760ad2b
   - ddabfd6ee2a2
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX

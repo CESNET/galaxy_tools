@@ -32,3 +32,5 @@ tools:
   owner: workflow4metabolomics
 - name: xcms_plot_raw
   owner: workflow4metabolomics
+- name: rcx_boxplot
+  owner: recetox
