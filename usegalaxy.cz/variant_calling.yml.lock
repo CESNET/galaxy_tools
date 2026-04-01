@@ -846,6 +846,7 @@ tools:
 - name: deepvariant
   owner: iuc
   revisions:
+  - 0a151b5f95e4
   - 1ad55977a040
   - 63b68fe4af85
   - 918c8b94c8d8
@@ -869,6 +870,7 @@ tools:
 - name: bbtools_callvariants
   owner: iuc
   revisions:
+  - 68564cf83cb0
   - a033aa9a822e
   - b955346ef41e
   - d1912018a603

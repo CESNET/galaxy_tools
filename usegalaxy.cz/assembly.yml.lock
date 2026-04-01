@@ -365,6 +365,7 @@ tools:
   owner: peterjc
   revisions:
   - 63ebe9726219
+  - 6bf6e2c537c0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: edena

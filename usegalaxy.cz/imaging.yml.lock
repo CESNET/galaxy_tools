@@ -685,6 +685,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - 4645b356bf3b
   - 73efacdaf71a
   - a9972c993bed
