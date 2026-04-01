@@ -51,6 +51,7 @@ tools:
   - 6480c6d5fa36
   - 6fc9f6dbcef5
   - 821062fc5782
+  - bf28a0fc0db6
   - bf32ae95a06f
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -214,6 +215,7 @@ tools:
 - name: freqsap
   owner: recetox
   revisions:
+  - 1c2a8760ad2b
   - ddabfd6ee2a2
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
