@@ -185,6 +185,7 @@ tools:
 - name: bbtools_bbmap
   owner: iuc
   revisions:
+  - 23d04eabbac5
   - 517464809c33
   - 858a65b52cf9
   - 95e9d34c4cad
