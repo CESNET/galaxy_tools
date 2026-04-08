@@ -83,6 +83,7 @@ tools:
   owner: iuc
   revisions:
   - 26ee5e11ecbe
+  - 3dd49be3f7d3
   - abfd8a6544d7
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
