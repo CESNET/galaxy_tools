@@ -343,6 +343,7 @@ tools:
   - 1c2ebb81a211
   - 36ce83a739f2
   - 408ece2e4647
+  - 8e422c873d02
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: genomescope
