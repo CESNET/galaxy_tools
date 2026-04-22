@@ -91,6 +91,7 @@ tools:
 - name: fastp
   owner: iuc
   revisions:
+  - 241decaaff3e
   - 8276962186f2
   - b2e9a56e5259
   - ff33957bf802
