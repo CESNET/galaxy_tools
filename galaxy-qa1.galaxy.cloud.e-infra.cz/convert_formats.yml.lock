@@ -63,7 +63,6 @@ tools:
   - 331a50e8fd2f
   - 6153e8ada1ee
   - ab6c14374bc0
-  - dd4ba10d0c45
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: interval2maf
