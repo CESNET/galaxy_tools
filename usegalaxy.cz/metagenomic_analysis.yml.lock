@@ -1118,6 +1118,7 @@ tools:
   revisions:
   - 09604c87987c
   - 49c0d34d583f
+  - 96bc42baaa74
   - de6156c8ef16
   - e595eafb5ecf
   tool_panel_section_id: metagenomic_analysis
@@ -1128,6 +1129,7 @@ tools:
   - 2d3f9d8d030a
   - 3fd332f614f3
   - 54ea08f9fd97
+  - 61aa0f3b4d74
   - e10b5eebd415
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1183,6 +1185,7 @@ tools:
   - 7b81221e7925
   - 9fa62bb69dc4
   - cb617c2139fa
+  - d5edda7f75eb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_ordinate
@@ -1190,6 +1193,7 @@ tools:
   revisions:
   - 7825694588d6
   - 7a168b554d65
+  - 9742e8636a10
   - be1918c80d9f
   - dc31a6f9fb2f
   tool_panel_section_id: metagenomic_analysis
@@ -1255,6 +1259,7 @@ tools:
   - 77d2f88d8716
   - bc6221716772
   - bd41251e42ec
+  - d50cf42420f2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_venn
@@ -1383,6 +1388,7 @@ tools:
 - name: checkm2
   owner: iuc
   revisions:
+  - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
   tool_panel_section_id: metagenomic_analysis

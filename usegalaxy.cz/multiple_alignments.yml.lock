@@ -38,6 +38,7 @@ tools:
 - name: mummer_mummer
   owner: iuc
   revisions:
+  - 355f84a894bf
   - b7bc272143fb
   - bcd65de9725b
   tool_panel_section_id: multiple_alignments
@@ -67,6 +68,7 @@ tools:
   owner: iuc
   revisions:
   - 29662f643859
+  - b03f8fcbd240
   - c9685bc0407c
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
