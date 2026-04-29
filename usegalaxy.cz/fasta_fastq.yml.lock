@@ -261,6 +261,7 @@ tools:
   - 241decaaff3e
   - 25c59c0ceb55
   - 281054a26e41
+  - 4557b2da9e7f
   - 480ddbd12a03
   - 65b93b623c77
   - 8276962186f2
@@ -620,6 +621,7 @@ tools:
   revisions:
   - 04d05400d3a6
   - 40874f772ea1
+  - ff174ae7a02f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_locate

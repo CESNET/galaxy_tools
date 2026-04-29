@@ -85,6 +85,7 @@ tools:
   - 344fc91e1bfd
   - adc4ed59d82b
   - b8beef827165
+  - c4325d32b1a2
   - fea1a167b822
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
@@ -177,6 +178,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
+  - 2f395ebff85f
   - 41e36c99a008
   - 68a116f469db
   - 84819580b8a5
@@ -333,6 +335,7 @@ tools:
   - 4967154b9859
   - 5f3ea90dc6ae
   - 77889ed49dbc
+  - d2f176e331ef
   - f20b704ba069
   - f597cb9b33bf
   tool_panel_section_id: sam_bam
