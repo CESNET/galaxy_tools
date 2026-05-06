@@ -622,6 +622,7 @@ tools:
   owner: iuc
   revisions:
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: viennarna_rnacofold

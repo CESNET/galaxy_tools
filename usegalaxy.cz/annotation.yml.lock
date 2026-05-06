@@ -323,6 +323,7 @@ tools:
   owner: iuc
   revisions:
   - 1bb2ba6d3d96
+  - 31f58ec0459a
   - 3f3e247c053d
   - 4efdca267d51
   - 78c75f134c16
@@ -919,6 +920,7 @@ tools:
 - name: staramr
   owner: iuc
   revisions:
+  - 146b508457e8
   - 6d5c8a6ceea0
   - eaa563bd535a
   - f2625d1efadd
