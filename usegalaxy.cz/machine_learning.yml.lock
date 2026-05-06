@@ -18,6 +18,7 @@ tools:
   - c17f3eacdb14
   - c716b8c86c5d
   - f06ad033c114
+  - fbf485fc2d30
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_lightgbm
@@ -67,6 +68,7 @@ tools:
   owner: bgruening
   revisions:
   - 2af1346e68c9
+  - 31f6bf2382dc
   - 6ecb3d77d46e
   - 818f9b69d8a0
   - 8ddb3557710d
@@ -81,6 +83,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 1d2a478bb514
   - 21730620a849
   - 5f9c0e99016f
   - 72c0d2747dc9
@@ -112,6 +115,7 @@ tools:
   owner: bgruening
   revisions:
   - 10e2498ef07b
+  - 418cafc53f8e
   - 4d1637cac794
   - 68aaa903052a
   - 77125cbb54ac
@@ -134,6 +138,7 @@ tools:
   - 919198d656dd
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - db511406350a
   - eae46976fbb8
   tool_panel_section_id: machine_learning
@@ -144,6 +149,7 @@ tools:
   - 04b160a26690
   - 3bdb5b6c8ee8
   - 4ba68dd788b3
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 86a086d2bbed
   - 86c5b627ddb6
@@ -160,6 +166,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 30d21a6041f6
   - 375bbd555f4a
   - 3881482e568e
@@ -188,6 +195,7 @@ tools:
   - 82b6104d4682
   - c6ae57f774c6
   - e5a5ad882f1f
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
@@ -195,6 +203,7 @@ tools:
   revisions:
   - 019bd8289224
   - 1ed23c988ff6
+  - 43a859a0fab5
   - 4c4ec859c31a
   - 52c4e0ef580a
   - 7442b94d6a1e
@@ -249,6 +258,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
   - 1a53edc4b438
@@ -274,6 +284,7 @@ tools:
   - 4170e2bda73d
   - 4483b84310ec
   - 58322d3c7bd3
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -296,6 +307,7 @@ tools:
   - b0c31e126fa1
   - c72131b8fc7a
   - d6b8103c909c
+  - dde13d557dc4
   - eb9da067ab26
   - f2234165a453
   tool_panel_section_id: machine_learning
@@ -303,6 +315,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 3cd0dbc038ec
   - 44f0ce9488fb
@@ -361,6 +374,7 @@ tools:
   revisions:
   - 2fc89dcd41c8
   - 40f4447733b2
+  - 57938c2f6ef5
   - 67881a837f46
   - 91c4e3331208
   - 927586a18553
@@ -432,6 +446,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - e8e5736b632d
   - fc0f9ba14aaa
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -457,6 +472,7 @@ tools:
   - 818896cd2213
   - beeeda757eba
   - e4af79bffd57
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_config
@@ -498,6 +514,7 @@ tools:
   - 89f11e2b0673
   - caeb57858702
   - ec69cbe34b73
+  - f86c0419af43
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: mcl

@@ -242,6 +242,7 @@ tools:
   - 3725f7f2be35
   - 3b22de20bd4b
   - 4d83eccf5f81
+  - 85b2bec21695
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: last
@@ -868,6 +869,7 @@ tools:
 - name: aldex2
   owner: iuc
   revisions:
+  - 5941e51c228b
   - 75214276e2b7
   - f4d0bd4b4d6d
   tool_panel_section_id: metagenomic_analysis
@@ -1229,6 +1231,7 @@ tools:
   owner: iuc
   revisions:
   - 14b992fb08d4
+  - 638503db7271
   - 7f5dd19dc792
   - a9dacd650ad5
   - e7afc79b841e

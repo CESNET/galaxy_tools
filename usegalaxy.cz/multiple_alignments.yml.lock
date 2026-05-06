@@ -48,12 +48,14 @@ tools:
   revisions:
   - 029a793f39b6
   - 4fc0cb2ac8ae
+  - 75e15ee43896
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: mummer_delta_filter
   owner: iuc
   revisions:
   - 5c7e6ef78006
+  - 814ebb1fb04b
   - fbca557a4847
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
