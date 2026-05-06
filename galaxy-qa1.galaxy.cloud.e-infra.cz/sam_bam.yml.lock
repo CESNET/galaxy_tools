@@ -97,6 +97,7 @@ tools:
 - name: samtools_sort
   owner: devteam
   revisions:
+  - 2ce517eb9af2
   - 69dca890852c
   - f2f2650aeade
   tool_panel_section_id: sam_bam
@@ -168,6 +169,7 @@ tools:
 - name: samtools_merge
   owner: iuc
   revisions:
+  - 37c8eb55315d
   - a7617eb92baf
   - c8bc9d08b0e3
   - cae2794d2deb
