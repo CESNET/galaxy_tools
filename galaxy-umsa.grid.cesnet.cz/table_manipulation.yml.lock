@@ -54,3 +54,9 @@ tools:
   - 91a8fabef6b1
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
+- name: datamash_ops
+  owner: iuc
+  revisions:
+  - aaafc0ac4dd2
+  tool_panel_section_id: table_manipulation
+  tool_panel_section_label: Table Manipulation
