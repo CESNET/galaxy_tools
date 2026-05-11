@@ -26,6 +26,7 @@ tools:
   - 560053b805d2
   - 646ef66527da
   - b5467dead5b1
+  - cfa9638fe182
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: xtb_molecular_optimization
@@ -145,6 +146,7 @@ tools:
   revisions:
   - 320ebaa133e5
   - 54401f9d1a30
+  - 648f82934b56
   - 9b4b624c4d60
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX

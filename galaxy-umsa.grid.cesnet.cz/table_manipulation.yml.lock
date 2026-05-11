@@ -6,6 +6,7 @@ tools:
   owner: recetox
   revisions:
   - 19968a1b4068
+  - 8b5b5236065c
   - d4bacc06365e
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
@@ -13,12 +14,14 @@ tools:
   owner: recetox
   revisions:
   - 3f54cd56a65e
+  - 761f8ab8fdb6
   - 8537763e4713
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
 - name: table_pandas_rename_columns_regex
   owner: recetox
   revisions:
+  - 334f765b6c1b
   - 505a8e975968
   - 628a75ad9685
   tool_panel_section_id: table_manipulation
@@ -27,6 +30,7 @@ tools:
   owner: recetox
   revisions:
   - b722dba91064
+  - e4b861ab3ef7
   - eaddbdff9dbf
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
@@ -34,6 +38,7 @@ tools:
   owner: recetox
   revisions:
   - 0112f08c95ed
+  - 3ccffbd647fe
   - ac42a5982210
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
@@ -41,5 +46,11 @@ tools:
   owner: iuc
   revisions:
   - 2040e4c2750a
+  tool_panel_section_id: table_manipulation
+  tool_panel_section_label: Table Manipulation
+- name: table_pandas_dropna
+  owner: recetox
+  revisions:
+  - 91a8fabef6b1
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
