@@ -12,3 +12,7 @@ tools:
   owner: recetox
 - name: column_remove_by_header
   owner: iuc
+- name: table_pandas_dropna
+  owner: recetox
+- name: datamash_ops
+  owner: iuc

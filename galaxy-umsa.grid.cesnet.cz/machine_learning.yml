@@ -1,0 +1,15 @@
+tool_panel_section_label: Machine Learning
+tools:
+- name: sklearn_train_test_split
+  owner: bgruening
+- name: sklearn_generalized_linear
+  owner: bgruening
+- name: sklearn_estimator_attributes
+  owner: bgruening
+- name: model_prediction
+  owner: bgruening
+- name: plotly_regression_performance_plots
+  owner: bgruening
+- name: sklearn_regression_metrics
+  owner: bgruening
+
