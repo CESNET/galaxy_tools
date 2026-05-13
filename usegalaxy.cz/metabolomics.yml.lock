@@ -301,6 +301,7 @@ tools:
   - 560053b805d2
   - 646ef66527da
   - b5467dead5b1
+  - cfa9638fe182
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: riassigner
@@ -812,6 +813,7 @@ tools:
   owner: recetox
   revisions:
   - 3f54cd56a65e
+  - 761f8ab8fdb6
   - 8537763e4713
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics

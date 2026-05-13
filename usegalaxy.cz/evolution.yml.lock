@@ -57,6 +57,7 @@ tools:
   revisions:
   - 112d80c9ccca
   - 476189b83931
+  - e0448bc48085
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
@@ -66,5 +67,6 @@ tools:
   - 1d2ec0b0a0a7
   - 4e68161336da
   - c176164dc8a5
+  - d9a642ad8ece
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
