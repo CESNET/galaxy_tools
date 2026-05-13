@@ -35,6 +35,7 @@ tools:
 - name: tetoolkit_tetranscripts
   owner: iuc
   revisions:
+  - 8535eca7b8ae
   - 8e96d712a2bd
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis

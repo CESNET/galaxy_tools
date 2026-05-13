@@ -387,6 +387,7 @@ tools:
 - name: metaquantome_viz
   owner: galaxyp
   revisions:
+  - 2fb1aab3d444
   - 8bd7734309f6
   - eb811f3018ea
   tool_panel_section_id: proteomics

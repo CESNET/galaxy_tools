@@ -732,6 +732,7 @@ tools:
   owner: iuc
   revisions:
   - 00e3b4ef7e0c
+  - 45f6d77d37b7
   - a4441f35f17b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -739,6 +740,7 @@ tools:
   owner: iuc
   revisions:
   - 708abf08a626
+  - c63e45a190b5
   - f375b4f6ef57
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1113,6 +1115,7 @@ tools:
   - 22767c01e0cf
   - 3ea43408e5db
   - 5e4e2b612a4f
+  - 69cce076e0cf
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_core
@@ -1156,6 +1159,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 27ac516ba719
   - 5029fd9d572e
   - 738474880da8
   - 9b3e1acc3ad0
@@ -1268,6 +1272,7 @@ tools:
 - name: ampvis2_venn
   owner: iuc
   revisions:
+  - 49bd53fa8f8d
   - 62c6d4c55190
   - ba76e1682a00
   - dcbe3affb349
@@ -1410,6 +1415,7 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
+  - e91d979deb87
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_paste

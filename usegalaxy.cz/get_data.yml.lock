@@ -76,6 +76,7 @@ tools:
   owner: iuc
   revisions:
   - 30150bd36c9a
+  - 4f0a4010bf1d
   - f3a84eecaf8b
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
@@ -96,6 +97,7 @@ tools:
 - name: ncbi_eutils_epost
   owner: iuc
   revisions:
+  - 11aa5f503261
   - 196b8dd07896
   - a64d1a16f04b
   tool_panel_section_id: get_data

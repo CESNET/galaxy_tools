@@ -157,6 +157,7 @@ tools:
 - name: biom_convert
   owner: iuc
   revisions:
+  - b3858ab7f598
   - d4d4e9febf5c
   - e177a8ea0bf1
   - e525f9ffb9ac
