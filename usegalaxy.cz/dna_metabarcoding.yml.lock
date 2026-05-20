@@ -52,6 +52,7 @@ tools:
   owner: iuc
   revisions:
   - 02bab5ff7c37
+  - 98bec443b342
   - be475ac055b2
   - fe7ec8a3d35e
   tool_panel_section_id: dna_metabarcoding
