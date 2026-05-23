@@ -411,6 +411,7 @@ tools:
   revisions:
   - 4187b6df1a40
   - 767c1d761aaf
+  - f06a40fc75a3
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: metaquantome_db
