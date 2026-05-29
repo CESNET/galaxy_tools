@@ -24,3 +24,5 @@ tools:
   owner: iuc
 - name: jbrowse
   owner: iuc
+- name: jbrowse2
+  owner: fubar

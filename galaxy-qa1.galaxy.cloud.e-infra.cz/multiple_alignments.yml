@@ -26,3 +26,5 @@ tools:
   owner: devteam
 - name: mafft
   owner: rnateam
+- name: mashmap
+  owner: iuc
