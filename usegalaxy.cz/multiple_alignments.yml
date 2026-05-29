@@ -44,3 +44,5 @@ tools:
   owner: iuc
 - name: mmseqs2_easy_linclust_clustering
   owner: iuc
+- name: mashmap
+  owner: iuc

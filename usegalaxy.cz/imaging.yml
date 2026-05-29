@@ -210,3 +210,7 @@ tools:
   owner: goeckslab
 - name: scimap_plotting
   owner: goeckslab
+- name: color_deconvolution
+  owner: imgteam
+- name: split_image
+  owner: imgteam
