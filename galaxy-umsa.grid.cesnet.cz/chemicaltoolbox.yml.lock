@@ -662,3 +662,9 @@ tools:
   - 9b6210854c8c
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
+- name: opsin
+  owner: bgruening
+  revisions:
+  - b8fe401ed937
+  tool_panel_section_id: chemicaltoolbox
+  tool_panel_section_label: ChemicalToolBox
