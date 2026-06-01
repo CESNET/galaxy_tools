@@ -174,3 +174,9 @@ tools:
   owner: iuc
 - name: teloscope
   owner: iuc
+- name: vgp_split_agp
+  owner: iuc
+- name: vgp_chromosome_assignment
+  owner: iuc
+- name: vgp_sak_generation
+  owner: iuc

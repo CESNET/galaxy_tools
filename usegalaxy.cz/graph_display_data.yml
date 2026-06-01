@@ -74,3 +74,5 @@ tools:
   owner: artbio
 - name: geneiobio
   owner: iuc
+- name: jbrowse2
+  owner: fubar

@@ -809,3 +809,16 @@ tools:
   - 05a8d9dea3df
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
+- name: color_deconvolution
+  owner: imgteam
+  revisions:
+  - 0cbdf78fee14
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: split_image
+  owner: imgteam
+  revisions:
+  - 390943df8a35
+  - 7191fd16988f
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
