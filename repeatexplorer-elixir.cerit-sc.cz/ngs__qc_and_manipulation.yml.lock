@@ -88,6 +88,7 @@ tools:
   - 862943c10425
   - abfd8a6544d7
   - bb89ae58738c
+  - fac2260bc88a
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
 - name: fastp
