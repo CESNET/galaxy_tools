@@ -15,6 +15,7 @@ tools:
   - 6f52ebc01098
   - 7021ed347f7e
   - 93cfe7df7f8a
+  - c218cc6bf765
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: artic_guppyplex
@@ -24,6 +25,7 @@ tools:
   - 311d11c4a68b
   - 372def2f8fd6
   - c23737f9714f
+  - e92767bd4412
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: manta
@@ -199,6 +201,7 @@ tools:
   revisions:
   - 16d22eee0fe3
   - 2c0ac05fe240
+  - 9c48485bf664
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: cutesv

@@ -75,6 +75,7 @@ tools:
   revisions:
   - 3284b72eef56
   - 8061668d0868
+  - 8a19efbd2178
   - b31219f26a8f
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -288,6 +289,7 @@ tools:
 - name: wordcloud
   owner: bgruening
   revisions:
+  - 45c4cc885ddb
   - 6055ffae8903
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation

@@ -59,6 +59,7 @@ tools:
 - name: maxquant
   owner: galaxyp
   revisions:
+  - 022e886e8f94
   - 837224ad1694
   - 8934bc76bb52
   - 9c52362ae7bb
@@ -395,6 +396,7 @@ tools:
 - name: metaquantome_stat
   owner: galaxyp
   revisions:
+  - ad0fb0956559
   - b648e45fd3cf
   - b9d453dca8d3
   tool_panel_section_id: proteomics
@@ -404,6 +406,7 @@ tools:
   revisions:
   - 35cc7ca0bdc7
   - a1daafbf5233
+  - e5ced3896e9c
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: metaquantome_expand
@@ -417,6 +420,7 @@ tools:
 - name: metaquantome_db
   owner: galaxyp
   revisions:
+  - 491ee27f3e45
   - '860429737408'
   - e63db1aa82ee
   tool_panel_section_id: proteomics

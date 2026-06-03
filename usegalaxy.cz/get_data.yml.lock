@@ -106,6 +106,7 @@ tools:
 - name: ncbi_eutils_elink
   owner: iuc
   revisions:
+  - 18e7b30a39aa
   - 2791c731fc65
   - bb5af69cf3f7
   tool_panel_section_id: get_data
@@ -115,6 +116,7 @@ tools:
   revisions:
   - 5b1dc5936af2
   - 6a0463d18db2
+  - cbddabc5c71a
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: ncbi_eutils_esummary
@@ -215,6 +217,7 @@ tools:
   owner: iuc
   revisions:
   - 03a801ded645
+  - 07f675a7ac2e
   - 0f3b3813b6ae
   - 1e188c9610c3
   - 6ba50cbabbb7
