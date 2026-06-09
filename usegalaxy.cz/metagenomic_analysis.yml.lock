@@ -796,6 +796,7 @@ tools:
   owner: iuc
   revisions:
   - 4d8bc5dd9e95
+  - 7a5598f973c9
   - 989f1256d7a9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -804,12 +805,14 @@ tools:
   revisions:
   - 505111e8aca5
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_merge_cut_up_clustering
   owner: iuc
   revisions:
   - 20ccec4a2c38
+  - 28b4b21d6aae
   - 794d4e27925b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1104,6 +1107,7 @@ tools:
   revisions:
   - 2e921a1efd45
   - 6b8580e02e99
+  - b0b7bba11507
   - bd518ee51da5
   - e9168eec404c
   tool_panel_section_id: metagenomic_analysis
@@ -1145,6 +1149,7 @@ tools:
   - 301a6ffaf2a2
   - ac3774320d28
   - dfb9413825cc
+  - e0b095891b28
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_heatmap
@@ -1152,6 +1157,7 @@ tools:
   revisions:
   - 16b4934fc7e7
   - 1979fdd0914f
+  - 3e5c1fdd0e45
   - 7c3248a397fd
   - c980e4bd48f2
   tool_panel_section_id: metagenomic_analysis
@@ -1170,6 +1176,7 @@ tools:
   owner: iuc
   revisions:
   - 028ba7c0b400
+  - 24f43b62a172
   - 35d71afa93f4
   - 378ce300fb3d
   - c7d03a7b52d6
@@ -1180,6 +1187,7 @@ tools:
   revisions:
   - 0e10df6f37c6
   - 414355492c32
+  - 77f9ed2bb200
   - c9143bcb2072
   - f34ea612eecf
   tool_panel_section_id: metagenomic_analysis
@@ -1210,6 +1218,7 @@ tools:
   - 354d645455cd
   - 37a617dca128
   - 7822d7a5a496
+  - a9fd4ada4d2a
   - bb054c50a96c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1217,6 +1226,7 @@ tools:
   owner: iuc
   revisions:
   - 2c21c267391c
+  - 4140e26cafbc
   - c5ccc28a2696
   - cf0944377d87
   - e913a155618b
@@ -1246,6 +1256,7 @@ tools:
   owner: iuc
   revisions:
   - 14b38ec15fe9
+  - 492eb6dcfe5c
   - b268ffb0e321
   - ef800b2766c4
   - ff07f41b8e54
@@ -1470,6 +1481,7 @@ tools:
 - name: kegg_pathways_completeness
   owner: iuc
   revisions:
+  - 78990897aa94
   - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

@@ -37,6 +37,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 27903ce9b4be
   - 37e193b3fdd7
@@ -100,6 +101,7 @@ tools:
   - 0630258dcf35
   - 153f237ddb36
   - 372582a7a34d
+  - 4aa3666b66fa
   - 4ed102b922cb
   - 61461e52c923
   - 80852884053f
@@ -396,6 +398,7 @@ tools:
   - 56f6ebf69ddc
   - 5d5d9cc554f9
   - 61e76fb65daf
+  - 7e5631773cea
   - 805194c3cdfb
   - 845dfafac355
   - 86e1e2874460
@@ -417,6 +420,7 @@ tools:
   - c2e2aa55dd5c
   - c374098d4f5c
   - da9f0b8ca61c
+  - e8694d796a7e
   - f5e6fb49e9ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -457,6 +461,7 @@ tools:
   - 03533fa14e77
   - 1252578525d1
   - 305c1229ac99
+  - 3b8fa4ea9727
   - 61b2d8f8811e
   - 679e4ede1191
   - 9afec58b2bf9

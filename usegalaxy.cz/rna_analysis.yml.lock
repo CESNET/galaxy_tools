@@ -896,6 +896,7 @@ tools:
   - 765e685641ce
   - 7acb00fc980a
   - a2c1c52a7e47
+  - a9b4d7761b46
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: arriba_get_filters
@@ -915,6 +916,7 @@ tools:
   - 3d61a698e5e1
   - 45c2ec061cf9
   - 6535dd4a4064
+  - e1ab5699a834
   - f6b8b38636a4
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis

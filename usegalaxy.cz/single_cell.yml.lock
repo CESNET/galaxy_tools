@@ -44,6 +44,7 @@ tools:
   revisions:
   - 3d748954434b
   - 7e8c677a7b71
+  - 9ef202055d5c
   - be1fdce914c6
   - d1e49c3c0aa2
   - d9948b3dd270
@@ -248,6 +249,7 @@ tools:
   owner: iuc
   revisions:
   - 0bff0ee0683a
+  - 14ac9a11465e
   - 49776718ae90
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -256,12 +258,14 @@ tools:
   revisions:
   - 2af7c5086a96
   - 2bfd55b87af3
+  - fe9bf1aa669e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_inspecttrajectory
   owner: iuc
   revisions:
   - 6e90c8adf84f
+  - 9606d2385547
   - a6821f856a1e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

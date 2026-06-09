@@ -20,6 +20,7 @@ tools:
   revisions:
   - 73a469f7dc96
   - b1e68bbe4cef
+  - dc97e1b45938
   - ea30d3089354
   tool_panel_section_id: genome_diversity
   tool_panel_section_label: Genome Diversity
