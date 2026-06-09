@@ -90,6 +90,7 @@ tools:
   owner: iuc
   revisions:
   - ec6141f6e5cb
+  - fa2e7ae6cad6
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: maplot

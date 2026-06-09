@@ -64,3 +64,5 @@ tools:
   owner: recetox
 - name: aoptk_publication_tracker
   owner: recetox
+- name: stratified_block_randomization
+  owner: recetox
