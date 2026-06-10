@@ -78,11 +78,13 @@ tools:
   owner: iuc
   revisions:
   - 293a939f28c8
+  - c7cb57d16237
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: seaborn_pairgrid
   owner: iuc
   revisions:
+  - 36f4aa9439a8
   - 4a46d83cb08f
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
