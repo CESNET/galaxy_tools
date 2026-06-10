@@ -57,6 +57,7 @@ tools:
   owner: iuc
   revisions:
   - 75bf02d7d1c8
+  - f6b556ba5624
   - fd1f57782683
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
