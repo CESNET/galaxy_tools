@@ -234,6 +234,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 53d889b0a2c9
   - c7ddb719554d
   - f3eb2291da05
   tool_panel_section_id: single_cell

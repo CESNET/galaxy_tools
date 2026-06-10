@@ -27,6 +27,7 @@ tools:
   owner: iuc
   revisions:
   - 374fd9feb032
+  - 618fa454e51a
   - a86cb55cba33
   - deaac9e831a4
   - e328ced6cf0a
@@ -39,6 +40,7 @@ tools:
   - 12baadec7809
   - 1beb31209adb
   - 816cbd8f4e6e
+  - 9c6619b29650
   - f5e899be558b
   tool_panel_section_id: dna_metabarcoding
   tool_panel_section_label: DNA Metabarcoding
@@ -49,6 +51,7 @@ tools:
   - 9eded74a3d03
   - d4bea99366f9
   - ec215ed98831
+  - f2a8b93f731c
   tool_panel_section_id: dna_metabarcoding
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_grep
@@ -58,6 +61,7 @@ tools:
   - 7e68109625a3
   - 98bec443b342
   - be475ac055b2
+  - e5cf6d670369
   - fe7ec8a3d35e
   tool_panel_section_id: dna_metabarcoding
   tool_panel_section_label: DNA Metabarcoding

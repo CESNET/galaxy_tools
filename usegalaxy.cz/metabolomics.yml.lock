@@ -353,6 +353,7 @@ tools:
   - 122df1bf0a8c
   - 68e2d63bece0
   - 6e837e9352a2
+  - 7f0726ad3eca
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_summary

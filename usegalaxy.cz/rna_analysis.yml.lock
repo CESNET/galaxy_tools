@@ -112,6 +112,7 @@ tools:
   owner: iuc
   revisions:
   - 30f6985f0ac7
+  - 37d067694d40
   - 38b6d12edc68
   - 5dbff3a5845a
   - f9d49f5cb597
@@ -236,6 +237,7 @@ tools:
 - name: stringtie
   owner: iuc
   revisions:
+  - 92198ab2345f
   - ae618321f34a
   - cbf488da3b2c
   tool_panel_section_id: rna_analysis
