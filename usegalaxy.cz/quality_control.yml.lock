@@ -52,6 +52,7 @@ tools:
 - name: falco
   owner: iuc
   revisions:
+  - 219ffa24f789
   - 46192706f470
   - 959a14c1f2dd
   - f48b35baf365

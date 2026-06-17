@@ -313,6 +313,7 @@ tools:
   owner: imgteam
   revisions:
   - 39b2bc251b2f
+  - 73b16a95813a
   - f72f8e6787cd
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -342,6 +343,7 @@ tools:
   revisions:
   - 5d633d30316e
   - c4774c1a35ea
+  - c853e60002db
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_adjust_threshold_binary
@@ -356,6 +358,7 @@ tools:
   owner: imgteam
   revisions:
   - 423400b3c47f
+  - 71f2b1e4efa4
   - e781a17b3c14
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

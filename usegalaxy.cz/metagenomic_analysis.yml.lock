@@ -664,6 +664,7 @@ tools:
   owner: earlhaminst
   revisions:
   - 1d660ee0b1c8
+  - 869256447e86
   - eb7baf1f72ca
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1271,6 +1272,7 @@ tools:
   - 70a98af91147
   - 76cb398e9110
   - ac98ca3ff0d2
+  - bc02fbdb3510
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_timeseries

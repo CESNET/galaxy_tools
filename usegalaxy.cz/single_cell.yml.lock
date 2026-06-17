@@ -242,6 +242,7 @@ tools:
 - name: raceid_filtnormconf
   owner: iuc
   revisions:
+  - 4d69676e6af2
   - 8b917923f7d4
   - b83fbc90161e
   tool_panel_section_id: single_cell

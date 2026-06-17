@@ -122,6 +122,7 @@ tools:
 - name: ncbi_eutils_esummary
   owner: iuc
   revisions:
+  - 308d8bea83f5
   - 4dc2757b8ce6
   - c8d4ea6376a7
   tool_panel_section_id: get_data
@@ -131,6 +132,7 @@ tools:
   revisions:
   - 0ccb2855dd55
   - 0fc65a60436f
+  - d2262cc3fddc
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: uniprot_rest_interface
@@ -227,6 +229,7 @@ tools:
   - 95be88b49f4e
   - a6a475ed58cb
   - bc18e25d4204
+  - c28c9cdf3660
   - f0872b88c5fc
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
@@ -247,6 +250,7 @@ tools:
 - name: fastq_dl
   owner: iuc
   revisions:
+  - 123a40edeed1
   - 3f1ee30e39e9
   - 41635d6d4738
   - e3750180320b
