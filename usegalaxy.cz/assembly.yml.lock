@@ -359,6 +359,7 @@ tools:
   - 001aa495b39a
   - 1d06c8b38e77
   - 5bd3f053c303
+  - aa1ac2f7a688
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl
@@ -485,6 +486,7 @@ tools:
   revisions:
   - 1708851f8804
   - 388dbecbf03b
+  - 6fb81bb0fe3e
   - b40b77418372
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -493,12 +495,14 @@ tools:
   revisions:
   - 328aa71f0f3c
   - 6766a94ef559
+  - c4ba6aa27088
   - ed32d95f436a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
   owner: iuc
   revisions:
+  - ae96f644b722
   - c5c4fa59be65
   - e5a3b75a271f
   - edac5e292b7f
@@ -507,6 +511,7 @@ tools:
 - name: spades_coronaspades
   owner: iuc
   revisions:
+  - 045c8498d2dd
   - 152ff7d1817a
   - 2cf8a2028ddc
   - 34305b013402

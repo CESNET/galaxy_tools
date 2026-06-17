@@ -460,6 +460,7 @@ tools:
   revisions:
   - 06f6826d380c
   - 40ca115438d2
+  - d186ebe499f5
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: pyteomics_mztab2tsv

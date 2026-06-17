@@ -13,6 +13,7 @@ tools:
   - 6945cd53bd2d
   - 8c6cd2650d1f
   - be1d967337e4
+  - f5b1e7d2594f
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: megablast_xml_parser
@@ -145,6 +146,7 @@ tools:
   - 2477830927ec
   - 4a196b9c72c2
   - 64f11cf59c6e
+  - c598cbb8b019
   - dfd8b7f78c37
   - e188dc7a68e6
   tool_panel_section_id: mapping

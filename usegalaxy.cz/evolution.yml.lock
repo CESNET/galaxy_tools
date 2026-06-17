@@ -49,6 +49,7 @@ tools:
   owner: iuc
   revisions:
   - 017db1b776d9
+  - 1779a96f1d7c
   - 1aa73004ba9b
   - cf50aeb956f2
   tool_panel_section_id: evolution
