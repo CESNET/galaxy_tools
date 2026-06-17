@@ -64,3 +64,5 @@ tools:
   owner: iuc
 - name: bg_statistical_hypothesis_testing
   owner: bgruening
+- name: stratified_block_randomization
+  owner: recetox
