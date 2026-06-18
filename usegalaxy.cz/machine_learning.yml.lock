@@ -554,7 +554,44 @@ tools:
 - name: llm_hub
   owner: bgruening
   revisions:
+  - 36d65981163b
   - 99898a312165
   - f5c7e6442a10
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: aoptk_parse_pdf
+  owner: recetox
+  revisions:
+  - a3655f6fe6e0
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: aoptk_normalize_chemicals
+  owner: recetox
+  revisions:
+  - f5ffeece6ff5
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: aoptk_query_literature
+  owner: recetox
+  revisions:
+  - 887378d493be
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: aoptk_download_publication_data
+  owner: recetox
+  revisions:
+  - bed4cc854248
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: aoptk_final_modification
+  owner: recetox
+  revisions:
+  - d121a63d5778
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: aoptk_find_relationships_chemicals
+  owner: recetox
+  revisions:
+  - c0814e7a5d8e
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
