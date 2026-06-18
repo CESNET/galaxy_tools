@@ -76,4 +76,15 @@ tools:
   owner: bgruening
 - name: llm_hub
   owner: bgruening
-  
+- name: aoptk_parse_pdf
+  owner: recetox
+- name: aoptk_normalize_chemicals
+  owner: recetox
+- name: aoptk_query_literature
+  owner: recetox
+- name: aoptk_download_publication_data
+  owner: recetox
+- name: aoptk_final_modification
+  owner: recetox
+- name: aoptk_find_relationships_chemicals
+  owner: recetox
