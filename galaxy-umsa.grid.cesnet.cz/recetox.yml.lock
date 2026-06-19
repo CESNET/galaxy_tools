@@ -32,6 +32,7 @@ tools:
 - name: xtb_molecular_optimization
   owner: recetox
   revisions:
+  - 14a4d81e921e
   - 6e1ef071fffc
   - cba7123c2741
   - d5633eaf3552
@@ -148,6 +149,7 @@ tools:
   - 54401f9d1a30
   - 648f82934b56
   - 9b4b624c4d60
+  - fd2837c28c34
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: ms2deepscore_config_generator
@@ -235,12 +237,14 @@ tools:
   owner: recetox
   revisions:
   - 5668e27d0684
+  - ce0420edec0f
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: aoptk_publication_tracker
   owner: recetox
   revisions:
   - 0f01dc62c4f3
+  - 98893ab7309f
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: stratified_block_randomization
