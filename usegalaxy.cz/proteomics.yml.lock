@@ -63,6 +63,7 @@ tools:
   - 837224ad1694
   - 8934bc76bb52
   - 9c52362ae7bb
+  - fce1301d386c
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: proteinortho_summary

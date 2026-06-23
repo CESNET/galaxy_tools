@@ -74,6 +74,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 3fc33af5d9e2
   - 99ddbf037d98
   - bfab6f5b449d
@@ -341,6 +342,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 2ecf5a570907
   - 697c9156dafe
   - f192c2fbe13f
@@ -479,6 +481,7 @@ tools:
   - a9aa4115cb68
   - d5645713603a
   - d5fb354f745d
+  - f4fc734dd9b0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_plasmidspades

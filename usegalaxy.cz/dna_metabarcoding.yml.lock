@@ -68,6 +68,7 @@ tools:
 - name: obi_annotate
   owner: iuc
   revisions:
+  - 3ac96c352a3d
   - 4da9a24971bd
   - c96ce8ed191c
   - d50dc96e3ce9

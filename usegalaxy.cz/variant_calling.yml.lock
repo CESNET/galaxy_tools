@@ -126,6 +126,7 @@ tools:
 - name: vcfanno
   owner: iuc
   revisions:
+  - 2c526639f63c
   - 4f3c5e634679
   - 7b2ee758de86
   - c192a2c7ef00
