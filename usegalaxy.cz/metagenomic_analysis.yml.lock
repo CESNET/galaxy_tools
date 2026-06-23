@@ -134,6 +134,7 @@ tools:
   - 0b1ce4edabc7
   - 43c99742158b
   - 88677f452aea
+  - aab8af79110e
   - e96bbb9e24ea
   - ebd632e95aae
   tool_panel_section_id: metagenomic_analysis
@@ -142,6 +143,7 @@ tools:
   owner: iuc
   revisions:
   - 4e469b758915
+  - 51971db051ba
   - 7b8cb2b02978
   - a204f3983d22
   - d60df8727f59
@@ -155,12 +157,14 @@ tools:
   - 273b8a00c8a2
   - 5c865a382933
   - 646c58820267
+  - a35c40af067f
   - c920e1400f98
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_assigntaxonomyaddspecies
   owner: iuc
   revisions:
+  - 60cd35f37c0a
   - 63f86089423e
   - 705d26fbea02
   - 7c2100246a2f
@@ -174,6 +178,7 @@ tools:
   - 0a1224c4b781
   - 19299bb1c6af
   - 213a3fda0b91
+  - 256e7a119a95
   - 390bc2645138
   - 9180d536e20d
   tool_panel_section_id: metagenomic_analysis
@@ -183,6 +188,7 @@ tools:
   revisions:
   - 224abe7c80ed
   - 2875d977c533
+  - 5cba3a0dc3b6
   - 6f06d501b7e6
   - 78faebd0879c
   - 8daf4564ccda
@@ -192,6 +198,7 @@ tools:
   owner: iuc
   revisions:
   - 04c15826a0b8
+  - 4bba91a89457
   - 68129ce1c59b
   - 75403243703a
   - a14a18a47c36
@@ -238,6 +245,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 3548a93b39c1
   - 3725f7f2be35
   - 3b22de20bd4b

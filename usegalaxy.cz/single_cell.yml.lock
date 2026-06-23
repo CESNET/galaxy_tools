@@ -234,6 +234,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 25a519a368a4
   - 53d889b0a2c9
   - c7ddb719554d
   - f3eb2291da05
@@ -245,6 +246,7 @@ tools:
   - 4d69676e6af2
   - 8b917923f7d4
   - b83fbc90161e
+  - bb9a4270e288
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_clustering
@@ -252,6 +254,7 @@ tools:
   revisions:
   - 0bff0ee0683a
   - 14ac9a11465e
+  - 1c727d097441
   - 49776718ae90
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -260,6 +263,7 @@ tools:
   revisions:
   - 2af7c5086a96
   - 2bfd55b87af3
+  - 8efd06e9899d
   - fe9bf1aa669e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

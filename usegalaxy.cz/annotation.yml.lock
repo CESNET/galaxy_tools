@@ -52,6 +52,7 @@ tools:
   owner: crs4
   revisions:
   - 8a22554cdde2
+  - c105b66eaab1
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: roary
@@ -922,6 +923,7 @@ tools:
   revisions:
   - 146b508457e8
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   - f2625d1efadd
   tool_panel_section_id: annotation
@@ -931,6 +933,7 @@ tools:
   revisions:
   - 573cfe217474
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: prodigal

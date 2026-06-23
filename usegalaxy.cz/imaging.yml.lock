@@ -243,6 +243,7 @@ tools:
   owner: imgteam
   revisions:
   - 33f6b1f921e7
+  - 4ae6e6b0258d
   - 91b8f4730a93
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -335,6 +336,7 @@ tools:
   owner: earlhaminst
   revisions:
   - 4340eef6ec1b
+  - 8cff16cf17a8
   - e8e75a79de59
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -397,6 +399,7 @@ tools:
   owner: imgteam
   revisions:
   - 125641435c4b
+  - c1c7a81ba4e5
   - f9f2d9746a01
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
