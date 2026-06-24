@@ -234,6 +234,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 25a519a368a4
   - 53d889b0a2c9
   - c7ddb719554d
@@ -270,6 +271,7 @@ tools:
 - name: raceid_inspecttrajectory
   owner: iuc
   revisions:
+  - 42a08854eb66
   - 6e90c8adf84f
   - 9606d2385547
   - a6821f856a1e

@@ -25,5 +25,6 @@ tools:
   owner: iuc
   revisions:
   - dd2d60b55e0d
+  - e301c523e83d
   tool_panel_section_id: uncategorized
   tool_panel_section_label: Uncategorized
