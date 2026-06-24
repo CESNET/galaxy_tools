@@ -245,6 +245,7 @@ tools:
   revisions:
   - 0f01dc62c4f3
   - 98893ab7309f
+  - da740030bda9
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: stratified_block_randomization
