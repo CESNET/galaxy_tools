@@ -5,6 +5,7 @@ tools:
 - name: abstracts_by_pmids
   owner: iuc
   revisions:
+  - 61e7a401a91f
   - ff904894ccaa
   tool_panel_section_id: other_tools
   tool_panel_section_label: Other Tools
@@ -12,5 +13,6 @@ tools:
   owner: iuc
   revisions:
   - 0692d11af909
+  - 215abbf12394
   tool_panel_section_id: other_tools
   tool_panel_section_label: Other Tools

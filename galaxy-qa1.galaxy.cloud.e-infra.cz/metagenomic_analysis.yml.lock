@@ -178,6 +178,7 @@ tools:
   owner: iuc
   revisions:
   - 4d8bc5dd9e95
+  - 7a5598f973c9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_extract_fasta_bins
@@ -248,6 +249,7 @@ tools:
 - name: metabat2
   owner: iuc
   revisions:
+  - c63e45a190b5
   - f375b4f6ef57
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -313,6 +315,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 27ac516ba719
   - 738474880da8
   - 9b3e1acc3ad0
   tool_panel_section_id: metagenomic_analysis
@@ -328,12 +331,14 @@ tools:
   owner: iuc
   revisions:
   - 00e0347751b1
+  - 6be249bfd55b
   - e8768ddeba32
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_learnerrors
   owner: iuc
   revisions:
+  - 4bba91a89457
   - a14a18a47c36
   - dd6572434618
   tool_panel_section_id: metagenomic_analysis
@@ -362,6 +367,7 @@ tools:
 - name: dada2_removebimeradenovo
   owner: iuc
   revisions:
+  - 0a13d449d1bf
   - 4efeb75704c8
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis

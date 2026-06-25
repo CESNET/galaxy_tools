@@ -46,6 +46,7 @@ tools:
   owner: iuc
   revisions:
   - 1b52f0c8ad7f
+  - c8faf125cfa3
   - d6c074a93c51
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -135,6 +136,7 @@ tools:
   owner: peterjc
   revisions:
   - 63ebe9726219
+  - 6bf6e2c537c0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: edena
@@ -291,6 +293,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - f192c2fbe13f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -333,6 +336,7 @@ tools:
   revisions:
   - 0346286a3b0a
   - 056f86469460
+  - 7087d9a23185
   - 9c942221e135
   - bd07b0d0f568
   - c6cec5ab35c1

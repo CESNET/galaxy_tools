@@ -21,6 +21,7 @@ tools:
 - name: hyphy_bgm
   owner: iuc
   revisions:
+  - 0bdd3998a0d7
   - 35723f87964d
   - 520104a6b886
   tool_panel_section_id: phylogenetics
@@ -66,6 +67,7 @@ tools:
   revisions:
   - 2753a5c7597a
   - 307b6a9a520b
+  - e46726cd0c9e
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphy_fel
@@ -178,6 +180,7 @@ tools:
   revisions:
   - 31e7f5a25db3
   - 83421c6944a1
+  - aaf823b11580
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphy_cfel

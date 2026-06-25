@@ -196,6 +196,7 @@ tools:
   revisions:
   - 7521d865e770
   - ae4d5733272f
+  - c6e3d6cf49df
   - d5c640895ed6
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -325,6 +326,7 @@ tools:
 - name: seqkit_translate
   owner: iuc
   revisions:
+  - 0d9d8de82304
   - 0e0b003c711f
   - c669e8550c46
   - d35d114c26a7
@@ -402,6 +404,7 @@ tools:
   owner: richard-burhans
   revisions:
   - 058bb29e28ba
+  - 280f0db52654
   - 37d67c252fed
   - aef1eea2058c
   - f0409baac2cd

@@ -40,6 +40,7 @@ tools:
   owner: iuc
   revisions:
   - 30150bd36c9a
+  - 4f0a4010bf1d
   - f3a84eecaf8b
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
@@ -55,11 +56,13 @@ tools:
   revisions:
   - 62614b5a7834
   - 732a52c18758
+  - d9dc3534b9db
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: ncbi_eutils_epost
   owner: iuc
   revisions:
+  - 11aa5f503261
   - 196b8dd07896
   - a64d1a16f04b
   tool_panel_section_id: get_data
@@ -67,6 +70,7 @@ tools:
 - name: ncbi_eutils_elink
   owner: iuc
   revisions:
+  - 18e7b30a39aa
   - 2791c731fc65
   - bb5af69cf3f7
   tool_panel_section_id: get_data
@@ -76,11 +80,13 @@ tools:
   revisions:
   - 5b1dc5936af2
   - 6a0463d18db2
+  - cbddabc5c71a
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: ncbi_eutils_esummary
   owner: iuc
   revisions:
+  - 308d8bea83f5
   - 4dc2757b8ce6
   - c8d4ea6376a7
   tool_panel_section_id: get_data
@@ -90,6 +96,7 @@ tools:
   revisions:
   - 0ccb2855dd55
   - 0fc65a60436f
+  - d2262cc3fddc
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: uniprot_rest_interface
@@ -168,6 +175,7 @@ tools:
   owner: iuc
   revisions:
   - b91e1e70f3a1
+  - f63d8665d8ea
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: ega_download_client
@@ -179,6 +187,7 @@ tools:
 - name: fastq_dl
   owner: iuc
   revisions:
+  - 123a40edeed1
   - 3f1ee30e39e9
   - 41635d6d4738
   - e3750180320b
