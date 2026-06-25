@@ -562,11 +562,11 @@ tools:
   owner: iuc
   revisions:
   - dd2d60b55e0d
-  tool_panel_section_id: uncategorized
-  tool_panel_section_label: Uncategorized
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
 - name: remove_terminal_stop_codons
   owner: iuc
   revisions:
   - 0290a7285026
-  tool_panel_section_id: uncategorized
-  tool_panel_section_label: Uncategorized
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
