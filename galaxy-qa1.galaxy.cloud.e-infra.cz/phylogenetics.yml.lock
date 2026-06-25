@@ -226,5 +226,5 @@ tools:
   owner: iuc
   revisions:
   - bf1ca3de3a76
-  tool_panel_section_id: uncategorized
-  tool_panel_section_label: Uncategorized
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
