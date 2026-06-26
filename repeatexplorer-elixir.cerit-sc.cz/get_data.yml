@@ -2,3 +2,5 @@ tool_panel_section_label: Get Data
 tools:
 - name: ncbi_datasets
   owner: iuc
+- name: sra_tools
+  owner: iuc
