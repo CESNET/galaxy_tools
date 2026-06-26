@@ -17,3 +17,9 @@ tools:
   - f0872b88c5fc
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
+- name: sra_tools
+  owner: iuc
+  revisions:
+  - 8848455c0270
+  tool_panel_section_id: get_data
+  tool_panel_section_label: Get Data
