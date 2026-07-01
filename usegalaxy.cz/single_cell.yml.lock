@@ -257,6 +257,7 @@ tools:
   - 14ac9a11465e
   - 1c727d097441
   - 49776718ae90
+  - d2755d6016ca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_trajectory

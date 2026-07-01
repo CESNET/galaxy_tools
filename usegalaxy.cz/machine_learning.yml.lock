@@ -571,6 +571,7 @@ tools:
   owner: recetox
   revisions:
   - 24b8c589e2eb
+  - 464344aefdec
   - 8180f16ac39c
   - f5ffeece6ff5
   tool_panel_section_id: machine_learning
