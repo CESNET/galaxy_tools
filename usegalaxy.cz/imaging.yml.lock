@@ -467,6 +467,7 @@ tools:
 - name: imagej2_bunwarpj_compare_elastic_raw
   owner: imgteam
   revisions:
+  - 07f37e516729
   - 2be338fc671e
   - da91b5eaf92d
   tool_panel_section_id: imaging
