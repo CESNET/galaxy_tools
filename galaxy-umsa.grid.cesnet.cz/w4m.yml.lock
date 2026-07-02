@@ -18,6 +18,7 @@ tools:
 - name: tablemerge
   owner: melpetera
   revisions:
+  - 01b1540cccc9
   - e44c5246247a
   tool_panel_section_id: w4m
   tool_panel_section_label: W4M
