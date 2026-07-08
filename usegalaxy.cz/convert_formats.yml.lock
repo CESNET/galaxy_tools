@@ -63,6 +63,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 4493fdb346f0
@@ -301,6 +302,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 6c56786c9d1a
   - 740e1702cb22
   - 9f1c8dc0253e
   - c6b5c2975e51

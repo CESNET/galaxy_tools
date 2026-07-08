@@ -98,6 +98,7 @@ tools:
   revisions:
   - 1faea6e8c92b
   - 76b57044069d
+  - 8165eab19456
   - 81ada02ffe46
   - a0c4b280e67c
   - d730086e1432
@@ -218,6 +219,7 @@ tools:
 - name: dada2_removebimeradenovo
   owner: iuc
   revisions:
+  - 0a13d449d1bf
   - 4efeb75704c8
   - 6bd7c48ff6ed
   - 7136e9ab70db

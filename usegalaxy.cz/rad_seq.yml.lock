@@ -25,6 +25,7 @@ tools:
 - name: stacks2_shortreads
   owner: iuc
   revisions:
+  - 8123ca2d9351
   - c287418eb288
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
@@ -32,36 +33,42 @@ tools:
   owner: iuc
   revisions:
   - a3e86cd9cac7
+  - af2881556a67
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_clonefilter
   owner: iuc
   revisions:
   - 110a346daf36
+  - 7b699cc7aaa9
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_tsv2bam
   owner: iuc
   revisions:
   - 2645575d1bf2
+  - 79ee594e7c3b
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_refmap
   owner: iuc
   revisions:
   - adc7a7610d4f
+  - eae928f7fcb3
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_denovomap
   owner: iuc
   revisions:
   - 33486216eec0
+  - 9e8a17579a2d
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_procrad
   owner: iuc
   revisions:
   - 8cff84759bf6
+  - e0bf5d9cd05a
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_populations
@@ -86,6 +93,7 @@ tools:
   owner: iuc
   revisions:
   - 42d9087b4789
+  - 994c77aeeef1
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_ustacks

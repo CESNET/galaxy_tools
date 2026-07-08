@@ -314,6 +314,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 33368fec3b70
   - 822954de3f59
   - b512435320e3
@@ -526,6 +527,7 @@ tools:
   - 051fd2db8a27
   - 5e7a2a927b56
   - 60b8f1668552
+  - afac6d6bd02b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: links
@@ -609,6 +611,7 @@ tools:
 - name: instagraal
   owner: bgruening
   revisions:
+  - 5c11b91a76dc
   - d1be552c6034
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
