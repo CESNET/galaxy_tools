@@ -66,3 +66,5 @@ tools:
   owner: recetox
 - name: stratified_block_randomization
   owner: recetox
+- name: zooma
+  owner: recetox
