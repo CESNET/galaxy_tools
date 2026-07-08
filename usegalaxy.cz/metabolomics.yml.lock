@@ -183,6 +183,7 @@ tools:
 - name: tablemerge
   owner: melpetera
   revisions:
+  - 01b1540cccc9
   - e44c5246247a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -482,6 +483,7 @@ tools:
   revisions:
   - b6a6b4cc932a
   - e7c5811ec12f
+  - f19a3307db9b
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: batchcorrection
