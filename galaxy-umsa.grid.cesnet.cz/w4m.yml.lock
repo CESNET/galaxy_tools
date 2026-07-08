@@ -26,5 +26,6 @@ tools:
   owner: ethevenot
   revisions:
   - e7c5811ec12f
+  - f19a3307db9b
   tool_panel_section_id: w4m
   tool_panel_section_label: W4M
