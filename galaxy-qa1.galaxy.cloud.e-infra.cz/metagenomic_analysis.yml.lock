@@ -203,6 +203,7 @@ tools:
 - name: checkm2
   owner: iuc
   revisions:
+  - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
   tool_panel_section_id: metagenomic_analysis
@@ -456,5 +457,11 @@ tools:
   owner: bgruening
   revisions:
   - 3ee493cd606c
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: comebin
+  owner: iuc
+  revisions:
+  - ddfb9c10740a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
