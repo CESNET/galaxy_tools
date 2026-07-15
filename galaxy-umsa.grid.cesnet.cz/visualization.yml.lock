@@ -104,6 +104,7 @@ tools:
 - name: heatmap
   owner: ethevenot
   revisions:
+  - a17fd6d6ef90
   - b1667c118127
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
