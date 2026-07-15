@@ -555,6 +555,7 @@ tools:
   owner: bgruening
   revisions:
   - 36d65981163b
+  - 77824d12c143
   - 99898a312165
   - f5c7e6442a10
   tool_panel_section_id: machine_learning
@@ -563,6 +564,7 @@ tools:
   owner: recetox
   revisions:
   - 0471403ef9ce
+  - 24ccb5497d9b
   - 9a2ffe599e67
   - a3655f6fe6e0
   tool_panel_section_id: machine_learning
@@ -570,6 +572,7 @@ tools:
 - name: aoptk_normalize_chemicals
   owner: recetox
   revisions:
+  - 1a1e17c9dd25
   - 24b8c589e2eb
   - 464344aefdec
   - 8180f16ac39c
@@ -579,6 +582,7 @@ tools:
 - name: aoptk_query_literature
   owner: recetox
   revisions:
+  - 701fb89e9f92
   - 7e6e180b1af7
   - 887378d493be
   - ecba3e952d53
@@ -592,6 +596,7 @@ tools:
   - bb342034256d
   - bed4cc854248
   - c9c012f535f7
+  - cec4efa09857
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: aoptk_final_modification
