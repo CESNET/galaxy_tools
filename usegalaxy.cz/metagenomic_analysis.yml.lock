@@ -136,6 +136,7 @@ tools:
   - 43c99742158b
   - 88677f452aea
   - aab8af79110e
+  - d49e0de76bf5
   - e96bbb9e24ea
   - ebd632e95aae
   tool_panel_section_id: metagenomic_analysis
@@ -147,6 +148,7 @@ tools:
   - 51971db051ba
   - 7b8cb2b02978
   - a204f3983d22
+  - d000854331fe
   - d60df8727f59
   - e7c2674e01fe
   tool_panel_section_id: metagenomic_analysis
@@ -155,6 +157,7 @@ tools:
   owner: iuc
   revisions:
   - 1d75bd0595e2
+  - 2495262244bd
   - 273b8a00c8a2
   - 5c865a382933
   - 646c58820267
@@ -171,6 +174,7 @@ tools:
   - 7c2100246a2f
   - 9f306361a58e
   - ce4bfce70e64
+  - e0aea8e800d7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_seqcounts
@@ -193,6 +197,7 @@ tools:
   - 6f06d501b7e6
   - 78faebd0879c
   - 8daf4564ccda
+  - aae21f831e95
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_learnerrors
@@ -700,6 +705,7 @@ tools:
   - 1dcea261abbe
   - 28d740f2c0b0
   - 6941d0d453ba
+  - d9b724b4a136
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_genome
@@ -708,6 +714,7 @@ tools:
   - 0ff4b0e5a3bc
   - 134e4e78e754
   - 73b667038f46
+  - 8c957deb8a68
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: maaslin2

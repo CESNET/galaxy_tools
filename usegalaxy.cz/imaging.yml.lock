@@ -306,6 +306,7 @@ tools:
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   - d48c999b3b96
   tool_panel_section_id: imaging
@@ -414,6 +415,7 @@ tools:
 - name: imagej2_smooth
   owner: imgteam
   revisions:
+  - 129f6b7185af
   - 53fb6f4afcc8
   - c11777ffe5b1
   tool_panel_section_id: imaging
@@ -422,6 +424,7 @@ tools:
   owner: imgteam
   revisions:
   - 711adedc5bb8
+  - a13240a1a6d3
   - e9243cad1d67
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
