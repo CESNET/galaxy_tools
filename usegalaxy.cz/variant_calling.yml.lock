@@ -305,11 +305,13 @@ tools:
   owner: iuc
   revisions:
   - 76d18b1e970b
+  - af3b56605b60
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vg_convert
   owner: iuc
   revisions:
+  - 0b527546d581
   - 7366704232b6
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

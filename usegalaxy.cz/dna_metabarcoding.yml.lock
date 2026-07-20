@@ -26,6 +26,7 @@ tools:
 - name: obi_convert
   owner: iuc
   revisions:
+  - 12c00cef6985
   - 374fd9feb032
   - 618fa454e51a
   - a86cb55cba33
@@ -60,6 +61,7 @@ tools:
   revisions:
   - 02bab5ff7c37
   - 7e68109625a3
+  - 879f44536e12
   - 98bec443b342
   - be475ac055b2
   - e5cf6d670369

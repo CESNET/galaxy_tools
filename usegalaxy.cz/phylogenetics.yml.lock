@@ -349,6 +349,7 @@ tools:
 - name: snp_dists
   owner: iuc
   revisions:
+  - 1be3e9c59601
   - f78492521996
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
