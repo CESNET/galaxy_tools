@@ -102,6 +102,7 @@ tools:
   owner: iuc
   revisions:
   - 912f904a6e1e
+  - fa65e5e7577f
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks_populations

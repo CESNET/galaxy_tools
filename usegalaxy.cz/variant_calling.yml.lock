@@ -109,6 +109,7 @@ tools:
   - 147de996e34f
   - 8aa352093d73
   - 9a260f6fab93
+  - b75e49f360de
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: delly_classify
@@ -246,6 +247,7 @@ tools:
   revisions:
   - 05f317e50e61
   - 08296952d12f
+  - 2844fbbcaa92
   - c3c930926708
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -298,6 +300,7 @@ tools:
 - name: vg_view
   owner: iuc
   revisions:
+  - 974fc57878c7
   - ee62774bb5bd
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -325,6 +328,7 @@ tools:
 - name: bcftools_merge
   owner: iuc
   revisions:
+  - 52f6b7ac3739
   - 5b006286a458
   - af163c712539
   - d3286f971e89
@@ -468,6 +472,7 @@ tools:
   owner: iuc
   revisions:
   - 07396b423218
+  - 89be90465e11
   - c277260d3fab
   - f0d44631365f
   tool_panel_section_id: variant_calling
@@ -484,6 +489,7 @@ tools:
 - name: bcftools_csq
   owner: iuc
   revisions:
+  - 633588f5cf1b
   - 9f69e7d58d03
   - d237eaef451f
   - f01b2c9506b9
@@ -829,6 +835,7 @@ tools:
   owner: iuc
   revisions:
   - 012656fd329f
+  - 506cb7ed2a11
   - a20d6492132d
   - cacc9970727a
   tool_panel_section_id: variant_calling
@@ -918,6 +925,7 @@ tools:
   - 262bba5b90ef
   - 394dbf428c7b
   - a730269af659
+  - f319f4089d5e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: ucsc_fatovcf

@@ -563,6 +563,7 @@ tools:
 - name: aoptk_parse_pdf
   owner: recetox
   revisions:
+  - 00b7c8473064
   - 0471403ef9ce
   - 24ccb5497d9b
   - 9a2ffe599e67
@@ -575,6 +576,7 @@ tools:
   - 1a1e17c9dd25
   - 24b8c589e2eb
   - 464344aefdec
+  - 646a0b80d66f
   - 8180f16ac39c
   - f5ffeece6ff5
   tool_panel_section_id: machine_learning
@@ -585,6 +587,7 @@ tools:
   - 701fb89e9f92
   - 7e6e180b1af7
   - 887378d493be
+  - e07a824cf9cc
   - ecba3e952d53
   - efb219f82bb5
   tool_panel_section_id: machine_learning

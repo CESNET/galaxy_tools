@@ -958,6 +958,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - 0b833dc20f00
   - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
