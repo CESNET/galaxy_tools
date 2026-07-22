@@ -55,6 +55,7 @@ tools:
   - 821062fc5782
   - bf28a0fc0db6
   - bf32ae95a06f
+  - e9fa79966366
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: ramclustr
@@ -192,6 +193,7 @@ tools:
   owner: recetox
   revisions:
   - 07b7a1012916
+  - 388e19c4316e
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: mzspeclib_convert
@@ -239,6 +241,7 @@ tools:
   - 1453d8691711
   - 2a70369a2662
   - 5668e27d0684
+  - a27ab4853c86
   - ce0420edec0f
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -246,6 +249,7 @@ tools:
   owner: recetox
   revisions:
   - 0f01dc62c4f3
+  - 46163ab443e7
   - 98893ab7309f
   - d64165c2b96b
   - da740030bda9
