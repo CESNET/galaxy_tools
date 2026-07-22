@@ -115,6 +115,7 @@ tools:
   - 54aa421c2911
   - 965f73e77296
   - c2f471480624
+  - e5dc009367ef
   - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -205,6 +206,7 @@ tools:
   owner: iuc
   revisions:
   - 04c15826a0b8
+  - 1fb4fc5e64d6
   - 4bba91a89457
   - 68129ce1c59b
   - 75403243703a
@@ -218,6 +220,7 @@ tools:
   - 1c35dadbe76f
   - 47198090501e
   - 89d11e95a9b1
+  - 9010b9e13dec
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - b762f4d54f78
