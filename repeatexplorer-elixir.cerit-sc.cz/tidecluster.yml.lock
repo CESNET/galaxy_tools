@@ -9,5 +9,6 @@ tools:
   - 440796be7576
   - 971dbc97e607
   - a0f57cfa1bb7
+  - e73fb5a3b37c
   tool_panel_section_id: tidecluster
   tool_panel_section_label: TideCluster
