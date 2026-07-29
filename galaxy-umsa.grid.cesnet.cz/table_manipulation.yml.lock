@@ -46,6 +46,7 @@ tools:
   owner: iuc
   revisions:
   - 2040e4c2750a
+  - 6428adb323eb
   tool_panel_section_id: table_manipulation
   tool_panel_section_label: Table Manipulation
 - name: table_pandas_dropna
