@@ -171,6 +171,7 @@ tools:
   owner: marie-tremblay-metatoul
   revisions:
   - 0ff2d9211ebe
+  - e2bfe33fefce
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_export_samplemetadata
@@ -362,6 +363,7 @@ tools:
   revisions:
   - 018a9771de28
   - 1ae878634ab3
+  - 773aea6651d2
   - a5347d57899f
   - acc0a4a366c1
   tool_panel_section_id: metabolomics
@@ -423,6 +425,7 @@ tools:
   revisions:
   - 11ab2081bd4a
   - 35b6fe4d481c
+  - 788a4bac4a11
   - 86a20118e743
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
