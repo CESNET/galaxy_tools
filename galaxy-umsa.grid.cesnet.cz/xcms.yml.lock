@@ -8,6 +8,7 @@ tools:
   - 11ab2081bd4a
   - 35b6fe4d481c
   - 6de175c1f6ef
+  - 788a4bac4a11
   tool_panel_section_id: xcms
   tool_panel_section_label: XCMS
 - name: xcms_xcmsset
@@ -15,6 +16,7 @@ tools:
   revisions:
   - 3990a65b45a4
   - 6550698fe60f
+  - 734dfb2af03a
   - b02d1992a43a
   tool_panel_section_id: xcms
   tool_panel_section_label: XCMS
@@ -24,6 +26,7 @@ tools:
   - 018a9771de28
   - 1ae878634ab3
   - 444e3ed135e3
+  - 773aea6651d2
   tool_panel_section_id: xcms
   tool_panel_section_label: XCMS
 - name: xcms_retcor
@@ -31,6 +34,7 @@ tools:
   revisions:
   - 33c0ca93f3ee
   - aa252eec9229
+  - ba20f926a460
   - d2b82d89f848
   tool_panel_section_id: xcms
   tool_panel_section_label: XCMS
@@ -40,6 +44,7 @@ tools:
   - 024974037c4e
   - 9291271ec4d9
   - c8bef8f6a1cb
+  - d26d886f48a3
   tool_panel_section_id: xcms
   tool_panel_section_label: XCMS
 - name: xcms_merge
@@ -47,6 +52,7 @@ tools:
   revisions:
   - 5bd125a3f3b0
   - 6d475a389abc
+  - 8372531e6c92
   - ae28a753a6f8
   tool_panel_section_id: xcms
   tool_panel_section_label: XCMS
@@ -55,6 +61,7 @@ tools:
   revisions:
   - 3820e3f3b1cb
   - 71572faf938e
+  - a151d2cf27fb
   - d45a786cbc40
   tool_panel_section_id: xcms
   tool_panel_section_label: XCMS
@@ -62,6 +69,7 @@ tools:
   owner: lecorguille
   revisions:
   - 26d77e9ceb49
+  - 564d6ab0cf18
   - a8d866a71ba1
   - ec9aebabc1d2
   tool_panel_section_id: xcms
@@ -69,6 +77,7 @@ tools:
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - 4ea32e46b2d6
   - 94eb263cfab4
   - e13c7bc91c63
@@ -79,5 +88,6 @@ tools:
   revisions:
   - 090b33a9981c
   - 6c2798bce3eb
+  - e3bcb4877939
   tool_panel_section_id: xcms
   tool_panel_section_label: XCMS

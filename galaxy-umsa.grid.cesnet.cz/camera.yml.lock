@@ -7,6 +7,7 @@ tools:
   revisions:
   - 4b9ab71be05e
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   - abf1775ac14d
   tool_panel_section_id: camera
   tool_panel_section_label: CAMERA
