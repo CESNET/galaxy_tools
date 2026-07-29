@@ -44,6 +44,7 @@ tools:
   - 61f9ddbc63ca
   - 626658afe4cb
   - 6595517c2dd8
+  - 9bc5cdefb090
   - 9cd341095afd
   - aff5135563c6
   tool_panel_section_id: text_manipulation
@@ -190,6 +191,7 @@ tools:
   owner: iuc
   revisions:
   - 2040e4c2750a
+  - 6428adb323eb
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: column_order_header_sort

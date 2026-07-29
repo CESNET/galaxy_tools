@@ -234,6 +234,7 @@ tools:
   - 6bd7c48ff6ed
   - 7136e9ab70db
   - 7f3b59dee073
+  - a6ceb91124fa
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -325,6 +326,7 @@ tools:
 - name: cat_bins
   owner: iuc
   revisions:
+  - 0c1d6b4abca0
   - 0e63d03c8790
   - 18676df0cb3a
   - 31853794ace2
@@ -333,6 +335,7 @@ tools:
 - name: cat_contigs
   owner: iuc
   revisions:
+  - 1254b1db9afc
   - 7aebc0137f20
   - c6c77d840993
   - f41dbb0b9ff8
@@ -433,6 +436,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -441,6 +445,7 @@ tools:
   owner: iuc
   revisions:
   - 388e6678fa98
+  - 7a53f2e3fb9d
   - 7f1aaa1932d8
   - a8216def322b
   tool_panel_section_id: metagenomic_analysis
@@ -687,6 +692,7 @@ tools:
   revisions:
   - 1d660ee0b1c8
   - 869256447e86
+  - e620f6e2b6a8
   - eb7baf1f72ca
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
