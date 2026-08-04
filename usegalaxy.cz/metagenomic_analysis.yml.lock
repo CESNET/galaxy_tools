@@ -725,6 +725,7 @@ tools:
   - 0ff4b0e5a3bc
   - 134e4e78e754
   - 73b667038f46
+  - 840d407fe8e5
   - 8c957deb8a68
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1445,6 +1446,7 @@ tools:
   - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: binette
