@@ -23,6 +23,7 @@ tools:
   revisions:
   - 87c11c05d238
   - ce5d418183c5
+  - fce88d02de6c
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: sleuth

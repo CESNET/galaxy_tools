@@ -400,6 +400,7 @@ tools:
 - name: kraken
   owner: devteam
   revisions:
+  - 407507e321b3
   - 766d5f63b0f4
   - aec58624706f
   tool_panel_section_id: metagenomic_analysis
@@ -582,6 +583,7 @@ tools:
   revisions:
   - 6b7622dda516
   - a00df747f03c
+  - a6fd47ecbff8
   - c2803012bbb3
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
@@ -683,6 +685,7 @@ tools:
 - name: jellyfish
   owner: iuc
   revisions:
+  - b17397b17e7c
   - b4038a4d48f5
   - dcd30574a456
   tool_panel_section_id: metagenomic_analysis
@@ -1515,6 +1518,7 @@ tools:
 - name: kegg_pathways_completeness
   owner: iuc
   revisions:
+  - 76ad4572eea4
   - 78990897aa94
   - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
