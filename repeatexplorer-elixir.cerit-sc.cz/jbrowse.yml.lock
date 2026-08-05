@@ -5,6 +5,7 @@ tools:
 - name: jbrowse
   owner: iuc
   revisions:
+  - 1483285bdb7a
   - a6e57ff585c0
   tool_panel_section_id: jbrowse
   tool_panel_section_label: Jbrowse
