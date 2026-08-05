@@ -13,6 +13,7 @@ tools:
 - name: episcanpy_cluster_embed
   owner: iuc
   revisions:
+  - 4e214c0acd59
   - f4713992f23a
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -181,6 +182,7 @@ tools:
   owner: iuc
   revisions:
   - 29f5f25b9935
+  - 4f1baeda3aca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: episcanpy_build_matrix

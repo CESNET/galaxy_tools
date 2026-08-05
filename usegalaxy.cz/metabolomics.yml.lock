@@ -392,6 +392,7 @@ tools:
   - 4bfef820569b
   - 7faadba7c625
   - aa252eec9229
+  - ba20f926a460
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_merge
@@ -593,6 +594,7 @@ tools:
   revisions:
   - 4b4dead87318
   - c9040bdb918c
+  - f65ffb01a6be
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_spectral_similarity
@@ -721,6 +723,7 @@ tools:
   - bf28a0fc0db6
   - bf32ae95a06f
   - dbbedb14b44c
+  - e9fa79966366
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_differential_multigroup_analysis
@@ -755,6 +758,7 @@ tools:
   owner: iuc
   revisions:
   - 04d213632103
+  - 442b6a2e57f4
   - 626016c1acdf
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
