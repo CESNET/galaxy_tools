@@ -101,6 +101,7 @@ tools:
   owner: pjbriggs
   revisions:
   - 32f1f56bd970
+  - 75a3b8da8e76
   - b9aaed85cbd1
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
