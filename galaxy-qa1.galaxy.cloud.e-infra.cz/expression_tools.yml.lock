@@ -18,6 +18,7 @@ tools:
 - name: map_param_value
   owner: iuc
   revisions:
+  - 022a635f2283
   - 5ac8a4bf7a8d
   tool_panel_section_id: expression_tools
   tool_panel_section_label: Expression Tools
