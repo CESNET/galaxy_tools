@@ -213,6 +213,7 @@ tools:
   - c0f8fe52948e
   - cb441f258c37
   - ccc439243918
+  - d8fb9fa763a0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: sniffles
@@ -220,6 +221,7 @@ tools:
   revisions:
   - 93c4b04a0769
   - ceff2f6a5368
+  - dcd4681273f7
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vardict_java
@@ -518,6 +520,7 @@ tools:
 - name: bcftools_cnv
   owner: iuc
   revisions:
+  - 2b7e7aa56527
   - 61dfbc82ffc8
   - 6d35a3780bfd
   - ccb83bf54de0
@@ -527,6 +530,7 @@ tools:
   owner: iuc
   revisions:
   - 1959cc43b414
+  - 1be3e9c59601
   - f78492521996
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -541,6 +545,7 @@ tools:
   owner: iuc
   revisions:
   - 5804f786060d
+  - 67ef1dddcad9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: exomedepth
@@ -556,6 +561,7 @@ tools:
   - 1e1291983bc7
   - 85dc96ebc770
   - a5937157062f
+  - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -619,6 +625,7 @@ tools:
   revisions:
   - 4653aeb60243
   - 80dc747a394d
+  - d9741a570506
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: cnvkit_call
@@ -777,6 +784,7 @@ tools:
   owner: iuc
   revisions:
   - 591cc8518033
+  - 7aea930ab6cc
   - a2f8dc22d7c0
   - fcf941c241cc
   tool_panel_section_id: variant_calling
@@ -786,6 +794,7 @@ tools:
   revisions:
   - acfd6984d130
   - bdc67eeb0bc9
+  - f44f646aa172
   - fa65af07ce7d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -914,6 +923,7 @@ tools:
   - b8c112397c5e
   - c8ecdd5bdb32
   - c91e09b60325
+  - cf3f306bce1b
   - fdbd97ff825e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

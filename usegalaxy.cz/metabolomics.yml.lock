@@ -374,6 +374,7 @@ tools:
   - 1c30ff90f3ae
   - 73d82de36369
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_fillpeaks
@@ -381,6 +382,7 @@ tools:
   revisions:
   - 26d77e9ceb49
   - 3bc94c3abb28
+  - 564d6ab0cf18
   - a8d866a71ba1
   - de0d85537ee3
   tool_panel_section_id: metabolomics
@@ -418,6 +420,7 @@ tools:
   - 15646e937936
   - 378ddb410225
   - 3990a65b45a4
+  - 734dfb2af03a
   - b02d1992a43a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -585,6 +588,7 @@ tools:
 - name: dimet_differential_analysis
   owner: iuc
   revisions:
+  - b7d8a8202ad6
   - c46d33411495
   - fff032d6115a
   tool_panel_section_id: metabolomics
@@ -592,6 +596,7 @@ tools:
 - name: dimet_abundance_plot
   owner: iuc
   revisions:
+  - 13846689db6b
   - 4b4dead87318
   - c9040bdb918c
   - f65ffb01a6be
@@ -729,6 +734,7 @@ tools:
 - name: dimet_differential_multigroup_analysis
   owner: iuc
   revisions:
+  - 603a8e254ee3
   - c4bcde2c17d0
   - e88cf5618b40
   tool_panel_section_id: metabolomics
@@ -774,6 +780,7 @@ tools:
   revisions:
   - b1a9eddf73d9
   - cb8c4ae59da9
+  - f9bfb18d3fb1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_kmdnoise

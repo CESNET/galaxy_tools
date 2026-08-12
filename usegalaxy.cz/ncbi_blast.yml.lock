@@ -42,6 +42,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 7d01da0b9e18
   - c9f8fef1df74
   - e9005d1f3cfd
   tool_panel_section_id: ncbi_blast

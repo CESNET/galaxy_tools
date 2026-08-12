@@ -21,6 +21,7 @@ tools:
 - name: kallisto_pseudo
   owner: iuc
   revisions:
+  - 3741c4204eb5
   - 87c11c05d238
   - ce5d418183c5
   - fce88d02de6c
@@ -45,6 +46,7 @@ tools:
   revisions:
   - 4f9c4e6566e5
   - c971db6f0fe5
+  - f71c54748ff2
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: isoformswitchanalyzer
