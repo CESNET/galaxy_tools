@@ -173,6 +173,7 @@ tools:
   - 427903d47026
   - 61f9ddbc63ca
   - 6595517c2dd8
+  - 9bc5cdefb090
   - 9cd341095afd
   - aff5135563c6
   tool_panel_section_id: annotation
@@ -522,6 +523,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - 2b9b64614d0c
   - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
