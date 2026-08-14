@@ -53,6 +53,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 170061c052ad
   - 5d365d5cbe9d
   - 60024a528cbd

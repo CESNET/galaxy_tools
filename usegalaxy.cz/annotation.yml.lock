@@ -960,6 +960,7 @@ tools:
   owner: iuc
   revisions:
   - 0b833dc20f00
+  - 2b9b64614d0c
   - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
