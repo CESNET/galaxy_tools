@@ -125,6 +125,7 @@ tools:
   revisions:
   - 23494763e39e
   - 8ec7636fa875
+  - f3534b94ad05
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: tbl2gff3
@@ -330,6 +331,7 @@ tools:
   - 78c75f134c16
   - 862f5a86854d
   - c2ef298da409
+  - d8b0de0554a9
   - f9bf6a8d8547
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -490,6 +492,7 @@ tools:
   owner: iuc
   revisions:
   - 96e6283e4745
+  - b7e91ff1a894
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker
@@ -555,6 +558,7 @@ tools:
   owner: iuc
   revisions:
   - 80c713789d13
+  - a30ef2a2b3a9
   - e3e5f208e93c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -575,6 +579,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 82d6ca8212dc
   - 96b127c59e6a
   - be03abdc6451
   tool_panel_section_id: annotation
@@ -960,6 +965,7 @@ tools:
   owner: iuc
   revisions:
   - 0b833dc20f00
+  - 2b9b64614d0c
   - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation

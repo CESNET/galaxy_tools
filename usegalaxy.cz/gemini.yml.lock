@@ -18,6 +18,7 @@ tools:
   owner: iuc
   revisions:
   - 2270a8b83c12
+  - cca3391dc8b4
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_pathways
@@ -42,6 +43,7 @@ tools:
   owner: iuc
   revisions:
   - 334e946cacd4
+  - fb2890358aa3
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_gene_wise
@@ -72,17 +74,20 @@ tools:
   owner: iuc
   revisions:
   - 4b5123d51e8c
+  - 84ede9f5fddb
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_fusions
   owner: iuc
   revisions:
   - c00dcd1455a0
+  - dc09f8b919a4
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_roh
   owner: iuc
   revisions:
+  - d509e44a3fe0
   - e8349da26ed5
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini

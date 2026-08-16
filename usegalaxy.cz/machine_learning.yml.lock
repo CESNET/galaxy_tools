@@ -7,6 +7,7 @@ tools:
   revisions:
   - 2d20b3a1babd
   - c58c1a99578b
+  - e40b523de00d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pca
@@ -617,6 +618,7 @@ tools:
   revisions:
   - 35172fb694d8
   - 42c57f739aa1
+  - '763401373029'
   - 7f92e08ad375
   - c0814e7a5d8e
   - fe8485a77d69

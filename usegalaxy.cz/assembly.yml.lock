@@ -15,6 +15,7 @@ tools:
 - name: verkko
   owner: iuc
   revisions:
+  - 43edaa0b6f3d
   - cf54dafa0403
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -29,6 +30,7 @@ tools:
   owner: galaxy-australia
   revisions:
   - 098506c54016
+  - 14143ced290a
   - 2263989660f5
   - 3c8227556fdc
   - 48c13389050d
@@ -53,6 +55,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 170061c052ad
   - 5d365d5cbe9d
   - 60024a528cbd
@@ -116,6 +119,7 @@ tools:
 - name: trycycler_reconcile_msa
   owner: iuc
   revisions:
+  - 394a5d236e29
   - 59bd28f6265d
   - cb1e3db43020
   - ed312479d9eb
@@ -644,6 +648,7 @@ tools:
   - 53dd00a4ab68
   - 54a68f38cf3f
   - 7d9ee8cd14b8
+  - 81bc4c8bcf10
   - 840822c1e84a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
