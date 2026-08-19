@@ -478,6 +478,7 @@ tools:
 - name: hypo
   owner: iuc
   revisions:
+  - 22fe35346d69
   - d7c48cf1bf50
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -557,6 +558,7 @@ tools:
   - bc3831dd65c1
   - be78f13134e2
   - c44f824c051a
+  - d7abc913a48d
   - d7ce0ec78e51
   - f0af8936ed41
   - f14193ec1f50
@@ -686,6 +688,7 @@ tools:
   - 36ce83a739f2
   - 408ece2e4647
   - 8e422c873d02
+  - 9491362ac1cd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pairtools_parse

@@ -36,6 +36,7 @@ tools:
 - name: gemini_annotate
   owner: iuc
   revisions:
+  - 081adc1e0cd5
   - cf0f0f05ba9f
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
@@ -101,6 +102,7 @@ tools:
   owner: iuc
   revisions:
   - 20f2ecf46dcb
+  - ae60026eac0c
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_interactions

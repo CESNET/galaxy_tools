@@ -719,6 +719,7 @@ tools:
   revisions:
   - 1dcea261abbe
   - 28d740f2c0b0
+  - 66919d81c4d1
   - 6941d0d453ba
   - d9b724b4a136
   tool_panel_section_id: metagenomic_analysis
@@ -731,6 +732,7 @@ tools:
   - 73b667038f46
   - 840d407fe8e5
   - 8c957deb8a68
+  - c91014de79d2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: maaslin2

@@ -68,6 +68,7 @@ tools:
   - 290071465e6e
   - 877e80114d25
   - 9f23fe0cb70b
+  - a56510b3c4ed
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: freyja_variants
@@ -132,6 +133,7 @@ tools:
   - 4be399803856
   - 52bd683c6d3f
   - cb0d9eb033ef
+  - ec5826d33185
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: lineagespot
