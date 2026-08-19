@@ -561,6 +561,7 @@ tools:
   revisions:
   - 3820e3f3b1cb
   - 4c8507667cd6
+  - a151d2cf27fb
   - d45a786cbc40
   - fe4002ac5193
   tool_panel_section_id: metabolomics
@@ -744,6 +745,7 @@ tools:
   revisions:
   - 254408bfc5c0
   - 916bfd9924ff
+  - fb9fec2c5642
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_isotopologues_plot
@@ -772,6 +774,7 @@ tools:
   owner: iuc
   revisions:
   - 952808ffa842
+  - a71aeb82eae4
   - c112e7f989bf
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics

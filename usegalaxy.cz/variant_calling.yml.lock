@@ -744,6 +744,7 @@ tools:
 - name: bcftools_plugin_split_vep
   owner: iuc
   revisions:
+  - 527c286bda7e
   - 66682ee970c6
   - 7b71281eb0ca
   - d55feecb6dc1
@@ -830,6 +831,7 @@ tools:
   - 3eac729e66c9
   - 68d04cd5d35a
   - 7b4454382d39
+  - d1ffe13f696e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_filter
@@ -866,6 +868,7 @@ tools:
   - 2c372041ed8c
   - 3f62d4939d54
   - 403553ae19f6
+  - b79aae13e613
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: beagle
