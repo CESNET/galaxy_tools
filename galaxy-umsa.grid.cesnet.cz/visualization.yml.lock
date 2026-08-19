@@ -126,6 +126,7 @@ tools:
 - name: rcx_boxplot
   owner: recetox
   revisions:
+  - bbd2128c33b4
   - ebb0730f6175
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization

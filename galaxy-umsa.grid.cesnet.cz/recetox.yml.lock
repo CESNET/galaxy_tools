@@ -243,6 +243,7 @@ tools:
   - 5668e27d0684
   - a27ab4853c86
   - ce0420edec0f
+  - eae0c93af4a6
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: aoptk_publication_tracker
@@ -250,6 +251,7 @@ tools:
   revisions:
   - 0f01dc62c4f3
   - 46163ab443e7
+  - 93711c040c16
   - 98893ab7309f
   - d64165c2b96b
   - da740030bda9
