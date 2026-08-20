@@ -96,6 +96,9 @@ def update_file(fn, owner=None, name=None, without=False, ignore_errors=False):
         if latest_rev not in tool['revisions']:
             # TS doesn't support utf8 and we don't want to either.
             tool['revisions'].append(str(latest_rev))
+            # Keep the same sort order fix_lockfile.py produces, so `make fix`
+            # doesn't rewrite every lockfile this script just touched.
+            tool['revisions'] = sorted(list(set(map(str, tool['revisions']))))
 
     with open(fn + '.lock', 'w') as handle:
         yaml.dump(locked, handle, default_flow_style=False)
