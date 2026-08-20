@@ -196,8 +196,8 @@ tools:
 - name: shasta
   owner: iuc
   revisions:
-  - 60573349e9ae
   - 21acb1c432f0
+  - 60573349e9ae
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: colibread_lordec
@@ -436,12 +436,12 @@ tools:
   revisions:
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 7087d9a23185
   - 9c942221e135
   - bd07b0d0f568
   - c6cec5ab35c1
   - dfb8a4497339
-  - 0d0e8d0691c8
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: bionano_scaffold

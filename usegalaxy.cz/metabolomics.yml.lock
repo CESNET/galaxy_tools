@@ -177,9 +177,9 @@ tools:
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - e13c7bc91c63
   - f39cd33a73a6
-  - 46f13a609b3e
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: tablemerge
@@ -403,9 +403,9 @@ tools:
   revisions:
   - 090cf284d9ff
   - 5bd125a3f3b0
+  - 8372531e6c92
   - a301f001835c
   - ae28a753a6f8
-  - 8372531e6c92
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_plot_chromatogram
@@ -549,8 +549,8 @@ tools:
   owner: workflow4metabolomics
   revisions:
   - 6c2798bce3eb
-  - eb115eb8f25c
   - e3bcb4877939
+  - eb115eb8f25c
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: isoplot
@@ -756,16 +756,16 @@ tools:
   owner: iuc
   revisions:
   - 41a4d8c9d6a2
-  - a3349c105bd0
   - 67dbdf5e7a7a
+  - a3349c105bd0
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_metabologram
   owner: iuc
   revisions:
   - 06f8d9ba09cd
-  - a7d3e880e74c
   - 8539c0a123a0
+  - a7d3e880e74c
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_pca_analysis

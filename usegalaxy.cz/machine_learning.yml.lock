@@ -556,10 +556,10 @@ tools:
   owner: bgruening
   revisions:
   - 36d65981163b
+  - 3834a8fbfaf2
   - 77824d12c143
   - 99898a312165
   - f5c7e6442a10
-  - 3834a8fbfaf2
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: aoptk_parse_pdf
@@ -568,9 +568,9 @@ tools:
   - 00b7c8473064
   - 0471403ef9ce
   - 24ccb5497d9b
+  - 4d8a54a8c2e3
   - 9a2ffe599e67
   - a3655f6fe6e0
-  - 4d8a54a8c2e3
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: aoptk_normalize_chemicals
@@ -592,9 +592,9 @@ tools:
   - 7e6e180b1af7
   - 887378d493be
   - e07a824cf9cc
+  - e59d1486b610
   - ecba3e952d53
   - efb219f82bb5
-  - e59d1486b610
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: aoptk_download_publication_data
@@ -602,11 +602,11 @@ tools:
   revisions:
   - 792d078e6761
   - 85642c7246ed
+  - a00e7c279fb2
   - bb342034256d
   - bed4cc854248
   - c9c012f535f7
   - cec4efa09857
-  - a00e7c279fb2
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: aoptk_final_modification
@@ -621,12 +621,12 @@ tools:
 - name: aoptk_find_relationships_chemicals
   owner: recetox
   revisions:
+  - 23caad7e738e
   - 35172fb694d8
   - 42c57f739aa1
   - '763401373029'
   - 7f92e08ad375
   - c0814e7a5d8e
   - fe8485a77d69
-  - 23caad7e738e
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
