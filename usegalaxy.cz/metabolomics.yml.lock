@@ -179,6 +179,7 @@ tools:
   revisions:
   - e13c7bc91c63
   - f39cd33a73a6
+  - 46f13a609b3e
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: tablemerge
@@ -404,6 +405,7 @@ tools:
   - 5bd125a3f3b0
   - a301f001835c
   - ae28a753a6f8
+  - 8372531e6c92
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_plot_chromatogram
@@ -412,6 +414,7 @@ tools:
   - 024974037c4e
   - 271c9d5f0d10
   - 9291271ec4d9
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_xcmsset
@@ -547,6 +550,7 @@ tools:
   revisions:
   - 6c2798bce3eb
   - eb115eb8f25c
+  - e3bcb4877939
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: isoplot
@@ -753,6 +757,7 @@ tools:
   revisions:
   - 41a4d8c9d6a2
   - a3349c105bd0
+  - 67dbdf5e7a7a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_metabologram
@@ -760,6 +765,7 @@ tools:
   revisions:
   - 06f8d9ba09cd
   - a7d3e880e74c
+  - 8539c0a123a0
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_pca_analysis

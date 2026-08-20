@@ -117,6 +117,7 @@ tools:
   - 373c1735d31f
   - cd0484c5f9f1
   - f54e0ba38257
+  - 44c396b0f5e1
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: cooc_pubmut
@@ -125,6 +126,7 @@ tools:
   - 0349d8981030
   - ce8b15a55bbe
   - d04ea6b052c5
+  - a7b296efe181
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: cooc_tabmut

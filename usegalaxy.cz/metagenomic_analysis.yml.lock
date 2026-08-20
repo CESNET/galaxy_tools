@@ -417,6 +417,7 @@ tools:
   owner: crs4
   revisions:
   - e9005d1f3cfd
+  - 7d01da0b9e18
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_filter
@@ -909,6 +910,7 @@ tools:
   - 824497684a1f
   - b5407cc2bf51
   - cfb53a01abc5
+  - 2db2dc0eca8c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: aldex2
@@ -1062,6 +1064,7 @@ tools:
   - 915637bd1d1a
   - aaa868913641
   - fd25e549f512
+  - 8ef74a966b58
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin_generate_cannot_links
@@ -1470,6 +1473,7 @@ tools:
   - 7209f32a9e9d
   - 97b1540b4830
   - e91d979deb87
+  - bef32ef81f43
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_paste

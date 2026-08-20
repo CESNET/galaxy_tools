@@ -55,6 +55,7 @@ tools:
   revisions:
   - b12d81af0291
   - f4af63aaf57a
+  - eaa10652acc2
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: rna_starsolo
@@ -77,6 +78,7 @@ tools:
   - 79de45b5069b
   - 980d2a2e1180
   - de21b616f03a
+  - d8d32326fbfb
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: bismark

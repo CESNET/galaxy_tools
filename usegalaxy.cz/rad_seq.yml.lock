@@ -75,6 +75,7 @@ tools:
   owner: iuc
   revisions:
   - 564c33e5c3e3
+  - 94025494f95d
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_gstacks

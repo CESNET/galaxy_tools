@@ -228,6 +228,7 @@ tools:
   owner: iuc
   revisions:
   - e0734e88a104
+  - 940aff37ee4e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: control_freec
@@ -805,6 +806,7 @@ tools:
   - 2331ddcbd5aa
   - 8057cf55fa41
   - a0b1c0bdfa5a
+  - b7432d10bd2d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_query

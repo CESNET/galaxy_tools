@@ -740,6 +740,7 @@ tools:
   revisions:
   - 119b462f0f69
   - 461f64330945
+  - 1c82b51f7939
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: ctb_machine_learning
