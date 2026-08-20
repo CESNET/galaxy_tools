@@ -3,11 +3,17 @@
 import yaml
 import argparse
 import logging
+import random
+import time
 from collections import defaultdict
 
+from bioblend import ConnectionError as BioBlendConnectionError
 from bioblend import toolshed
 
 DEFAULT_TOOL_SHED_URL = 'https://toolshed.g2.bx.psu.edu'
+# Tool Shed API is rate-limited (HTTP 429); sleep between requests and back off on rejection.
+REQUEST_DELAY = (0.5, 2.0)   # random jitter range in seconds, applied before every TS request
+MAX_429_RETRIES = 5
 
 
 class ToolSheds(defaultdict):
@@ -22,13 +28,27 @@ tool_sheds = ToolSheds()
 
 
 def get_revisions(tool_shed, tool, ignore_errors=False):
-    try:
-        return tool_shed.repositories.get_ordered_installable_revisions(tool['name'], tool['owner'])
-    except Exception as exception:
-        if not ignore_errors:
-            raise
-        logging.error("Failed to fetch revisions for %s/%s: %s", tool['owner'], tool['name'], exception)
-        return None
+    for attempt in range(MAX_429_RETRIES + 1):
+        time.sleep(random.uniform(*REQUEST_DELAY))
+        try:
+            return tool_shed.repositories.get_ordered_installable_revisions(tool['name'], tool['owner'])
+        except BioBlendConnectionError as exception:
+            if exception.status_code == 429 and attempt < MAX_429_RETRIES:
+                backoff = random.uniform(*REQUEST_DELAY) * 2 ** attempt
+                logging.warning("Rate limited (429) for %s/%s, retrying in %.1fs (attempt %d/%d)",
+                                tool['owner'], tool['name'], backoff, attempt + 1, MAX_429_RETRIES)
+                time.sleep(backoff)
+                continue
+            if not ignore_errors:
+                raise
+            logging.error("Failed to fetch revisions for %s/%s: %s", tool['owner'], tool['name'], exception)
+            return None
+        except Exception as exception:
+            if not ignore_errors:
+                raise
+            logging.error("Failed to fetch revisions for %s/%s: %s", tool['owner'], tool['name'], exception)
+            return None
+    return None
 
 
 def update_file(fn, owner=None, name=None, without=False, ignore_errors=False):
