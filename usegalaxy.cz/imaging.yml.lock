@@ -450,6 +450,7 @@ tools:
   revisions:
   - 1a7c29d5fc11
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_analyze_particles_binary

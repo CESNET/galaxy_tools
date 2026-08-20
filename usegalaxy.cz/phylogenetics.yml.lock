@@ -365,6 +365,7 @@ tools:
   revisions:
   - 3b133b8d578a
   - 6eafc1e01a8c
+  - 84d4390cbd3a
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: picrust2_metagenome_pipeline
@@ -379,6 +380,7 @@ tools:
   revisions:
   - 6077821e8ae7
   - f53beb324696
+  - fc95788aff90
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: picrust2_pipeline

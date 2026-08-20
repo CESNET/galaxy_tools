@@ -79,6 +79,7 @@ tools:
   owner: iuc
   revisions:
   - a9caad671439
+  - 10d928447114
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: dropletutils_read_10x
