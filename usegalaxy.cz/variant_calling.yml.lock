@@ -227,8 +227,8 @@ tools:
 - name: vardict_java
   owner: iuc
   revisions:
-  - e0734e88a104
   - 940aff37ee4e
+  - e0734e88a104
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: control_freec

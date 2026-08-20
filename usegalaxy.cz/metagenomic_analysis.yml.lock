@@ -416,8 +416,8 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
-  - e9005d1f3cfd
   - 7d01da0b9e18
+  - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_filter
@@ -905,12 +905,12 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2db2dc0eca8c
   - 612df2a5054f
   - 613ee22af97c
   - 824497684a1f
   - b5407cc2bf51
   - cfb53a01abc5
-  - 2db2dc0eca8c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: aldex2
@@ -1061,10 +1061,10 @@ tools:
 - name: polypolish
   owner: iuc
   revisions:
+  - 8ef74a966b58
   - 915637bd1d1a
   - aaa868913641
   - fd25e549f512
-  - 8ef74a966b58
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin_generate_cannot_links
@@ -1472,8 +1472,8 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
-  - e91d979deb87
   - bef32ef81f43
+  - e91d979deb87
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_paste

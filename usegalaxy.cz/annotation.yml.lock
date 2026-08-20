@@ -39,8 +39,8 @@ tools:
   - 94170eee0ad8
   - bb935709506a
   - c5a90fa4b8dd
-  - e5c372c91e46
   - cc217867028e
+  - e5c372c91e46
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: optitype
