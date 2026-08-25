@@ -366,6 +366,7 @@ tools:
 - name: trimmomatic
   owner: pjbriggs
   revisions:
+  - 75a3b8da8e76
   - b9aaed85cbd1
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
