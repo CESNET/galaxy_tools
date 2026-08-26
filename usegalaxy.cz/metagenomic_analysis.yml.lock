@@ -79,6 +79,7 @@ tools:
   owner: iuc
   revisions:
   - 1a6cdf55390f
+  - 1f688befbcdf
   - 56ff60ec416d
   - 6dee4abadccb
   - eca2e2e20436
@@ -90,6 +91,7 @@ tools:
   - 1fa07868c0f3
   - 6efa06ffbac8
   - b4c750fe0fe3
+  - d3f229458710
   - db58d5898fea
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -548,6 +550,7 @@ tools:
   - 0270541aaf46
   - 27250f92a01a
   - 3cc4a60615c0
+  - 80254e412cde
   - c3e2a0805600
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -576,6 +579,7 @@ tools:
   revisions:
   - 25a5fa5f86a5
   - 2c8db4bf8834
+  - 43e2eb60dd0b
   - 892a0629e2ed
   - f93a61ef06cf
   tool_panel_section_id: metagenomic_analysis
@@ -1541,6 +1545,7 @@ tools:
 - name: comebin
   owner: iuc
   revisions:
+  - cd1d8332bc04
   - ddfb9c10740a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
