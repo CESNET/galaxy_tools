@@ -9,3 +9,9 @@ tools:
   - 755a4d643184
   tool_panel_section_id: assembly_annotation_tools
   tool_panel_section_label: Assembly annotation tools
+- name: carp
+  owner: petr-novak
+  revisions:
+  - 24371f88fa41
+  tool_panel_section_id: assembly_annotation_tools
+  tool_panel_section_label: Assembly annotation tools
