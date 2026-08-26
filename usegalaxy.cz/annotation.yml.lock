@@ -46,6 +46,7 @@ tools:
 - name: optitype
   owner: iuc
   revisions:
+  - 9615db65e2e7
   - fd974c5df8bc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -809,6 +810,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   - 728dacaf08a9
   - d77802fe76f7
   - da5f1924bb2e

@@ -211,6 +211,7 @@ tools:
   owner: iuc
   revisions:
   - 15200570e926
+  - 99f87a735e36
   - b1593fdac806
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

@@ -287,6 +287,7 @@ tools:
   revisions:
   - 0c415ba215e7
   - 45171c84aee1
+  - 686e06141050
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: odgi_viz

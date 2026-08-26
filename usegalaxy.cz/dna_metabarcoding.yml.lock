@@ -29,6 +29,7 @@ tools:
   - 12c00cef6985
   - 374fd9feb032
   - 618fa454e51a
+  - a6da97f50a11
   - a86cb55cba33
   - deaac9e831a4
   - e328ced6cf0a
@@ -43,6 +44,7 @@ tools:
   - 816cbd8f4e6e
   - 8fe2ec05a876
   - 9c6619b29650
+  - e3097930aa34
   - f5e899be558b
   tool_panel_section_id: dna_metabarcoding
   tool_panel_section_label: DNA Metabarcoding
@@ -52,6 +54,7 @@ tools:
   - 3cd66db293f6
   - 53b5bd9a08a1
   - 9eded74a3d03
+  - a2ee84fcf0f7
   - d4bea99366f9
   - ec215ed98831
   - f2a8b93f731c
@@ -61,6 +64,7 @@ tools:
   owner: iuc
   revisions:
   - 02bab5ff7c37
+  - 607b3ea00bbe
   - 7e68109625a3
   - 879f44536e12
   - 98bec443b342
@@ -74,6 +78,7 @@ tools:
   revisions:
   - 3ac96c352a3d
   - 4da9a24971bd
+  - 7db941c925ce
   - aff454cfd79e
   - c96ce8ed191c
   - d50dc96e3ce9
