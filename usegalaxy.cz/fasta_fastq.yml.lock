@@ -624,6 +624,7 @@ tools:
   revisions:
   - 04d05400d3a6
   - 40874f772ea1
+  - 73046d24a1a1
   - ff174ae7a02f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
