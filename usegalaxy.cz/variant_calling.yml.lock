@@ -243,6 +243,7 @@ tools:
   - 2898012c5265
   - '503487218735'
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

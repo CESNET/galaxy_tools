@@ -14,6 +14,7 @@ tools:
   revisions:
   - 71ce24befa24
   - a896b8b7d264
+  - d421497303c0
   - dba18bf7528f
   - ee72e302b6a3
   tool_panel_section_id: rna_analysis
@@ -223,6 +224,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 29e12b90949d
   - 30d90b851d3c
   - ebab418107f5
   - f4d5237a84f6
@@ -902,6 +904,7 @@ tools:
   - 31f8063eedea
   - 765e685641ce
   - 7acb00fc980a
+  - 83b6fef5e509
   - a2c1c52a7e47
   - a9b4d7761b46
   tool_panel_section_id: rna_analysis
@@ -909,6 +912,7 @@ tools:
 - name: arriba_get_filters
   owner: iuc
   revisions:
+  - 26ad140cac5b
   - 32e542c2a773
   - 6d1f577b3e47
   - 7a5a2d28c539
@@ -922,6 +926,7 @@ tools:
   - 0da0b2dc624c
   - 3d61a698e5e1
   - 45c2ec061cf9
+  - 4f7fb8cc6758
   - 6535dd4a4064
   - e1ab5699a834
   - f6b8b38636a4

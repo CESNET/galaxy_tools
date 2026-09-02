@@ -301,6 +301,7 @@ tools:
   - 22384d3d25f4
   - 23d6489e2604
   - 86dec4abcea8
+  - f4409b2e1501
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metagene_annotator
@@ -315,6 +316,7 @@ tools:
   revisions:
   - 3852f36e3154
   - 43f9ca23c132
+  - 9c102da4ca13
   - 9de5319ad2db
   - c73c3dfe1af8
   tool_panel_section_id: metagenomic_analysis
@@ -1156,6 +1158,7 @@ tools:
   - 6b8580e02e99
   - b0b7bba11507
   - bd518ee51da5
+  - e50ac6ad263b
   - e9168eec404c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1167,6 +1170,7 @@ tools:
   - 3ea43408e5db
   - 5e4e2b612a4f
   - 69cce076e0cf
+  - f339ecec9e21
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_core
@@ -1175,6 +1179,7 @@ tools:
   - 09604c87987c
   - 49c0d34d583f
   - 96bc42baaa74
+  - 9cc284833af9
   - de6156c8ef16
   - e595eafb5ecf
   tool_panel_section_id: metagenomic_analysis
@@ -1187,11 +1192,13 @@ tools:
   - 54ea08f9fd97
   - 61aa0f3b4d74
   - e10b5eebd415
+  - fc70cfa151cd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_frequency
   owner: iuc
   revisions:
+  - 09bcc3d5e672
   - 0feab98f9577
   - 301a6ffaf2a2
   - ac3774320d28
@@ -1204,6 +1211,7 @@ tools:
   revisions:
   - 16b4934fc7e7
   - 1979fdd0914f
+  - 241140d6680a
   - 3e5c1fdd0e45
   - 7c3248a397fd
   - c980e4bd48f2
@@ -1224,6 +1232,7 @@ tools:
   owner: iuc
   revisions:
   - 028ba7c0b400
+  - 22d5ac862bcf
   - 24f43b62a172
   - 35d71afa93f4
   - 378ce300fb3d
@@ -1238,6 +1247,7 @@ tools:
   - 77f9ed2bb200
   - c9143bcb2072
   - f34ea612eecf
+  - fdf58654ad2d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_octave
@@ -1248,6 +1258,7 @@ tools:
   - 9fa62bb69dc4
   - cb617c2139fa
   - d5edda7f75eb
+  - d939a8b3defe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_ordinate
@@ -1257,6 +1268,7 @@ tools:
   - 7a168b554d65
   - 9742e8636a10
   - be1918c80d9f
+  - c465a1ea3da2
   - dc31a6f9fb2f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1265,6 +1277,7 @@ tools:
   revisions:
   - 354d645455cd
   - 37a617dca128
+  - 5ca81dc9b5d9
   - 7822d7a5a496
   - a9fd4ada4d2a
   - bb054c50a96c
@@ -1275,6 +1288,7 @@ tools:
   revisions:
   - 2c21c267391c
   - 4140e26cafbc
+  - 838946d86683
   - c5ccc28a2696
   - cf0944377d87
   - e913a155618b
@@ -1285,6 +1299,7 @@ tools:
   revisions:
   - 094d0b97f92c
   - 2828d52a8910
+  - 3063daee0d8b
   - 7723ef4c9163
   - 9f4d491ebad2
   - aeca454c398e
@@ -1294,6 +1309,7 @@ tools:
   owner: iuc
   revisions:
   - 14b992fb08d4
+  - 1615e0550c98
   - 638503db7271
   - 7f5dd19dc792
   - a9dacd650ad5
@@ -1306,6 +1322,7 @@ tools:
   - 14b38ec15fe9
   - 492eb6dcfe5c
   - b268ffb0e321
+  - bd4aaf683c79
   - ef800b2766c4
   - ff07f41b8e54
   tool_panel_section_id: metagenomic_analysis
@@ -1313,6 +1330,7 @@ tools:
 - name: ampvis2_subset_taxa
   owner: iuc
   revisions:
+  - 227d169951d9
   - 35010c1c2d1b
   - 70a98af91147
   - 76cb398e9110
@@ -1325,6 +1343,7 @@ tools:
   revisions:
   - 4dac39937879
   - 77d2f88d8716
+  - ad262a9581bf
   - bc6221716772
   - bd41251e42ec
   - d50cf42420f2
@@ -1339,6 +1358,7 @@ tools:
   - dcbe3affb349
   - ed963e5316b7
   - f28f2faad83b
+  - f5987fb716a2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dram_strainer
@@ -1484,12 +1504,14 @@ tools:
 - name: mash_paste
   owner: iuc
   revisions:
+  - 618969c1d8e1
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_dist
   owner: iuc
   revisions:
+  - 45fb62c28c9b
   - c932095af671
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

@@ -571,6 +571,7 @@ tools:
   - 4d8a54a8c2e3
   - 9a2ffe599e67
   - a3655f6fe6e0
+  - ecd837ab4f94
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: aoptk_normalize_chemicals
@@ -581,6 +582,7 @@ tools:
   - 464344aefdec
   - 646a0b80d66f
   - 8180f16ac39c
+  - b24d3e8fe155
   - f5ffeece6ff5
   - fd0e9c04daa4
   tool_panel_section_id: machine_learning
@@ -588,6 +590,7 @@ tools:
 - name: aoptk_query_literature
   owner: recetox
   revisions:
+  - 3cec2d4045dd
   - 701fb89e9f92
   - 7e6e180b1af7
   - 887378d493be
@@ -607,6 +610,7 @@ tools:
   - bed4cc854248
   - c9c012f535f7
   - cec4efa09857
+  - f129d62ccdf9
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: aoptk_final_modification
@@ -615,6 +619,7 @@ tools:
   - 53060147b091
   - 95fdcd130035
   - d121a63d5778
+  - d620536a307b
   - fa78aa28937c
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -622,6 +627,7 @@ tools:
   owner: recetox
   revisions:
   - 23caad7e738e
+  - 33dea19b97c9
   - 35172fb694d8
   - 42c57f739aa1
   - '763401373029'
