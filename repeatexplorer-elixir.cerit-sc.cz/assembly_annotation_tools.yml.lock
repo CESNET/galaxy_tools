@@ -12,9 +12,9 @@ tools:
 - name: carp
   owner: petr-novak
   revisions:
+  - 1e110058610f
+  - 1f9ff2332d1b
   - 24371f88fa41
   - 34c26f9f7197
-  - 1f9ff2332d1b
-  - 1e110058610f
   tool_panel_section_id: assembly_annotation_tools
   tool_panel_section_label: Assembly annotation tools
