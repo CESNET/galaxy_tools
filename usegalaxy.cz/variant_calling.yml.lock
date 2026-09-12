@@ -1015,3 +1015,9 @@ tools:
   - 9f300faccb88
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
+- name: happy
+  owner: iuc
+  revisions:
+  - a5444c30823d
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
