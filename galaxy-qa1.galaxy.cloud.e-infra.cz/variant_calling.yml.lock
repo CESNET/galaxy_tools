@@ -486,6 +486,7 @@ tools:
 - name: bcftools_norm
   owner: iuc
   revisions:
+  - 262d695b5456
   - 271965b55437
   - 5226c31ac6d3
   - 5fa262ce95dd
@@ -517,6 +518,25 @@ tools:
   owner: devteam
   revisions:
   - 0d8581534009
+  - c752293b798c
   - ef2c525bd8cd
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+- name: deepvariant
+  owner: iuc
+  revisions:
+  - 0a151b5f95e4
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+- name: bcftools_concat
+  owner: iuc
+  revisions:
+  - 2844fbbcaa92
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+- name: happy
+  owner: iuc
+  revisions:
+  - a5444c30823d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
