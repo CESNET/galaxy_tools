@@ -162,3 +162,9 @@ tools:
   owner: iuc
 - name: freebayes
   owner: devteam
+- name: deepvariant
+  owner: iuc
+- name: bcftools_concat
+  owner: iuc
+- name: happy
+  owner: iuc
