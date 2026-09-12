@@ -176,3 +176,5 @@ tools:
   owner: richard-burhans
 - name: mgnify_seqprep
   owner: bgruening
+- name: seqkit_split2
+  owner: iuc
