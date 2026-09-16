@@ -223,5 +223,6 @@ tools:
   owner: recetox
   revisions:
   - 1b7235da7640
+  - 834b5b213204
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics

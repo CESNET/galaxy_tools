@@ -27,6 +27,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 3f987772e283
   - ba6d2c32f797
   tool_panel_section_id: annotation

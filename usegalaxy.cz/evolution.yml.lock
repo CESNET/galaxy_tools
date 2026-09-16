@@ -43,6 +43,7 @@ tools:
   revisions:
   - 00a8c36fc98c
   - 2fd21f5b16bc
+  - 4ac97ae01aba
   - a9d66dc6a767
   - b38f620a3628
   tool_panel_section_id: evolution
@@ -54,6 +55,7 @@ tools:
   - 1779a96f1d7c
   - 1aa73004ba9b
   - cf50aeb956f2
+  - e623a56a6470
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
 - name: tn93_cluster
@@ -61,6 +63,7 @@ tools:
   revisions:
   - 112d80c9ccca
   - 476189b83931
+  - 9b04e4d36b82
   - e0448bc48085
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
@@ -70,6 +73,7 @@ tools:
   revisions:
   - 1d2ec0b0a0a7
   - 4e68161336da
+  - 767905ef0314
   - c176164dc8a5
   - d9a642ad8ece
   tool_panel_section_id: evolution

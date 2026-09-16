@@ -100,6 +100,7 @@ tools:
   - 8fbd98f37c10
   - 95ab864b281a
   - 98099e4da1fd
+  - c888cae9725e
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: star_fusion
@@ -212,6 +213,7 @@ tools:
   - 6da3972210ee
   - 95219305823a
   - a6ea26c1f225
+  - b7c3dcb76c02
   - b7ce99273d62
   - cf1322aeb137
   - f7094efef903
