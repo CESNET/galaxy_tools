@@ -1935,6 +1935,7 @@ tools:
 - name: proteomiqon_mzmltomzlite
   owner: galaxyp
   revisions:
+  - aa442a308682
   - acb8aba959ed
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
