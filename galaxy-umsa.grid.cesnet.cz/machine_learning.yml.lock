@@ -6,6 +6,7 @@ tools:
 - name: sklearn_train_test_split
   owner: bgruening
   revisions:
+  - 5314ae25fbe1
   - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -13,17 +14,20 @@ tools:
   owner: bgruening
   revisions:
   - 57938c2f6ef5
+  - 84dad16ed802
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_estimator_attributes
   owner: bgruening
   revisions:
   - 0a43c856e1d8
+  - fd51b7456c2a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: model_prediction
   owner: bgruening
   revisions:
+  - 3dd539570a60
   - b6c2289292fa
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -36,6 +40,7 @@ tools:
 - name: sklearn_regression_metrics
   owner: bgruening
   revisions:
+  - 31fca3ff2a46
   - c78a5fc9e758
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
