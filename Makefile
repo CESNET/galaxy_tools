@@ -20,7 +20,7 @@ update-owner:  ## Run the update script for a subset of repos defined by the OWN
 	find ./$(INSTANCE) -name '*.yml' | grep '^\./[^/]*/' | xargs -n 1 python scripts/update_tool.py --owner $(OWNER)
 
 update-all: ## Run the update script for all repos
-	find ./$(INSTANCE) -name '*.yml' | grep '^\./[^/]*/' | xargs -n 1 python scripts/update_tool.py
+	find ./$(INSTANCE) -name '*.yml' | grep '^\./[^/]*/' | xargs -n 1 python scripts/update_tool.py --ignore-errors
 
 install: ## Run the Ephemeris command to install all repos and revisions that are missing from a given INSTANCE
 	find ./$(INSTANCE) -name '*.yml.lock' | grep '^\./[^/]*/' | xargs -n 1 -I {} shed-tools install --toolsfile {} --galaxy $(INSTANCE) --api_key $(GALAXY_API_KEY) --skip_install_resolver_dependencies
