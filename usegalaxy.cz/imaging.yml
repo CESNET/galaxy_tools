@@ -214,3 +214,5 @@ tools:
   owner: imgteam
 - name: split_image
   owner: imgteam
+- name: wildlife_megadetector_huggingface
+  owner: ecology
