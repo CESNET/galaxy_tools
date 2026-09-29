@@ -932,6 +932,7 @@ tools:
   - c8ecdd5bdb32
   - c91e09b60325
   - cf3f306bce1b
+  - e0e39f5335de
   - fdbd97ff825e
   - ffb42698e28f
   tool_panel_section_id: variant_calling

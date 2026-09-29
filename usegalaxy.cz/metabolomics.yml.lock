@@ -225,6 +225,7 @@ tools:
   - 32b66fb6a6a0
   - 702a849c1e0e
   - 89178a72388a
+  - becac9b2c229
   - e7305ba0dd38
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -234,12 +235,14 @@ tools:
   - 99d118321d5f
   - a9bb2ccc53de
   - c3d4b82c7e5d
+  - cabd480cfe97
   - f92b1b64da93
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: recetox_aplcms_correct_time
   owner: recetox
   revisions:
+  - 6bb6835f8e50
   - a82db010c53e
   - d69ec1171d71
   tool_panel_section_id: metabolomics
@@ -249,6 +252,7 @@ tools:
   revisions:
   - 550667ce03f1
   - 59c393d35e0e
+  - cc972a92941b
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: recetox_aplcms_remove_noise
@@ -256,11 +260,13 @@ tools:
   revisions:
   - 12bf74dd09f1
   - 7acd11ddc061
+  - 97f14feab793
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: recetox_aplcms_merge_known_table
   owner: recetox
   revisions:
+  - 073be0373d3c
   - 8ecb609cc265
   - b7c8a44b9cc1
   tool_panel_section_id: metabolomics
@@ -269,6 +275,7 @@ tools:
   owner: recetox
   revisions:
   - 50b9918aeff2
+  - b45cc424f836
   - e2dc815e1b2c
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -276,6 +283,7 @@ tools:
   owner: recetox
   revisions:
   - 2b6bfa234d8b
+  - 2dd734da8a4c
   - ec196e27a61a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics

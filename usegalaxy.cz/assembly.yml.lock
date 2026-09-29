@@ -322,6 +322,7 @@ tools:
   owner: nml
   revisions:
   - 1f04936b96f3
+  - 263af8401aed
   - 33368fec3b70
   - 822954de3f59
   - b512435320e3
@@ -352,6 +353,7 @@ tools:
   revisions:
   - 04d81e5f25e9
   - 2ecf5a570907
+  - 434f2a6c3ade
   - 697c9156dafe
   - f192c2fbe13f
   - fd128c111ab0
@@ -370,6 +372,7 @@ tools:
   - 1d06c8b38e77
   - 5bd3f053c303
   - aa1ac2f7a688
+  - c6ba8470ed01
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl
@@ -488,6 +491,7 @@ tools:
 - name: spades_rnaviralspades
   owner: iuc
   revisions:
+  - 7170a53ee406
   - a9aa4115cb68
   - d5645713603a
   - d5fb354f745d
@@ -501,6 +505,7 @@ tools:
   - 388dbecbf03b
   - 6fb81bb0fe3e
   - b40b77418372
+  - c4e781659379
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -509,12 +514,14 @@ tools:
   - 328aa71f0f3c
   - 6766a94ef559
   - c4ba6aa27088
+  - dcaf2403747d
   - ed32d95f436a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
   owner: iuc
   revisions:
+  - 9911ca348668
   - ae96f644b722
   - c5c4fa59be65
   - e5a3b75a271f
@@ -526,6 +533,7 @@ tools:
   revisions:
   - 045c8498d2dd
   - 152ff7d1817a
+  - 2c650dcc6190
   - 2cf8a2028ddc
   - 34305b013402
   tool_panel_section_id: assembly
@@ -534,6 +542,7 @@ tools:
   owner: iuc
   revisions:
   - 051fd2db8a27
+  - 162a7ff870e9
   - 5e7a2a927b56
   - 60b8f1668552
   - afac6d6bd02b
