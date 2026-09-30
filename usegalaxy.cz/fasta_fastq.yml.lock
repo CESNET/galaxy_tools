@@ -597,6 +597,7 @@ tools:
 - name: seqkit_stats
   owner: iuc
   revisions:
+  - 0a2a529e24e3
   - 24107542edff
   - 3d6d1121a427
   - 54a954ee64d4
@@ -610,6 +611,7 @@ tools:
 - name: seqkit_fx2tab
   owner: iuc
   revisions:
+  - 0d3b2a85231e
   - 23adecaeb039
   - 2fa2353fe3ab
   - 35136ed940a1
@@ -633,6 +635,7 @@ tools:
   owner: iuc
   revisions:
   - 0acbccd721b9
+  - 4cc0348746a6
   - 571e6933e972
   - 642d73815dd1
   - 6510652376b1
@@ -678,6 +681,7 @@ tools:
   revisions:
   - 0d9d8de82304
   - 0e0b003c711f
+  - b441f51f88b7
   - c669e8550c46
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -706,6 +710,7 @@ tools:
 - name: seqkit_split2
   owner: iuc
   revisions:
+  - 0a429822c6a5
   - 0c7fadfe52e2
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
