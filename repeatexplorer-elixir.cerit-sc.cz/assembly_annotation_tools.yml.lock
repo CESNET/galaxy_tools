@@ -16,5 +16,6 @@ tools:
   - 1f9ff2332d1b
   - 24371f88fa41
   - 34c26f9f7197
+  - c1e92e905024
   tool_panel_section_id: assembly_annotation_tools
   tool_panel_section_label: Assembly annotation tools
