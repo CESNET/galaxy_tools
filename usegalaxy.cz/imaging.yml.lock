@@ -854,6 +854,7 @@ tools:
 - name: wildlife_megadetector_huggingface
   owner: ecology
   revisions:
+  - 1ecc27463e4c
   - a08b4f1044ec
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
