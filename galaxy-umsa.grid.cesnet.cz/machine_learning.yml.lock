@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 5314ae25fbe1
+  - 6f7e3901728d
   - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -21,6 +22,7 @@ tools:
   owner: bgruening
   revisions:
   - 0a43c856e1d8
+  - fb9782000c55
   - fd51b7456c2a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
