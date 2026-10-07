@@ -7,12 +7,14 @@ tools:
   revisions:
   - 4018639dc0a5
   - 4787c71cdb6e
+  - ba8b0743be69
   tool_panel_section_id: pre_processing
   tool_panel_section_label: Pre-processing
 - name: bioconductor_msnbase_smooth_chromatogram
   owner: recetox
   revisions:
   - 09162867c419
+  - 216309c67d4a
   - 492350f45be9
   tool_panel_section_id: pre_processing
   tool_panel_section_label: Pre-processing
@@ -21,6 +23,7 @@ tools:
   revisions:
   - 00e058234fbf
   - 430dd5da800c
+  - 8e6a8e183398
   tool_panel_section_id: pre_processing
   tool_panel_section_label: Pre-processing
 - name: bioconductor_mzr
