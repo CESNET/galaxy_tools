@@ -51,6 +51,7 @@ tools:
   revisions:
   - 01fb6a7654e6
   - 1fcb7adc39b8
+  - 3d5024351691
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_pca
@@ -88,6 +89,7 @@ tools:
   revisions:
   - 2c66e43f1c86
   - bad3ca889618
+  - c3dfef526d03
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_coverage
