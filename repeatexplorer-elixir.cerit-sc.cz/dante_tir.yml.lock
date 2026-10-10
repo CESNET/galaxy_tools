@@ -5,6 +5,7 @@ tools:
 - name: dante_tir
   owner: petr-novak
   revisions:
+  - 3e3712041b29
   - 3f1f33f1c566
   - ce4d06c72092
   tool_panel_section_id: dante_tir

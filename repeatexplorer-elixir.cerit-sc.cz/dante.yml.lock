@@ -5,6 +5,7 @@ tools:
 - name: dante
   owner: petr-novak
   revisions:
+  - 029d642d5ef6
   - 5210db15a5fa
   - 726b8447eb09
   - 8f2bd3cae2de

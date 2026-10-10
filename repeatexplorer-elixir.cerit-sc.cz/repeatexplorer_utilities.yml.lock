@@ -5,6 +5,7 @@ tools:
 - name: re_utils
   owner: petr-novak
   revisions:
+  - 489613de6298
   - 91996b991991
   tool_panel_section_id: repeatexplorer_utilities
   tool_panel_section_label: RepeatExplorer utilities
