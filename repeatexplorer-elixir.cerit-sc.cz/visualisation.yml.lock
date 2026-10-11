@@ -27,6 +27,7 @@ tools:
   revisions:
   - 6b9816a913de
   - b0d96516e6a5
+  - bf96015d2492
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
 - name: ggplot2_violin
