@@ -12,6 +12,7 @@ tools:
 - name: graphicsmagick_image_convert
   owner: bgruening
   revisions:
+  - 0648279794e5
   - 0ecf92b5a7c5
   - 3ae9331790a6
   - 4e9a3745dce4

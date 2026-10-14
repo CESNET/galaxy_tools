@@ -98,6 +98,7 @@ tools:
 - name: drep_dereplicate
   owner: iuc
   revisions:
+  - 02a3a550751a
   - 1faea6e8c92b
   - 76b57044069d
   - 8165eab19456
@@ -114,6 +115,7 @@ tools:
   - 0a3caad1554a
   - 2c6f204ae1b9
   - 30d4702cdba6
+  - 372361b7e1fd
   - 54aa421c2911
   - 965f73e77296
   - c2f471480624
@@ -749,6 +751,7 @@ tools:
 - name: maaslin2
   owner: iuc
   revisions:
+  - 02f6f96b51f0
   - c629e6de3c49
   - f4580402a2a2
   tool_panel_section_id: metagenomic_analysis

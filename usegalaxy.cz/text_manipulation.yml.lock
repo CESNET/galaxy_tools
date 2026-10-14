@@ -289,6 +289,7 @@ tools:
   - 521bcbb5aa16
   - 5c9cb302c242
   - a3c79d2b1041
+  - ce13bea1e11e
   - e74df764bfd9
   - f5f86d7506d5
   tool_panel_section_id: text_manipulation
