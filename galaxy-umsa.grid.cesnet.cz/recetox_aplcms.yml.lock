@@ -6,6 +6,7 @@ tools:
   owner: recetox
   revisions:
   - 04892b463957
+  - 073be0373d3c
   - 17a48d0a80f4
   - b7c8a44b9cc1
   - cf061712a184
@@ -19,6 +20,7 @@ tools:
   - 481d769e2f7a
   - 4963811b6dec
   - 50b9918aeff2
+  - b45cc424f836
   - dfebc82ba1f0
   tool_panel_section_id: recetox_aplcms
   tool_panel_section_label: recetox-aplcms
@@ -29,6 +31,7 @@ tools:
   - 89178a72388a
   - b3413f335327
   - b341cfd4baf8
+  - becac9b2c229
   - e7305ba0dd38
   tool_panel_section_id: recetox_aplcms
   tool_panel_section_label: recetox-aplcms
@@ -36,6 +39,7 @@ tools:
   owner: recetox
   revisions:
   - 7acd11ddc061
+  - 97f14feab793
   - b5a1f35abd8a
   - d90187b0f247
   - ea0758b41473
@@ -49,6 +53,7 @@ tools:
   - 1574b8a29e6f
   - 501a232f3cd5
   - 51332c2520c7
+  - 6bb6835f8e50
   - 9064aecc78a7
   - a82db010c53e
   tool_panel_section_id: recetox_aplcms
@@ -60,12 +65,14 @@ tools:
   - 18ec7635bac6
   - 59c393d35e0e
   - b9b19a74ac01
+  - cc972a92941b
   - f3a18e020cdd
   tool_panel_section_id: recetox_aplcms
   tool_panel_section_label: recetox-aplcms
 - name: recetox_aplcms_align_features
   owner: recetox
   revisions:
+  - 2dd734da8a4c
   - 79ad928a0dae
   - 7b42ee54d757
   - c53a97599181
@@ -78,6 +85,7 @@ tools:
   revisions:
   - 24278c6b6d1c
   - 99d118321d5f
+  - cabd480cfe97
   - d7f5878a98c3
   - e0536ff73f36
   - f92b1b64da93

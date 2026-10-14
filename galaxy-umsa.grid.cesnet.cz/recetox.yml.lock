@@ -21,6 +21,7 @@ tools:
 - name: msmetaenhancer
   owner: recetox
   revisions:
+  - '275998667516'
   - 3b402610c6dc
   - 3e2cb0bc6959
   - 560053b805d2
@@ -33,6 +34,7 @@ tools:
   owner: recetox
   revisions:
   - 14a4d81e921e
+  - 474f19dc3380
   - 6e1ef071fffc
   - cba7123c2741
   - d5633eaf3552
@@ -81,6 +83,7 @@ tools:
   - 0f1b15d51801
   - 200c5c982dba
   - 6cd2a9e6ac49
+  - 731e5d54b6e6
   - e5fcba090b10
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -156,6 +159,7 @@ tools:
 - name: ms2deepscore_config_generator
   owner: recetox
   revisions:
+  - 08f0551d3a53
   - 7e4ac334fc33
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -163,12 +167,14 @@ tools:
   owner: recetox
   revisions:
   - 58c95171a0d3
+  - fc1bd4589e89
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: ms2deepscore_training
   owner: recetox
   revisions:
   - 0a0529822d91
+  - 7c7422ce0cc7
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: target_screen

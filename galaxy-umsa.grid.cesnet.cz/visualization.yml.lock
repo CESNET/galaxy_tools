@@ -42,6 +42,7 @@ tools:
   - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
+  - bf96015d2492
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: ggplot2_heatmap2

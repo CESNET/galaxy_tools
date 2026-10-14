@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 5314ae25fbe1
+  - e3d00d324fb7
   - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -15,12 +16,14 @@ tools:
   revisions:
   - 57938c2f6ef5
   - 84dad16ed802
+  - fd703ccdab66
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_estimator_attributes
   owner: bgruening
   revisions:
   - 0a43c856e1d8
+  - aa243478bb94
   - fd51b7456c2a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -28,6 +31,7 @@ tools:
   owner: bgruening
   revisions:
   - 3dd539570a60
+  - 8ef3ef591dc8
   - b6c2289292fa
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -42,5 +46,6 @@ tools:
   revisions:
   - 31fca3ff2a46
   - c78a5fc9e758
+  - f55053c4a5ec
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
