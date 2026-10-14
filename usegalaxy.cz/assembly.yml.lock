@@ -97,12 +97,14 @@ tools:
   revisions:
   - 0368ac680e70
   - 505a9833ab5d
+  - 8bedb8218eaa
   - 8f631679571f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: trycycler_consensus
   owner: iuc
   revisions:
+  - 04fa86d6e8e6
   - 19bdfd1e6fe3
   - 9ded6109434a
   - a7ed21de23fe
@@ -114,6 +116,7 @@ tools:
   - 7673a6c920b2
   - 80a17897564d
   - b23249f81bc4
+  - c9dca11222a6
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: trycycler_reconcile_msa
@@ -121,6 +124,7 @@ tools:
   revisions:
   - 394a5d236e29
   - 59bd28f6265d
+  - b833dd2de66b
   - cb1e3db43020
   - ed312479d9eb
   tool_panel_section_id: assembly
@@ -130,6 +134,7 @@ tools:
   revisions:
   - 05bd7504fdb2
   - 2628f6790eda
+  - 52d46473e265
   - b9b0246a2be3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
