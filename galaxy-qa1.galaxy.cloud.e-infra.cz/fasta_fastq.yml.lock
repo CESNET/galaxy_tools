@@ -343,6 +343,7 @@ tools:
   - 3432a0e49b86
   - 36be11c58dac
   - 4557b2da9e7f
+  - 4990e6f1348f
   - 65b93b623c77
   - 68386e630362
   - 8276962186f2
@@ -442,5 +443,12 @@ tools:
   owner: iuc
   revisions:
   - 0c7fadfe52e2
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: fastq_paired_end_deinterlacer
+  owner: devteam
+  revisions:
+  - 523c2aff0376
+  - c48cf4699be7
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

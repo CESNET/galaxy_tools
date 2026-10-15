@@ -126,3 +126,5 @@ tools:
   owner: iuc
 - name: seqkit_split2
   owner: iuc
+- name: fastq_paired_end_deinterlacer
+  owner: devteam
