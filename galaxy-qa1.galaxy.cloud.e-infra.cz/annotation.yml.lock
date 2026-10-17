@@ -152,6 +152,7 @@ tools:
   - 31f58ec0459a
   - 3f3e247c053d
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: blastxml_to_gapped_gff3
@@ -504,6 +505,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -571,6 +573,7 @@ tools:
   owner: iuc
   revisions:
   - dd2d60b55e0d
+  - e301c523e83d
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: remove_terminal_stop_codons
