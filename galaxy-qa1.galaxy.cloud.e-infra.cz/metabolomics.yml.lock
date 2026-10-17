@@ -179,6 +179,7 @@ tools:
   owner: ethevenot
   revisions:
   - e7c5811ec12f
+  - f19a3307db9b
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: massbank_ws_searchspectrum
@@ -234,6 +235,7 @@ tools:
 - name: mfassignr_kmdnoise
   owner: recetox
   revisions:
+  - 61287368a95d
   - a7a823839ae3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -241,11 +243,13 @@ tools:
   owner: recetox
   revisions:
   - 9654573e6889
+  - df906aafac0d
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_snplot
   owner: recetox
   revisions:
+  - 8e5acbf5589b
   - f19c0631b9e5
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -253,11 +257,13 @@ tools:
   owner: recetox
   revisions:
   - 1c199c3d5993
+  - d512c47f721d
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_mfassigncho
   owner: recetox
   revisions:
+  - 4d10bce8c07e
   - da64d663694b
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -265,17 +271,20 @@ tools:
   owner: recetox
   revisions:
   - 6c7b17d38a1d
+  - d3dfaa7496a2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_findrecalseries
   owner: recetox
   revisions:
   - 1b4881c150cc
+  - eea4113efc99
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_recal
   owner: recetox
   revisions:
+  - 91af26deeb98
   - cfcf45ba58be
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -283,29 +292,34 @@ tools:
   owner: recetox
   revisions:
   - 22c80f584bb1
+  - d79690df2e83
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: msnbase_readmsdata
   owner: lecorguille
   revisions:
   - 35b6fe4d481c
+  - 788a4bac4a11
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_plot_chromatogram
   owner: lecorguille
   revisions:
   - 9291271ec4d9
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_xcmsset
   owner: lecorguille
   revisions:
   - 3990a65b45a4
+  - 734dfb2af03a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_merge
   owner: lecorguille
   revisions:
+  - 8372531e6c92
   - ae28a753a6f8
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -313,12 +327,14 @@ tools:
   owner: lecorguille
   revisions:
   - 3820e3f3b1cb
+  - a151d2cf27fb
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_retcor
   owner: lecorguille
   revisions:
   - 33c0ca93f3ee
+  - ba20f926a460
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: intensity_checks
@@ -331,6 +347,7 @@ tools:
 - name: xcms_fillpeaks
   owner: lecorguille
   revisions:
+  - 564d6ab0cf18
   - a8d866a71ba1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -338,6 +355,7 @@ tools:
   owner: lecorguille
   revisions:
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: table_pandas_rename_column
