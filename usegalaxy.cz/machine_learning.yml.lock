@@ -82,6 +82,7 @@ tools:
   - aeee74692508
   - b6ef6d0cb6b7
   - e1317b5502fa
+  - efa16475990a
   - f1b9a42d6809
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -92,6 +93,7 @@ tools:
   - 1588f9076e32
   - 1d2a478bb514
   - 21730620a849
+  - 553b147da4e9
   - 5f9c0e99016f
   - 72c0d2747dc9
   - 8334dc98c48e
@@ -147,6 +149,7 @@ tools:
   - 3dd539570a60
   - 475b5171945f
   - 83228baae3c5
+  - 8ef3ef591dc8
   - 919198d656dd
   - 9991c4ddde14
   - b237f27a8afc
@@ -476,6 +479,7 @@ tools:
   - adc5e53d4297
   - ce2fd1edbc6e
   - e10ffa9e0b90
+  - e3d00d324fb7
   - e8639f65c883
   - e8e5736b632d
   - fc0f9ba14aaa
@@ -504,6 +508,7 @@ tools:
   - 772e0e89fc68
   - 818896cd2213
   - 98aeca624881
+  - ad11e219bd5a
   - beeeda757eba
   - e4af79bffd57
   - fe0e82a7d0ee
@@ -521,6 +526,7 @@ tools:
   - 4d81e3e2fb63
   - 8a794e6d3388
   - f22a9297440f
+  - fb731872d453
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: scipy_sparse
@@ -547,6 +553,7 @@ tools:
   - 14180f9c831e
   - 61634a87efc7
   - 6b59e9b96071
+  - 722379be2338
   - 791fa244e44d
   - 89f11e2b0673
   - caeb57858702
@@ -581,6 +588,7 @@ tools:
   - 6c1c7a89d333
   - 9b067af194b7
   - ac52a5916963
+  - d6fccdb87bf3
   - e8d6b4acb7c6
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
