@@ -959,6 +959,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -975,6 +976,7 @@ tools:
   revisions:
   - 0b833dc20f00
   - 2b9b64614d0c
+  - c8913c72ee87
   - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
