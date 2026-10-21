@@ -81,6 +81,7 @@ tools:
   revisions:
   - 064b53fd3131
   - 6a8cf86fd3b7
+  - 7aced6639bc6
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: calisp
@@ -1588,6 +1589,7 @@ tools:
   - 6140163233a5
   - 85c411546123
   - 8a701e0754a1
+  - 9d3e89076101
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: proteinortho_grab_proteins

@@ -276,6 +276,7 @@ tools:
 - name: lofreq_alnqual
   owner: iuc
   revisions:
+  - 3ee7d4ac76f3
   - 791f73caa0c8
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

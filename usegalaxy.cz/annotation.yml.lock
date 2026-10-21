@@ -201,6 +201,7 @@ tools:
   owner: iuc
   revisions:
   - 31812e7a1315
+  - 578b60b1279d
   - ef1966bcece3
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -549,6 +550,7 @@ tools:
 - name: orthofinder_onlygroups
   owner: iuc
   revisions:
+  - 27dc25864cb7
   - 3b974afde673
   - b3d25fae5389
   - b6ec80429d54
@@ -812,6 +814,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 25f3b474ca6f
   - 292eea8defa7
   - 728dacaf08a9
   - d77802fe76f7
@@ -821,6 +824,7 @@ tools:
 - name: cpat
   owner: bgruening
   revisions:
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
