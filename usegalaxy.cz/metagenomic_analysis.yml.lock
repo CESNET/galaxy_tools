@@ -98,6 +98,7 @@ tools:
 - name: drep_dereplicate
   owner: iuc
   revisions:
+  - 0ae93aa4f8fe
   - 1faea6e8c92b
   - 76b57044069d
   - 8165eab19456
@@ -117,6 +118,7 @@ tools:
   - 54aa421c2911
   - 965f73e77296
   - c2f471480624
+  - cef09cb5eaff
   - e5dc009367ef
   - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
@@ -750,6 +752,7 @@ tools:
 - name: maaslin2
   owner: iuc
   revisions:
+  - 02f6f96b51f0
   - c629e6de3c49
   - f4580402a2a2
   tool_panel_section_id: metagenomic_analysis
@@ -763,12 +766,14 @@ tools:
 - name: megan_sam2rma
   owner: iuc
   revisions:
+  - 258a79a9e938
   - ef0443c0eaba
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: megan_blast2rma
   owner: iuc
   revisions:
+  - 2abb369d16d1
   - 45fd617493eb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -776,6 +781,7 @@ tools:
   owner: iuc
   revisions:
   - a80281b0172e
+  - bf1d54254411
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metabat2_jgi_summarize_bam_contig_depths
@@ -874,12 +880,14 @@ tools:
 - name: megan_daa2info
   owner: iuc
   revisions:
+  - 6cde858aa17d
   - c90a645ff6e9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: megan_daa2rma
   owner: iuc
   revisions:
+  - 092211320950
   - 8a9cad43dcde
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -887,11 +895,13 @@ tools:
   owner: iuc
   revisions:
   - 6ca88053665c
+  - b92013ed2d03
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: megan_read_extractor
   owner: iuc
   revisions:
+  - 16e7ed549803
   - a770f5e23615
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -1521,6 +1531,7 @@ tools:
 - name: gtdbtk_classify_wf
   owner: iuc
   revisions:
+  - 199b07074e1f
   - 28bc8c01b193
   - 53a019316350
   - 7209f32a9e9d

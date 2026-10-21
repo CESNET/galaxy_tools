@@ -55,6 +55,7 @@ tools:
   - 02dfbbf869d8
   - 10ef1bf99074
   - 156d0908e232
+  - 2dfd91f7b71d
   - 95a9dc82fc9a
   - be2d899bf34a
   tool_panel_section_id: text_manipulation
@@ -289,6 +290,7 @@ tools:
   - 521bcbb5aa16
   - 5c9cb302c242
   - a3c79d2b1041
+  - ce13bea1e11e
   - e74df764bfd9
   - f5f86d7506d5
   tool_panel_section_id: text_manipulation
