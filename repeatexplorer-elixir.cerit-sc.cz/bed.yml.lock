@@ -6,6 +6,7 @@ tools:
   owner: devteam
   revisions:
   - 3e436657dcd0
+  - 88fecd593368
   tool_panel_section_id: bed
   tool_panel_section_label: BED
 - name: bedtools
