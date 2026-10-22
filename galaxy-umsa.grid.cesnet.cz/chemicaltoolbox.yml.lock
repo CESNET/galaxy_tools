@@ -5,6 +5,7 @@ tools:
 - name: rem_complex
   owner: recetox
   revisions:
+  - 23623a7c6625
   - 60db8070a5c3
   - a0e07a0bc047
   tool_panel_section_id: chemicaltoolbox

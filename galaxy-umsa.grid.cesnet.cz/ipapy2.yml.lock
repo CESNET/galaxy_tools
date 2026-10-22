@@ -6,18 +6,21 @@ tools:
 - name: ipapy2_clustering
   owner: recetox
   revisions:
+  - 2ac09ae3f349
   - cb18b8fcb441
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
 - name: ipapy2_compute_all_adducts
   owner: recetox
   revisions:
+  - f7e4539d3b28
   - f85a6d4e44b0
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
 - name: ipapy2_compute_bio
   owner: recetox
   revisions:
+  - 089761593548
   - ca72f5330bc9
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
@@ -25,17 +28,20 @@ tools:
   owner: recetox
   revisions:
   - 428abc41a101
+  - 8b8e6103837c
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
 - name: ipapy2_gibbs_sampler
   owner: recetox
   revisions:
+  - 462109de1d47
   - b2253cf7db76
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
 - name: ipapy2_map_isotope_patterns
   owner: recetox
   revisions:
+  - 1888186ffd5e
   - 774152f21f29
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
@@ -43,11 +49,13 @@ tools:
   owner: recetox
   revisions:
   - 7f84a8a5edde
+  - ae9ff9ea1f95
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
 - name: ipapy2_ms2_annotation
   owner: recetox
   revisions:
   - 6a23970e8093
+  - d58fe3f9f5d0
   tool_panel_section_id: ipapy2
   tool_panel_section_label: ipapy2
