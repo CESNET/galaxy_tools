@@ -42,6 +42,7 @@ tools:
   - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
+  - bf96015d2492
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: ggplot2_heatmap2
@@ -51,6 +52,7 @@ tools:
   - 48b42ee61bc5
   - 51c6ccaace7e
   - 6a097d09fca3
+  - 94f3fd9ade04
   - ca7cb0eaad62
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
@@ -126,6 +128,7 @@ tools:
 - name: rcx_boxplot
   owner: recetox
   revisions:
+  - 2ca0bcd7f0b6
   - bbd2128c33b4
   - ebb0730f6175
   tool_panel_section_id: visualization

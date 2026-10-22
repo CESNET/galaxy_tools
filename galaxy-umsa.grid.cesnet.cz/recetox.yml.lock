@@ -5,6 +5,7 @@ tools:
 - name: recetox_msfinder
   owner: recetox
   revisions:
+  - 0a9f3bcf620b
   - a48a1c23257c
   - e7eff0c9baa3
   tool_panel_section_id: recetox
@@ -13,6 +14,7 @@ tools:
   owner: recetox
   revisions:
   - 1dc9f5a3163d
+  - 23623a7c6625
   - 567327a97ad2
   - 60db8070a5c3
   - a0e07a0bc047
@@ -21,6 +23,7 @@ tools:
 - name: msmetaenhancer
   owner: recetox
   revisions:
+  - '275998667516'
   - 3b402610c6dc
   - 3e2cb0bc6959
   - 560053b805d2
@@ -36,11 +39,13 @@ tools:
   - 6e1ef071fffc
   - cba7123c2741
   - d5633eaf3552
+  - d5ee22b95891
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: recetox_xmsannotator_advanced
   owner: recetox
   revisions:
+  - 28b87af0fdd3
   - 2c6fa447f6a0
   - 6b5dec818827
   tool_panel_section_id: recetox
@@ -53,6 +58,7 @@ tools:
   - 6480c6d5fa36
   - 6fc9f6dbcef5
   - 821062fc5782
+  - 9c417575eb83
   - bf28a0fc0db6
   - bf32ae95a06f
   - e9fa79966366
@@ -62,6 +68,7 @@ tools:
   owner: recetox
   revisions:
   - 050cfef6ba65
+  - bfdf5de99cd2
   - da7722f665f4
   - f52181a205d3
   tool_panel_section_id: recetox
@@ -72,6 +79,7 @@ tools:
   - 0b28816c1c2c
   - 5a6bb93ec656
   - 60c2da112839
+  - 7b210a74628f
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: biotransformer
@@ -81,6 +89,7 @@ tools:
   - 0f1b15d51801
   - 200c5c982dba
   - 6cd2a9e6ac49
+  - 731e5d54b6e6
   - e5fcba090b10
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -94,6 +103,7 @@ tools:
 - name: riassigner
   owner: recetox
   revisions:
+  - 3af9c2de8522
   - 984d5fa7acf5
   - 9b2fe4c49ecb
   - af25aa61c611
@@ -104,6 +114,7 @@ tools:
   owner: recetox
   revisions:
   - 25625114618e
+  - b0a739025b81
   - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_id: recetox
@@ -113,6 +124,7 @@ tools:
   revisions:
   - 6c5df3eeb768
   - 72b687d21f65
+  - b8aa2773157b
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: thermo_raw_file_converter
@@ -127,6 +139,7 @@ tools:
   revisions:
   - 6975af39ba79
   - 7226eba9c09d
+  - 81a28257f086
   - 97ccdb1ba47c
   - e2fa3b23d7db
   tool_panel_section_id: recetox
@@ -135,6 +148,7 @@ tools:
   owner: recetox
   revisions:
   - 268fcec93d9c
+  - 3704e4bf393c
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: spec2vec_similarity
@@ -147,6 +161,7 @@ tools:
   owner: recetox
   revisions:
   - 320ebaa133e5
+  - 3c05a813ca00
   - 54401f9d1a30
   - 648f82934b56
   - 9b4b624c4d60
@@ -156,6 +171,7 @@ tools:
 - name: ms2deepscore_config_generator
   owner: recetox
   revisions:
+  - 08f0551d3a53
   - 7e4ac334fc33
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
@@ -163,12 +179,14 @@ tools:
   owner: recetox
   revisions:
   - 58c95171a0d3
+  - fc1bd4589e89
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: ms2deepscore_training
   owner: recetox
   revisions:
   - 0a0529822d91
+  - 7c7422ce0cc7
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: target_screen
@@ -183,6 +201,7 @@ tools:
   owner: recetox
   revisions:
   - 06f2d0d6d107
+  - 0cf5061ad158
   - 2b1118bce0b1
   - 964b4559eb1b
   - a0a6127a7a69
@@ -200,18 +219,21 @@ tools:
   owner: recetox
   revisions:
   - 02cf8faa2cd2
+  - 18a35dda66c7
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: mzspeclib_describe
   owner: recetox
   revisions:
   - 4484e5822a6b
+  - 8cf9762e5e55
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: mzspeclib_validate
   owner: recetox
   revisions:
   - 884e26ef99ce
+  - e7b9920297c4
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: mztabm_validate
@@ -225,6 +247,7 @@ tools:
   revisions:
   - 1c2a8760ad2b
   - ddabfd6ee2a2
+  - e269a8be9cee
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: use_theoretical_mz_annotations
