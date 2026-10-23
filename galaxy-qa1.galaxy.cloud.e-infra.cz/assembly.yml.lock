@@ -262,6 +262,7 @@ tools:
   owner: iuc
   revisions:
   - 331109486d58
+  - eb04ae2c1f21
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -283,6 +284,7 @@ tools:
   revisions:
   - 1b1cf0c96501
   - a3b35edea53a
+  - cbc516cee202
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: megahit
@@ -295,6 +297,7 @@ tools:
   owner: nml
   revisions:
   - 04d81e5f25e9
+  - 434f2a6c3ade
   - f192c2fbe13f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -338,6 +341,7 @@ tools:
   revisions:
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 7087d9a23185
   - 9c942221e135
   - bd07b0d0f568
@@ -351,6 +355,7 @@ tools:
   - 36ce83a739f2
   - 408ece2e4647
   - 8e422c873d02
+  - 9491362ac1cd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: genomescope
@@ -376,6 +381,7 @@ tools:
   owner: iuc
   revisions:
   - 3d1d241ceff2
+  - b507ad3fe6ce
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: racon
@@ -389,6 +395,7 @@ tools:
   owner: iuc
   revisions:
   - 321ceb58023e
+  - d0f5d9821854
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: vgp_split_agp

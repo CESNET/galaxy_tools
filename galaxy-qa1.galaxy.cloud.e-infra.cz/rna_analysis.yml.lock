@@ -700,6 +700,7 @@ tools:
   owner: iuc
   revisions:
   - 92198ab2345f
+  - a356a3e21032
   - cbf488da3b2c
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
