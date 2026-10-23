@@ -20,6 +20,7 @@ tools:
   owner: bgruening
   revisions:
   - 0e49b109abc2
+  - 7dcc58a57476
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_bam_pe_fragmentsize
