@@ -102,6 +102,7 @@ tools:
   revisions:
   - 32f1f56bd970
   - 75a3b8da8e76
+  - 771554c05a0b
   - 7bbc3fad1d3b
   - b9aaed85cbd1
   tool_panel_section_id: fasta_fastq_manipulation
@@ -128,5 +129,6 @@ tools:
   revisions:
   - 4b494533146a
   - 8511b6d85fc7
+  - c8fb17965c7d
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
