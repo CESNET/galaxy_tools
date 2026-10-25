@@ -24,6 +24,7 @@ tools:
 - name: sra_tools
   owner: iuc
   revisions:
+  - 2b2eb47e8e84
   - 8848455c0270
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
