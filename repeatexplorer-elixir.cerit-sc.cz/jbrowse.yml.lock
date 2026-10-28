@@ -7,5 +7,6 @@ tools:
   revisions:
   - 1483285bdb7a
   - a6e57ff585c0
+  - eb55da80c5e2
   tool_panel_section_id: jbrowse
   tool_panel_section_label: Jbrowse

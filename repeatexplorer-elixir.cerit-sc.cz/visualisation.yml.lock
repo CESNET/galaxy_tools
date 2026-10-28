@@ -18,6 +18,7 @@ tools:
 - name: ggplot2_point
   owner: iuc
   revisions:
+  - 1336484a4e6b
   - 3b12bf9b4b87
   - f87634b12749
   tool_panel_section_id: visualisation
@@ -25,6 +26,7 @@ tools:
 - name: ggplot2_histogram
   owner: iuc
   revisions:
+  - 457ffc1c1c62
   - 6b9816a913de
   - b0d96516e6a5
   - bf96015d2492
@@ -35,6 +37,7 @@ tools:
   revisions:
   - 0e7290688b50
   - 63d211052ffb
+  - aa4edc1c6f6c
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
 - name: ggplot2_pca
@@ -42,6 +45,7 @@ tools:
   revisions:
   - 1df3b30325dd
   - b1268b7544d3
+  - ffcb4db567f9
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
 - name: ggplot2_heatmap
@@ -49,5 +53,6 @@ tools:
   revisions:
   - 10515715c940
   - 15cebddc6dba
+  - 28320e68ff9f
   tool_panel_section_id: visualisation
   tool_panel_section_label: Visualisation
