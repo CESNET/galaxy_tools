@@ -54,6 +54,7 @@ tools:
 - name: prokka
   owner: crs4
   revisions:
+  - 8096daf9ce73
   - 8a22554cdde2
   - c105b66eaab1
   tool_panel_section_id: annotation
@@ -61,6 +62,7 @@ tools:
 - name: roary
   owner: iuc
   revisions:
+  - 3f12675edf68
   - 91887494eb97
   - 9b2b122d0415
   tool_panel_section_id: annotation
@@ -77,6 +79,7 @@ tools:
 - name: hmmer_nhmmer
   owner: iuc
   revisions:
+  - 2449e1c81166
   - 54b92ae4f75b
   - b28e8ed99424
   tool_panel_section_id: annotation
@@ -91,6 +94,7 @@ tools:
 - name: hmmer_hmmscan
   owner: iuc
   revisions:
+  - 1e365d320176
   - 4a54e4c9188b
   - be072920a53e
   tool_panel_section_id: annotation
@@ -98,6 +102,7 @@ tools:
 - name: hmmer_phmmer
   owner: iuc
   revisions:
+  - 1b4fa39357ab
   - 37bcc9fb0bb1
   - 8a791afd99fb
   tool_panel_section_id: annotation
@@ -105,6 +110,7 @@ tools:
 - name: hmmer_jackhmmer
   owner: iuc
   revisions:
+  - 307d841f8904
   - 6e27bb3f0fa6
   - 9fdeca68a6b5
   tool_panel_section_id: annotation
@@ -112,6 +118,7 @@ tools:
 - name: hmmer_nhmmscan
   owner: iuc
   revisions:
+  - 67490c1c5e9c
   - e07176c0925d
   - fb1305d0d1c6
   tool_panel_section_id: annotation
@@ -119,6 +126,7 @@ tools:
 - name: hmmer_hmmsearch
   owner: iuc
   revisions:
+  - 56c141af8afe
   - d753d9169482
   - df7a52791be9
   tool_panel_section_id: annotation
@@ -128,6 +136,7 @@ tools:
   revisions:
   - 23494763e39e
   - 8ec7636fa875
+  - 900a5db3f23a
   - f3534b94ad05
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -201,6 +210,7 @@ tools:
   owner: iuc
   revisions:
   - 31812e7a1315
+  - 578b60b1279d
   - ef1966bcece3
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -362,6 +372,7 @@ tools:
   - 9bc5cdefb090
   - 9cd341095afd
   - aff5135563c6
+  - b6236eb1a50b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: socru
@@ -374,6 +385,7 @@ tools:
   owner: iuc
   revisions:
   - 602de62d995b
+  - 8f51a7500540
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: snap_training
@@ -403,6 +415,7 @@ tools:
   - 65c38d020fea
   - b482293b2987
   - eb35257d2e29
+  - f7746d145125
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: spaln
@@ -446,6 +459,7 @@ tools:
   owner: iuc
   revisions:
   - 857e8724b43f
+  - b8576e40c078
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: picrust_format_tree_and_trait_table
@@ -464,6 +478,7 @@ tools:
 - name: picrust_predict_metagenomes
   owner: iuc
   revisions:
+  - 6b4199bbc9be
   - f17b7d5a87f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -497,6 +512,7 @@ tools:
 - name: gubbins
   owner: iuc
   revisions:
+  - 6ecd78daae1b
   - 96e6283e4745
   - b7e91ff1a894
   tool_panel_section_id: annotation
@@ -549,6 +565,7 @@ tools:
 - name: orthofinder_onlygroups
   owner: iuc
   revisions:
+  - 27dc25864cb7
   - 3b974afde673
   - b3d25fae5389
   - b6ec80429d54
@@ -585,6 +602,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 368f47898569
   - 82d6ca8212dc
   - 96b127c59e6a
   - be03abdc6451
@@ -633,6 +651,7 @@ tools:
 - name: glimmer_build_icm
   owner: bgruening
   revisions:
+  - b165a00dd7e9
   - cc51783dc93c
   - e903e26c014d
   tool_panel_section_id: annotation
@@ -642,6 +661,7 @@ tools:
   revisions:
   - 21d0af260f11
   - ce89c473666d
+  - fc41a852f91e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: glimmer_not_knowledge_based
@@ -649,6 +669,7 @@ tools:
   revisions:
   - 73c58e2debd0
   - 75cedbd8cf1b
+  - e9fcf3641fb2
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: tbvcfreport
@@ -761,6 +782,7 @@ tools:
   - 52bdc302299b
   - 6b20d051d0dc
   - ce04c239454b
+  - fb8b3a37ac9c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: netboxr
@@ -774,6 +796,7 @@ tools:
   revisions:
   - 507d59b036c5
   - 7075b7a5441b
+  - 8621b220c13e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot_index
@@ -812,6 +835,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 25f3b474ca6f
   - 292eea8defa7
   - 728dacaf08a9
   - d77802fe76f7
@@ -821,6 +845,7 @@ tools:
 - name: cpat
   owner: bgruening
   revisions:
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -865,6 +890,7 @@ tools:
   owner: bgruening
   revisions:
   - 6d8be3337e2a
+  - 80b0055ba314
   - d6ede73082da
   - e009d8260be2
   tool_panel_section_id: annotation

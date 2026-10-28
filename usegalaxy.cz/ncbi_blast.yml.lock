@@ -113,6 +113,7 @@ tools:
 - name: magicblast
   owner: iuc
   revisions:
+  - 348dde0b04a1
   - 34ac212ef95e
   - 79f4f8bd0e34
   tool_panel_section_id: ncbi_blast

@@ -7,6 +7,7 @@ tools:
   revisions:
   - 6d8444408ff1
   - 6d8be3337e2a
+  - 80b0055ba314
   - d6ede73082da
   - e009d8260be2
   tool_panel_section_id: convert_formats
@@ -21,6 +22,7 @@ tools:
   owner: bgruening
   revisions:
   - 3d71ab1562d7
+  - 7a299251aeb7
   - 891b330ffd94
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -114,6 +116,7 @@ tools:
 - name: genebed_maf_to_fasta
   owner: iuc
   revisions:
+  - 285afb58a631
   - e25ee6bac872
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -177,6 +180,7 @@ tools:
   revisions:
   - 154d00cbbf2d
   - 3e436657dcd0
+  - 88fecd593368
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msms_extractor
@@ -201,11 +205,13 @@ tools:
   - 77f67ddd89d6
   - 7e2ee5f43778
   - ab55af10f1ff
+  - db7c0226ebd9
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: graphicsmagick_image_convert
   owner: bgruening
   revisions:
+  - 0648279794e5
   - 0ecf92b5a7c5
   - 3ae9331790a6
   - 4e9a3745dce4
@@ -232,12 +238,14 @@ tools:
 - name: gtftobed12
   owner: iuc
   revisions:
+  - 33de73363690
   - b026dae67fba
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: ucsc_twobittofa
   owner: iuc
   revisions:
+  - 549bf96a2b5b
   - 6e1aa95afa75
   - 8067dfa00ed2
   - e9bbe2f71784
@@ -259,6 +267,7 @@ tools:
 - name: bioext_bam2msa
   owner: iuc
   revisions:
+  - 28e85c2ef178
   - 359e043a285c
   - 767943cd85bf
   - f287fbd75138

@@ -30,6 +30,7 @@ tools:
   owner: iuc
   revisions:
   - 214874e24cd6
+  - 9ba290647b05
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
 - name: ewastools
