@@ -14,6 +14,7 @@ tools:
   - 0e7290688b50
   - 17b666467c32
   - 63d211052ffb
+  - aa4edc1c6f6c
   - dfd5d981b5a4
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
@@ -23,6 +24,7 @@ tools:
   - 10515715c940
   - 15cebddc6dba
   - 1a72f938213e
+  - 28320e68ff9f
   - 391a4cc45fea
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
@@ -33,12 +35,14 @@ tools:
   - 7e616a1bdb07
   - ae344ccf9d62
   - b1268b7544d3
+  - ffcb4db567f9
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: ggplot2_histogram
   owner: iuc
   revisions:
   - 398e5104f8a2
+  - 457ffc1c1c62
   - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
@@ -59,6 +63,7 @@ tools:
 - name: ggplot2_point
   owner: iuc
   revisions:
+  - 1336484a4e6b
   - 5298e06f14f9
   - e3a675da7fd0
   - f87634b12749
@@ -67,12 +72,14 @@ tools:
 - name: ggplot2_boxplot
   owner: iuc
   revisions:
+  - 49ddb592e8ec
   - 653803fab921
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization
 - name: ggplot2_barplot
   owner: iuc
   revisions:
+  - 1925844507f0
   - 41e9114cc7cd
   tool_panel_section_id: visualization
   tool_panel_section_label: Visualization

@@ -37,6 +37,7 @@ tools:
   owner: recetox
   revisions:
   - 053ba9eae975
+  - 6a016d48bf81
   - 73ba705e105c
   tool_panel_section_id: pre_processing
   tool_panel_section_label: Pre-processing
