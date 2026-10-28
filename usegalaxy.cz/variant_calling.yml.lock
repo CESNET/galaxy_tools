@@ -197,6 +197,7 @@ tools:
   revisions:
   - 14af3b671440
   - 4805fe3d8fda
+  - 72d76a5adbc9
   - b11e8e9c23bf
   - e1461b5c52a0
   tool_panel_section_id: variant_calling
@@ -223,6 +224,7 @@ tools:
   owner: iuc
   revisions:
   - 93c4b04a0769
+  - c7a721c21e01
   - ceff2f6a5368
   - dcd4681273f7
   tool_panel_section_id: variant_calling
@@ -237,6 +239,7 @@ tools:
 - name: control_freec
   owner: iuc
   revisions:
+  - 8e25f5d7a4fc
   - f923c54a17ee
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -263,6 +266,7 @@ tools:
   owner: iuc
   revisions:
   - 2a3a00c1fa0a
+  - b68ff9393fb6
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_viterbi
@@ -271,17 +275,20 @@ tools:
   - 3330ebe7c0c7
   - aa35ee7f3ab2
   - af7e416d8176
+  - facfecd498e4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_alnqual
   owner: iuc
   revisions:
+  - 4e7fc9795034
   - 791f73caa0c8
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 354b534eeab7
   - 4165b712b569
   - 426d707dfc47
@@ -333,6 +340,7 @@ tools:
   owner: iuc
   revisions:
   - 08d22d220254
+  - c3b0d50d1b53
   - d220115f882b
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -569,6 +577,7 @@ tools:
   - 1e1291983bc7
   - 85dc96ebc770
   - a5937157062f
+  - ae2f044f7b1c
   - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
@@ -950,6 +959,7 @@ tools:
 - name: vcf2maf
   owner: iuc
   revisions:
+  - 2920e6524c5d
   - e8510e04a86a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -968,6 +978,7 @@ tools:
   - 78df8fc2b3ab
   - 98c227b9be71
   - a40dd4fd3096
+  - c8eefc6bf631
   - d9965e143053
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

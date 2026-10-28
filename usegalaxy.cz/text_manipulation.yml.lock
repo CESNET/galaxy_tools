@@ -47,6 +47,7 @@ tools:
   - 9bc5cdefb090
   - 9cd341095afd
   - aff5135563c6
+  - b6236eb1a50b
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: diff
@@ -55,6 +56,7 @@ tools:
   - 02dfbbf869d8
   - 10ef1bf99074
   - 156d0908e232
+  - 2dfd91f7b71d
   - 95a9dc82fc9a
   - be2d899bf34a
   tool_panel_section_id: text_manipulation
@@ -93,6 +95,7 @@ tools:
   revisions:
   - 3bf5661c0280
   - 56a8da1f2243
+  - 6fb9abd4a64a
   - c656214aa052
   - cd36d6e45e29
   tool_panel_section_id: text_manipulation
@@ -130,6 +133,7 @@ tools:
   owner: iuc
   revisions:
   - 3a6b78c39dca
+  - a8e9456dbead
   - cf34c344508d
   - cf4397560712
   tool_panel_section_id: text_manipulation
@@ -289,6 +293,7 @@ tools:
   - 521bcbb5aa16
   - 5c9cb302c242
   - a3c79d2b1041
+  - ce13bea1e11e
   - e74df764bfd9
   - f5f86d7506d5
   tool_panel_section_id: text_manipulation

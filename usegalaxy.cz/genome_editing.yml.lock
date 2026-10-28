@@ -48,6 +48,7 @@ tools:
   owner: iuc
   revisions:
   - 0ac12c344bfa
+  - d603bf9e92cb
   - db4fe7172114
   tool_panel_section_id: genome_editing
   tool_panel_section_label: Genome editing

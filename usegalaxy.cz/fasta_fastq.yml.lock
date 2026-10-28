@@ -240,6 +240,7 @@ tools:
   - 2bd7cdbb6228
   - 53af7b5b1b56
   - 75a3b8da8e76
+  - 771554c05a0b
   - a60283899c6d
   - b9aaed85cbd1
   - d94aff5ee623
@@ -319,6 +320,7 @@ tools:
   - 11962ce40855
   - 1bf4789584dc
   - 1bfc7254232e
+  - 433db23e1c1d
   - 8352713cf939
   - 949f01671246
   - b94789823aad
@@ -345,6 +347,7 @@ tools:
 - name: sickle
   owner: iuc
   revisions:
+  - 482fb7008500
   - 6756c87dc2d4
   - 9108bd9450cb
   tool_panel_section_id: fasta_fastq
@@ -356,6 +359,7 @@ tools:
   - 8511b6d85fc7
   - a019807f4e67
   - a09586d5149a
+  - c8fb17965c7d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: umi_tools_group
@@ -434,6 +438,7 @@ tools:
   owner: iuc
   revisions:
   - 1add611a6018
+  - 42baef10940e
   - bf04bd405d5b
   - d3f58a0dc09d
   tool_panel_section_id: fasta_fastq
@@ -650,6 +655,7 @@ tools:
 - name: fasta_regex_finder
   owner: mbernt
   revisions:
+  - 5a6ec4585bc9
   - 9a811adb714f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

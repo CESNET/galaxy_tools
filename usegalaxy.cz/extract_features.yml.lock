@@ -5,6 +5,7 @@ tools:
 - name: length_and_gc_content
   owner: iuc
   revisions:
+  - 0e7eadbd461c
   - e3ba567abdf5
   - f088370d2a3c
   tool_panel_section_id: extract_features

@@ -25,6 +25,7 @@ tools:
   - 3741c4204eb5
   - 87c11c05d238
   - ce5d418183c5
+  - e4eb8c4a82f6
   - fce88d02de6c
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -46,6 +47,7 @@ tools:
   owner: iuc
   revisions:
   - 4f9c4e6566e5
+  - a2b65af988d2
   - c971db6f0fe5
   - f71c54748ff2
   tool_panel_section_id: rna_analysis
@@ -56,6 +58,7 @@ tools:
   - 298d81e5e138
   - b3f292d9f35d
   - d3377a16d881
+  - ecb3e2432f4f
   - f3fefb6d8254
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -64,6 +67,7 @@ tools:
   revisions:
   - 3a083c78896e
   - d1f7fa5bb3cb
+  - fbba3e57c350
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: filter_transcripts_via_tracking
@@ -151,17 +155,20 @@ tools:
   owner: iuc
   revisions:
   - 05996586c8b3
+  - bd21dd94c221
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: chira_merge
   owner: iuc
   revisions:
+  - 672029ec4a0b
   - 9930af9d17f8
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: chira_map
   owner: iuc
   revisions:
+  - 4ac1b4148127
   - 7925dd016f53
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -169,11 +176,13 @@ tools:
   owner: iuc
   revisions:
   - 38d2b1f38992
+  - a2bba8b2db55
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: chira_extract
   owner: iuc
   revisions:
+  - 44c50b0714d9
   - 73d2b7a8d94b
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -196,6 +205,7 @@ tools:
   owner: rnateam
   revisions:
   - 0d94a529f925
+  - 19f1ede7e3e4
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: cuffnorm
@@ -240,6 +250,7 @@ tools:
   - 8fe98f7094de
   - 9a882d108833
   - b060944b3989
+  - ccc6c4f0236f
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: stringtie
@@ -290,6 +301,7 @@ tools:
 - name: slamdunk
   owner: iuc
   revisions:
+  - 0459d98045c5
   - 5a26589d95ad
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -305,12 +317,14 @@ tools:
   revisions:
   - 0bcc35b10569
   - 1906cb429215
+  - 6d005443b243
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: masigpro
   owner: iuc
   revisions:
   - 402e0b9cfd87
+  - 53fa0bb662be
   - 83f8b5ceff43
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -383,6 +397,7 @@ tools:
   revisions:
   - 119b069fc845
   - d6f5fa4ee473
+  - df0082f25f47
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: dexseq
@@ -582,6 +597,7 @@ tools:
   - 2e6190c29c54
   - 473382134e56
   - 5968573462fa
+  - 5bc075714a8b
   - f242ee103277
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -594,6 +610,7 @@ tools:
 - name: pizzly
   owner: iuc
   revisions:
+  - 59bdee6f554c
   - 91ef4a171202
   - f7556cfa4047
   tool_panel_section_id: rna_analysis
@@ -911,6 +928,7 @@ tools:
 - name: genomic_super_signature
   owner: iuc
   revisions:
+  - 274b52d706f1
   - d0cbe6cc1f04
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis

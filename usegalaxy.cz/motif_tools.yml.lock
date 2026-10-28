@@ -13,6 +13,7 @@ tools:
   revisions:
   - 47e7ae719765
   - 5f95d385a33c
+  - 67671cc188d2
   - 8436beac5eed
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
@@ -20,6 +21,7 @@ tools:
   owner: iuc
   revisions:
   - 01f5d04846c4
+  - 5275798cf013
   - 613c75eee7bd
   - c5209f38700d
   tool_panel_section_id: motif_tools
@@ -36,6 +38,7 @@ tools:
   owner: iuc
   revisions:
   - 0c97e5c18468
+  - 3dcfb24e6b79
   - b386032d758d
   - fd05b142b3a3
   tool_panel_section_id: motif_tools
@@ -43,6 +46,7 @@ tools:
 - name: meme_chip
   owner: iuc
   revisions:
+  - 717980a2e234
   - cc100e0f61f4
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools

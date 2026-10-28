@@ -24,6 +24,7 @@ tools:
   owner: iuc
   revisions:
   - 8353f3cc03db
+  - 9dcc695d5242
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
 - name: diffbind

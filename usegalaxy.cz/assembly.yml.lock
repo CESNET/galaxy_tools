@@ -47,6 +47,7 @@ tools:
   owner: iuc
   revisions:
   - 06bcf65179fb
+  - 54cf5a9ee329
   - 611219887a48
   - 8b330a577046
   - ba88bc5a6446
@@ -59,6 +60,7 @@ tools:
   - 170061c052ad
   - 5d365d5cbe9d
   - 60024a528cbd
+  - b562f08eb13a
   - baf229b1fdfd
   - c388a21dcbf1
   - e5e767089163
@@ -90,6 +92,7 @@ tools:
   - 015283de3004
   - 24e471d13fe9
   - 5a0ddb4dc3a4
+  - 806d8eeb716b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: trycycler_cluster
@@ -97,12 +100,14 @@ tools:
   revisions:
   - 0368ac680e70
   - 505a9833ab5d
+  - 8bedb8218eaa
   - 8f631679571f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: trycycler_consensus
   owner: iuc
   revisions:
+  - 04fa86d6e8e6
   - 19bdfd1e6fe3
   - 9ded6109434a
   - a7ed21de23fe
@@ -114,6 +119,7 @@ tools:
   - 7673a6c920b2
   - 80a17897564d
   - b23249f81bc4
+  - c9dca11222a6
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: trycycler_reconcile_msa
@@ -121,6 +127,7 @@ tools:
   revisions:
   - 394a5d236e29
   - 59bd28f6265d
+  - b833dd2de66b
   - cb1e3db43020
   - ed312479d9eb
   tool_panel_section_id: assembly
@@ -130,6 +137,7 @@ tools:
   revisions:
   - 05bd7504fdb2
   - 2628f6790eda
+  - 52d46473e265
   - b9b0246a2be3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -221,6 +229,7 @@ tools:
   - 02a822e32de7
   - 14ddfc8ffb93
   - 7518ee87b53d
+  - 792acb18fb24
   - 98242353faa4
   - ab208c87d973
   - de387b2b2803
@@ -289,6 +298,7 @@ tools:
   - 81df4950d65b
   - 875d0f36d66f
   - a3b35edea53a
+  - baeffe7bfe47
   - cbc516cee202
   - ebb0dcdb621a
   tool_panel_section_id: assembly
@@ -296,6 +306,7 @@ tools:
 - name: miniasm
   owner: iuc
   revisions:
+  - 691bdc4cc8f0
   - 80d1250bd5fd
   - b799a615995d
   tool_panel_section_id: assembly
@@ -340,6 +351,7 @@ tools:
   owner: iuc
   revisions:
   - 11e5408fd238
+  - 868053394d61
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: wtdbg
@@ -486,6 +498,7 @@ tools:
   owner: iuc
   revisions:
   - 22fe35346d69
+  - c4585558c029
   - d7c48cf1bf50
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -553,6 +566,7 @@ tools:
   owner: iuc
   revisions:
   - 7acd9ade2dd1
+  - 97a0a07d9bdb
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: aligned_to_consensus
@@ -654,6 +668,7 @@ tools:
   - 15dbb444df71
   - 213df31ba341
   - fa35f1106d3e
+  - fd7995e06d6a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: blobtoolkit

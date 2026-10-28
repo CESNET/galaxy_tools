@@ -22,6 +22,7 @@ tools:
 - name: codeml
   owner: iuc
   revisions:
+  - 8cb34dd46b16
   - dba114391c98
   - f9cb3a4339c2
   tool_panel_section_id: evolution
