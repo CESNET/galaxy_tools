@@ -94,6 +94,7 @@ tools:
   owner: iuc
   revisions:
   - 1add611a6018
+  - 42baef10940e
   - bf04bd405d5b
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
