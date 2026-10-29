@@ -95,6 +95,7 @@ tools:
   revisions:
   - 1add611a6018
   - 42baef10940e
+  - aa95d55b672f
   - bf04bd405d5b
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
