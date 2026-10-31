@@ -240,6 +240,7 @@ tools:
   - 2bd7cdbb6228
   - 53af7b5b1b56
   - 75a3b8da8e76
+  - 771554c05a0b
   - a60283899c6d
   - b9aaed85cbd1
   - d94aff5ee623
@@ -675,6 +676,7 @@ tools:
   revisions:
   - 1ee282794de3
   - 654b3a274ed5
+  - dbd2e239117c
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_translate

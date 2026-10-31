@@ -38,6 +38,7 @@ tools:
   revisions:
   - 640d3af5d833
   - 86e2413cf3f8
+  - d8362a868940
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
 - name: peakachu
