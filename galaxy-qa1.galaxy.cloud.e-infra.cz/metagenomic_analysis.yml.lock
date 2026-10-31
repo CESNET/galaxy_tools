@@ -27,6 +27,7 @@ tools:
   owner: iuc
   revisions:
   - 43f9ca23c132
+  - 9c102da4ca13
   - 9de5319ad2db
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -46,6 +47,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 01a54504b6aa
   - 7d01da0b9e18
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
@@ -217,6 +219,7 @@ tools:
 - name: kraken2
   owner: iuc
   revisions:
+  - 1a54e1867fd4
   - 20e2f64aa1fe
   - 241a78eb2935
   - cbe396d9773e
@@ -294,6 +297,7 @@ tools:
   - 73b667038f46
   - 840d407fe8e5
   - 8c957deb8a68
+  - c91014de79d2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_lineage_wf
@@ -307,6 +311,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   - d9b724b4a136
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -321,6 +326,7 @@ tools:
 - name: krakentools_extract_kraken_reads
   owner: iuc
   revisions:
+  - 04eb022d7409
   - 3b1963f729cb
   - f329328da134
   tool_panel_section_id: metagenomic_analysis
@@ -410,12 +416,14 @@ tools:
 - name: mash_paste
   owner: iuc
   revisions:
+  - 618969c1d8e1
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_dist
   owner: iuc
   revisions:
+  - 45fb62c28c9b
   - c932095af671
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -476,7 +484,87 @@ tools:
 - name: comebin
   owner: iuc
   revisions:
+  - 7e66a24282a7
   - cd1d8332bc04
   - ddfb9c10740a
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: kneaddata
+  owner: iuc
+  revisions:
+  - 10f8abc1fbdf
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: metaphlan
+  owner: iuc
+  revisions:
+  - 1f688befbcdf
+  - 56ff60ec416d
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: motus
+  owner: bgruening
+  revisions:
+  - b2b7a3897ef6
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: samestr
+  owner: iuc
+  revisions:
+  - 66378faa1313
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: phyloseq_add_rank_names
+  owner: iuc
+  revisions:
+  - bdbd2aab96bb
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: ampvis2_subset_samples
+  owner: iuc
+  revisions:
+  - 75a2a80e5ad0
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: decontam
+  owner: iuc
+  revisions:
+  - d3ae5b16a4d8
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: ampvis2_ordinate
+  owner: iuc
+  revisions:
+  - ad46c4548d8f
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: ampvis2_heatmap
+  owner: iuc
+  revisions:
+  - 4a7449938377
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: mmuphin
+  owner: iuc
+  revisions:
+  - b8d8b2210ecc
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: ampvis2_export_otu
+  owner: iuc
+  revisions:
+  - 68df6f185bb7
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: phyloseq_tax_glom
+  owner: iuc
+  revisions:
+  - bcc827195b65
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: maaslin3
+  owner: iuc
+  revisions:
+  - cf8ee3834c36
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
