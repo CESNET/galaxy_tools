@@ -53,6 +53,7 @@ tools:
   owner: devteam
   revisions:
   - 2dcfbbf9071a
+  - 6fe60ee81d7a
   - 78fb18899c99
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -61,6 +62,7 @@ tools:
   revisions:
   - 43807a65369f
   - 4b347702c4aa
+  - 9af11085c5c6
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastqtofasta
@@ -68,11 +70,13 @@ tools:
   revisions:
   - 297962e79f39
   - 4a3e93647a4e
+  - 5e0a8c02887c
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastq_paired_end_deinterlacer
   owner: devteam
   revisions:
+  - 33e27e311d03
   - c48cf4699be7
   - f3936d0632cb
   tool_panel_section_id: fasta_fastq_manipulation
@@ -80,6 +84,7 @@ tools:
 - name: fastq_paired_end_interlacer
   owner: devteam
   revisions:
+  - 060e4a536555
   - 2ccb8dcabddc
   - acb5090e281f
   tool_panel_section_id: fasta_fastq_manipulation

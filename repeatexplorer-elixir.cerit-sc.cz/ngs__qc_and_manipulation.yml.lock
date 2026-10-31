@@ -14,18 +14,21 @@ tools:
   revisions:
   - 10d4df6a9d94
   - 47e5dbc3e790
+  - ed6b5c0c1e8d
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
 - name: fastq_paired_end_splitter
   owner: devteam
   revisions:
   - 7fafac615aa1
+  - 83936df70226
   - e39cc71d3ed6
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
 - name: fastq_stats
   owner: devteam
   revisions:
+  - e4c69443362d
   - f0e7deab6518
   - f86c27295151
   tool_panel_section_id: ngs__qc_and_manipulation
