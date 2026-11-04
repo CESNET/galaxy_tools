@@ -6,6 +6,7 @@ tools:
   owner: devteam
   revisions:
   - aa8e8c96ca06
+  - f5dd85e03c55
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: artic_minion
@@ -48,6 +49,7 @@ tools:
 - name: cnvkit_antitarget
   owner: iuc
   revisions:
+  - 3c5ff748fdbc
   - b52fa1df3bc4
   - f1b016247826
   tool_panel_section_id: variant_calling
@@ -56,6 +58,7 @@ tools:
   owner: iuc
   revisions:
   - 9f18bcf53f92
+  - b5ab7688208b
   - ee93e2047dc1
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -167,6 +170,7 @@ tools:
   - 09d6806c609e
   - 0abc5513f795
   - 2b3e65a4252f
+  - 2d6319686ea3
   - 2e497a770bca
   - 5fab4f81391d
   - b04635ebfab0
@@ -197,6 +201,7 @@ tools:
   revisions:
   - 14af3b671440
   - 4805fe3d8fda
+  - 72d76a5adbc9
   - b11e8e9c23bf
   - e1461b5c52a0
   tool_panel_section_id: variant_calling
@@ -223,6 +228,7 @@ tools:
   owner: iuc
   revisions:
   - 93c4b04a0769
+  - c7a721c21e01
   - ceff2f6a5368
   - dcd4681273f7
   tool_panel_section_id: variant_calling
@@ -237,6 +243,7 @@ tools:
 - name: control_freec
   owner: iuc
   revisions:
+  - 8e25f5d7a4fc
   - f923c54a17ee
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -263,6 +270,7 @@ tools:
   owner: iuc
   revisions:
   - 2a3a00c1fa0a
+  - b68ff9393fb6
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_viterbi
@@ -271,17 +279,20 @@ tools:
   - 3330ebe7c0c7
   - aa35ee7f3ab2
   - af7e416d8176
+  - facfecd498e4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_alnqual
   owner: iuc
   revisions:
+  - 4e7fc9795034
   - 791f73caa0c8
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 354b534eeab7
   - 4165b712b569
   - 426d707dfc47
@@ -333,6 +344,7 @@ tools:
   owner: iuc
   revisions:
   - 08d22d220254
+  - c3b0d50d1b53
   - d220115f882b
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -348,30 +360,35 @@ tools:
 - name: vcfselectsamples
   owner: devteam
   revisions:
+  - 019656c5fb3d
   - 2ba3b87f904f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfannotategenotypes
   owner: devteam
   revisions:
+  - 3eacf0e5afd4
   - 84959112d9a6
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfdistance
   owner: devteam
   revisions:
+  - 359c94784f55
   - 5822b40f3037
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfflatten
   owner: devteam
   revisions:
+  - 4ab2e9409403
   - f285aa6bdcfb
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfcommonsamples
   owner: devteam
   revisions:
+  - 4e363d204ff6
   - f1852ecef841
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -379,35 +396,41 @@ tools:
   owner: devteam
   revisions:
   - 01e0321aca98
+  - 064b9acd58c5
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfvcfintersect
   owner: devteam
   revisions:
   - 166c4f50525f
+  - 2116f9563368
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfbreakcreatemulti
   owner: devteam
   revisions:
   - 9fd5d91eb91b
+  - cc80a3aca4bf
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfallelicprimitives
   owner: devteam
   revisions:
   - 57a16b310fe8
+  - ae033778a61c
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfgeno2haplo
   owner: devteam
   revisions:
+  - 1f387bdec36f
   - a3dea556218d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcffilter
   owner: devteam
   revisions:
+  - 1ce46fc2168a
   - 4bdc111b2470
   - fa24bf0598f4
   tool_panel_section_id: variant_calling
@@ -416,35 +439,41 @@ tools:
   owner: devteam
   revisions:
   - 11f62f071125
+  - 5f945f9e1207
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfgenotypes
   owner: devteam
   revisions:
   - a60ae8af21a1
+  - fb57e663bc4a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfbedintersect
   owner: devteam
   revisions:
   - aea8e90ad788
+  - e4778e5a5d43
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfrandomsample
   owner: devteam
   revisions:
+  - 14cf0e143a0b
   - 6257ee3b50d3
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfhethom
   owner: devteam
   revisions:
+  - 71f5bce189c5
   - 8254e0fe7358
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfsort
   owner: devteam
   revisions:
+  - 851e0d4ed101
   - dd44c3f416c3
   - ee60203e68d9
   tool_panel_section_id: variant_calling
@@ -453,11 +482,13 @@ tools:
   owner: devteam
   revisions:
   - 17096387c0e6
+  - e87a701d9452
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfcombine
   owner: devteam
   revisions:
+  - 0c3033cc02fe
   - 1f0ba67cc85a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -465,18 +496,21 @@ tools:
   owner: devteam
   revisions:
   - 29f9b782727e
+  - da4f35bd095d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcf2tsv
   owner: devteam
   revisions:
   - 285060661b45
+  - b6980d022240
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfaddinfo
   owner: devteam
   revisions:
   - 6ea73d6151ec
+  - 6f12c4ce6c8c
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_call
@@ -569,6 +603,7 @@ tools:
   - 1e1291983bc7
   - 85dc96ebc770
   - a5937157062f
+  - ae2f044f7b1c
   - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
@@ -624,6 +659,7 @@ tools:
 - name: cnvkit_autobin
   owner: iuc
   revisions:
+  - 1b46c875128f
   - 33ceac9ae827
   - 94e1d19c8190
   tool_panel_section_id: variant_calling
@@ -634,18 +670,21 @@ tools:
   - 4653aeb60243
   - 80dc747a394d
   - d9741a570506
+  - e806f882a413
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: cnvkit_call
   owner: iuc
   revisions:
   - 0a5e2fc51dfb
+  - 58328c8e37df
   - 79b2add55e02
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: cnvkit_coverage
   owner: iuc
   revisions:
+  - 5170090eaf4e
   - 5602cbf1153b
   - 9410f163f2e7
   tool_panel_section_id: variant_calling
@@ -653,6 +692,7 @@ tools:
 - name: cnvkit_diagram
   owner: iuc
   revisions:
+  - 1924416359eb
   - 697c61206f5f
   - 8f642a41cd94
   tool_panel_section_id: variant_calling
@@ -660,6 +700,7 @@ tools:
 - name: cnvkit_fix
   owner: iuc
   revisions:
+  - 294990cb10cd
   - aa3fa1c29ccf
   - dc0fb5f07231
   tool_panel_section_id: variant_calling
@@ -667,6 +708,7 @@ tools:
 - name: cnvkit_heatmap
   owner: iuc
   revisions:
+  - 11d0d7c2269f
   - 41a25bd96ec6
   - d8c45afa221c
   tool_panel_section_id: variant_calling
@@ -676,6 +718,7 @@ tools:
   revisions:
   - 0c3db8ec44b0
   - 403825b9349a
+  - 73abbf6495be
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: cnvkit_scatter
@@ -683,11 +726,13 @@ tools:
   revisions:
   - 3323a7867128
   - 64960243c9e1
+  - 694411aa16e4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: cnvkit_segment
   owner: iuc
   revisions:
+  - bb1c663a9c46
   - bdd0e8e05933
   - c4a22d0fdba5
   tool_panel_section_id: variant_calling
@@ -697,11 +742,13 @@ tools:
   revisions:
   - 876630eb0680
   - 8e75b2d61784
+  - db3588a9051f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpsift_genesets
   owner: iuc
   revisions:
+  - 333c2f24e479
   - 60d04e5f3dcf
   - d12a810c837e
   tool_panel_section_id: variant_calling
@@ -710,6 +757,7 @@ tools:
   owner: iuc
   revisions:
   - 4e21e4f2bc48
+  - 90cf787c022c
   - cff5bd9c728d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -950,6 +998,7 @@ tools:
 - name: vcf2maf
   owner: iuc
   revisions:
+  - 2920e6524c5d
   - e8510e04a86a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -968,6 +1017,7 @@ tools:
   - 78df8fc2b3ab
   - 98c227b9be71
   - a40dd4fd3096
+  - c8eefc6bf631
   - d9965e143053
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -995,6 +1045,7 @@ tools:
 - name: cnvkit_breaks
   owner: iuc
   revisions:
+  - b77e9ce643a6
   - d889cf77ec0d
   - ef9a50eb20ce
   tool_panel_section_id: variant_calling
@@ -1004,11 +1055,13 @@ tools:
   revisions:
   - 2b53415d4f3c
   - aafd56f1b0f7
+  - bb5dc90e2ef1
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: cnvkit_segmetrics
   owner: iuc
   revisions:
+  - 0233886f275d
   - 046b04fc7284
   - d9cb65e1f756
   tool_panel_section_id: variant_calling
@@ -1016,6 +1069,7 @@ tools:
 - name: cnvkit_sex
   owner: iuc
   revisions:
+  - 27b32e5dd963
   - 3316bd294f6f
   - 9f300faccb88
   tool_panel_section_id: variant_calling

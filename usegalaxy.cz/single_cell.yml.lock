@@ -205,11 +205,13 @@ tools:
   owner: iuc
   revisions:
   - 99f912d5af9f
+  - e3a9a42b4605
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_plot_pca
   owner: iuc
   revisions:
+  - 7022861faab0
   - c99ba278dfa9
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -222,6 +224,7 @@ tools:
 - name: scater_plot_dist_scatter
   owner: iuc
   revisions:
+  - 63dc52ce8c73
   - ef4c80837bc5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -235,12 +238,14 @@ tools:
   owner: iuc
   revisions:
   - 652923ce664f
+  - ede400b28a58
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_create_qcmetric_ready_sce
   owner: iuc
   revisions:
   - 8f333f90d8d6
+  - fad352ff02ad
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_inspectclusters
@@ -354,6 +359,7 @@ tools:
   owner: iuc
   revisions:
   - d1b34ac42b8f
+  - e188e2c2598b
   - fb61eb03e313
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

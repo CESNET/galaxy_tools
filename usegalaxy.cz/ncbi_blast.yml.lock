@@ -14,6 +14,7 @@ tools:
   - 6560192c5098
   - 6f386c5dc4fb
   - 70e7dcbf6573
+  - 71a9b71a2fa1
   - 7538e2bfcd41
   - 7f3c448e119b
   - 9dabbfd73c8a
@@ -44,6 +45,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 01a54504b6aa
   - 7d01da0b9e18
   - c9f8fef1df74
   - e9005d1f3cfd
@@ -55,6 +57,7 @@ tools:
   - 8cebdc74a48f
   - 9bdcba262627
   - bc3e90fd13be
+  - f48bf782723a
   tool_panel_section_id: ncbi_blast
   tool_panel_section_label: NCBI Blast
 - name: kraken_filter
@@ -63,6 +66,7 @@ tools:
   - 3d6570bffdb1
   - 5bee9adae474
   - 67236d921e83
+  - c605203be45d
   tool_panel_section_id: ncbi_blast
   tool_panel_section_label: NCBI Blast
 - name: blast_rbh
@@ -100,6 +104,7 @@ tools:
   - 428de92eac6b
   - 6ffff37d3daf
   - a9c9d768b751
+  - e629753431f5
   tool_panel_section_id: ncbi_blast
   tool_panel_section_label: NCBI Blast
 - name: kraken_taxonomy_report
@@ -113,6 +118,7 @@ tools:
 - name: magicblast
   owner: iuc
   revisions:
+  - 348dde0b04a1
   - 34ac212ef95e
   - 79f4f8bd0e34
   tool_panel_section_id: ncbi_blast

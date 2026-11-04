@@ -114,6 +114,7 @@ tools:
   - 4efac966af2a
   - 602b5fb7ef09
   - 648b81bca7c5
+  - a1478b43a349
   - a84e6ffd3735
   - b7e93c1deb3f
   - d0ed8e976b79
@@ -141,6 +142,7 @@ tools:
 - name: graphembed
   owner: iuc
   revisions:
+  - 4e25e18415c0
   - f28678233baf
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
@@ -175,17 +177,20 @@ tools:
   owner: iuc
   revisions:
   - 1bc9150ed125
+  - 7db40b986b82
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
 - name: iwtomics_testandplot
   owner: iuc
   revisions:
+  - 6993163b4133
   - 94965e369be4
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
 - name: iwtomics_loadandplot
   owner: iuc
   revisions:
+  - 34abac8eb3e7
   - ce633cc8f5f9
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics

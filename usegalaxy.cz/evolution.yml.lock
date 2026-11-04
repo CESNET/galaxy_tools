@@ -22,6 +22,7 @@ tools:
 - name: codeml
   owner: iuc
   revisions:
+  - 8cb34dd46b16
   - dba114391c98
   - f9cb3a4339c2
   tool_panel_section_id: evolution
@@ -46,6 +47,7 @@ tools:
   - 4ac97ae01aba
   - a9d66dc6a767
   - b38f620a3628
+  - fa40cbd6f751
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
 - name: tn93_filter
@@ -54,6 +56,7 @@ tools:
   - 017db1b776d9
   - 1779a96f1d7c
   - 1aa73004ba9b
+  - bdbed8e581c6
   - cf50aeb956f2
   - e623a56a6470
   tool_panel_section_id: evolution
@@ -64,6 +67,7 @@ tools:
   - 112d80c9ccca
   - 476189b83931
   - 9b04e4d36b82
+  - c5d30f16c6c0
   - e0448bc48085
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
@@ -73,6 +77,7 @@ tools:
   revisions:
   - 1d2ec0b0a0a7
   - 4e68161336da
+  - 5879d2d024a2
   - 767905ef0314
   - c176164dc8a5
   - d9a642ad8ece

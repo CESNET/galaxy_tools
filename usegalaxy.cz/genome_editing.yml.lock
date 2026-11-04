@@ -13,6 +13,7 @@ tools:
   owner: iuc
   revisions:
   - 688a8eccea71
+  - 69cd730c782e
   - 9b4f4533c9ee
   tool_panel_section_id: genome_editing
   tool_panel_section_label: Genome editing
@@ -21,11 +22,13 @@ tools:
   revisions:
   - 26126538a86f
   - b36c85e37a48
+  - e538caff60b6
   tool_panel_section_id: genome_editing
   tool_panel_section_label: Genome editing
 - name: mageck_gsea
   owner: iuc
   revisions:
+  - 27ba5d36b316
   - b946929d31c4
   - d46e36492bff
   tool_panel_section_id: genome_editing
@@ -34,6 +37,7 @@ tools:
   owner: iuc
   revisions:
   - 3edbd1ff5602
+  - d0c530d903a3
   - e329d44424d7
   tool_panel_section_id: genome_editing
   tool_panel_section_label: Genome editing
@@ -41,6 +45,7 @@ tools:
   owner: iuc
   revisions:
   - 39a996d44e16
+  - 8ce3f5390f25
   - 9744e1124d0f
   tool_panel_section_id: genome_editing
   tool_panel_section_label: Genome editing
@@ -48,6 +53,7 @@ tools:
   owner: iuc
   revisions:
   - 0ac12c344bfa
+  - d603bf9e92cb
   - db4fe7172114
   tool_panel_section_id: genome_editing
   tool_panel_section_label: Genome editing

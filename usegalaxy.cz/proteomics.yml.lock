@@ -81,6 +81,7 @@ tools:
   revisions:
   - 064b53fd3131
   - 6a8cf86fd3b7
+  - 7aced6639bc6
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: calisp
@@ -1586,6 +1587,7 @@ tools:
   - 16888c5c9ed5
   - 5532c0e5d4a6
   - 6140163233a5
+  - 7d96269dd8c5
   - 85c411546123
   - 8a701e0754a1
   tool_panel_section_id: proteomics
@@ -1594,6 +1596,7 @@ tools:
   owner: iuc
   revisions:
   - 1187ff061d62
+  - 1b4711bb2eb9
   - 36dffb2bc194
   - a83f63833669
   - a87f7278b4ee
@@ -2032,6 +2035,7 @@ tools:
 - name: prot_scriber
   owner: iuc
   revisions:
+  - '454473065611'
   - 4d4df9779b7b
   - f05dfa43240f
   tool_panel_section_id: proteomics
