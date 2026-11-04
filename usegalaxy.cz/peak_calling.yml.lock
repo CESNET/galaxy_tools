@@ -24,12 +24,14 @@ tools:
   owner: iuc
   revisions:
   - 8353f3cc03db
+  - 9dcc695d5242
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
 - name: diffbind
   owner: bgruening
   revisions:
   - 194e3f2c1d86
+  - 35da05f22058
   - f907216064f6
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
@@ -38,6 +40,7 @@ tools:
   revisions:
   - 640d3af5d833
   - 86e2413cf3f8
+  - d8362a868940
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
 - name: peakachu
@@ -84,5 +87,6 @@ tools:
   revisions:
   - ccc755bdf11d
   - d6787bab7b11
+  - f8369439d35a
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
