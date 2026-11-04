@@ -6,6 +6,7 @@ tools:
   owner: melpetera
   revisions:
   - 2e580585782e
+  - 757b6dcfe32a
   - ec75de7f1e08
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
