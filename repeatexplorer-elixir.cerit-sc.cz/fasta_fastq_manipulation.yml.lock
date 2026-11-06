@@ -19,6 +19,7 @@ tools:
   owner: devteam
   revisions:
   - 516b97a23d7e
+  - 59a3ca730b16
   - e773f1eb16cf
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -27,6 +28,7 @@ tools:
   revisions:
   - 177f0621c266
   - 7566b751e769
+  - b3c10a950efa
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastx_trimmer
@@ -34,12 +36,14 @@ tools:
   revisions:
   - 1ea2ae5afb28
   - 73194cdd4f57
+  - cac2c7cba460
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
 - name: fastx_renamer
   owner: devteam
   revisions:
   - 0ffae348abae
+  - e39e3016fbe1
   - f984bb114520
   tool_panel_section_id: fasta_fastq_manipulation
   tool_panel_section_label: FASTA/FASTQ manipulation
@@ -118,6 +122,7 @@ tools:
   owner: bgruening
   revisions:
   - 433db23e1c1d
+  - 7462caed7065
   - b94789823aad
   - cd7e644cae1d
   tool_panel_section_id: fasta_fastq_manipulation

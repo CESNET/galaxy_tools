@@ -38,11 +38,13 @@ tools:
   revisions:
   - 0b7ec11b3c7c
   - 229caeddb2df
+  - 456be35b3f1b
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
 - name: fastx_artifacts_filter
   owner: devteam
   revisions:
+  - 016529f651dc
   - 34edfa69c149
   - 529bccd5e4a1
   tool_panel_section_id: ngs__qc_and_manipulation
@@ -51,6 +53,7 @@ tools:
   owner: devteam
   revisions:
   - 751878fa37e5
+  - 81718e0eba05
   - b6b54ba71bd8
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
@@ -58,6 +61,7 @@ tools:
   owner: devteam
   revisions:
   - 48c943a0290a
+  - 5d39ad51de11
   - cc0fd298cc17
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
@@ -66,6 +70,7 @@ tools:
   revisions:
   - 47df89f900a4
   - 867ab348287d
+  - c38184e51140
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
 - name: fastq_quality_converter
@@ -73,6 +78,7 @@ tools:
   revisions:
   - 045f0e1043f7
   - 86713dc416ec
+  - e4634c67ee8d
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
 - name: fastq_quality_filter
@@ -80,6 +86,7 @@ tools:
   revisions:
   - 64e9a6afdd0c
   - b1e332a385f1
+  - cb57980cefa0
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
 - name: multiqc
