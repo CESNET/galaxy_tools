@@ -369,6 +369,7 @@ tools:
   revisions:
   - 3ec27b4cee7c
   - a6ff76e057fd
+  - c9b13d4069c8
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: rawtools
@@ -606,6 +607,7 @@ tools:
   owner: galaxyp
   revisions:
   - 9c52362ae7bb
+  - fce1301d386c
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: pepquery2
