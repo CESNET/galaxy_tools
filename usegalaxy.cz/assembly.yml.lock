@@ -221,6 +221,7 @@ tools:
   - 02a822e32de7
   - 14ddfc8ffb93
   - 7518ee87b53d
+  - 792acb18fb24
   - 98242353faa4
   - ab208c87d973
   - de387b2b2803
@@ -268,6 +269,7 @@ tools:
   - 1ce9b1d72ec3
   - 276f5d8712d5
   - 3ee0ef312022
+  - 53d3fd8fca8d
   - 643e0ff70be5
   - 8d4f03b5fe9d
   - cb8dfd28c16f
@@ -289,6 +291,7 @@ tools:
   - 81df4950d65b
   - 875d0f36d66f
   - a3b35edea53a
+  - baeffe7bfe47
   - cbc516cee202
   - ebb0dcdb621a
   tool_panel_section_id: assembly

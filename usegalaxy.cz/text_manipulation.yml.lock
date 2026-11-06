@@ -93,6 +93,7 @@ tools:
   revisions:
   - 3bf5661c0280
   - 56a8da1f2243
+  - 6fb9abd4a64a
   - c656214aa052
   - cd36d6e45e29
   tool_panel_section_id: text_manipulation
@@ -130,6 +131,7 @@ tools:
   owner: iuc
   revisions:
   - 3a6b78c39dca
+  - a8e9456dbead
   - cf34c344508d
   - cf4397560712
   tool_panel_section_id: text_manipulation

@@ -66,6 +66,7 @@ tools:
   revisions:
   - 297962e79f39
   - 4a3e93647a4e
+  - 5e0a8c02887c
   - ac3fed111eb6
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -94,6 +95,7 @@ tools:
   owner: devteam
   revisions:
   - '144275714590'
+  - 242f90a25c1d
   - 81a9090d6df3
   - ff7d49ec777f
   tool_panel_section_id: fasta_fastq
@@ -240,6 +242,7 @@ tools:
   - 2bd7cdbb6228
   - 53af7b5b1b56
   - 75a3b8da8e76
+  - 771554c05a0b
   - a60283899c6d
   - b9aaed85cbd1
   - d94aff5ee623
@@ -356,6 +359,7 @@ tools:
   - 8511b6d85fc7
   - a019807f4e67
   - a09586d5149a
+  - c8fb17965c7d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: umi_tools_group
@@ -602,6 +606,7 @@ tools:
   - 24107542edff
   - 3d6d1121a427
   - 54a954ee64d4
+  - 812705bcf39c
   - a89d0059d1d7
   - b9297580f1e0
   - cfa0fe8978a3
@@ -675,6 +680,7 @@ tools:
   revisions:
   - 1ee282794de3
   - 654b3a274ed5
+  - dbd2e239117c
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_translate
