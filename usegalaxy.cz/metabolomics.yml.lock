@@ -193,6 +193,7 @@ tools:
   owner: melpetera
   revisions:
   - 2e580585782e
+  - 757b6dcfe32a
   - bdee2c2c484b
   - ec75de7f1e08
   tool_panel_section_id: metabolomics
@@ -223,6 +224,7 @@ tools:
   owner: recetox
   revisions:
   - 32b66fb6a6a0
+  - 5d836cb06710
   - 702a849c1e0e
   - 89178a72388a
   - becac9b2c229
@@ -236,6 +238,7 @@ tools:
   - a9bb2ccc53de
   - c3d4b82c7e5d
   - cabd480cfe97
+  - d356ca2c2423
   - f92b1b64da93
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -243,6 +246,7 @@ tools:
   owner: recetox
   revisions:
   - 6bb6835f8e50
+  - 8dcef51593a3
   - a82db010c53e
   - d69ec1171d71
   tool_panel_section_id: metabolomics
@@ -250,6 +254,7 @@ tools:
 - name: recetox_aplcms_compute_clusters
   owner: recetox
   revisions:
+  - 3078953f7537
   - 550667ce03f1
   - 59c393d35e0e
   - cc972a92941b
@@ -261,6 +266,7 @@ tools:
   - 12bf74dd09f1
   - 7acd11ddc061
   - 97f14feab793
+  - d646c4675c1c
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: recetox_aplcms_merge_known_table
@@ -268,6 +274,7 @@ tools:
   revisions:
   - 073be0373d3c
   - 8ecb609cc265
+  - a19c6aff07c3
   - b7c8a44b9cc1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -275,6 +282,7 @@ tools:
   owner: recetox
   revisions:
   - 50b9918aeff2
+  - 9f28366efd73
   - b45cc424f836
   - e2dc815e1b2c
   tool_panel_section_id: metabolomics
@@ -284,6 +292,7 @@ tools:
   revisions:
   - 2b6bfa234d8b
   - 2dd734da8a4c
+  - 35467fe49dad
   - ec196e27a61a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -292,6 +301,7 @@ tools:
   revisions:
   - 5a6bb93ec656
   - 60c2da112839
+  - 7b210a74628f
   - c1a9c990d4b0
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -309,6 +319,7 @@ tools:
   owner: recetox
   revisions:
   - '275998667516'
+  - 36fad20bb730
   - 3b402610c6dc
   - 3e2cb0bc6959
   - 560053b805d2
@@ -320,6 +331,7 @@ tools:
 - name: riassigner
   owner: recetox
   revisions:
+  - 3af9c2de8522
   - 8c5e65adf694
   - 984d5fa7acf5
   - 9b2fe4c49ecb
@@ -605,6 +617,7 @@ tools:
   revisions:
   - b7d8a8202ad6
   - c46d33411495
+  - c6c1a0cfb9e1
   - fff032d6115a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -643,6 +656,7 @@ tools:
   owner: recetox
   revisions:
   - 09cabbc3d12d
+  - bfdf5de99cd2
   - da7722f665f4
   - f52181a205d3
   tool_panel_section_id: metabolomics
@@ -650,6 +664,7 @@ tools:
 - name: ramclustr_define_experiment
   owner: recetox
   revisions:
+  - b0a739025b81
   - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_id: metabolomics
@@ -679,6 +694,7 @@ tools:
 - name: recetox_xmsannotator_advanced
   owner: recetox
   revisions:
+  - 28b87af0fdd3
   - 50ac7359ffe7
   - 6b5dec818827
   tool_panel_section_id: metabolomics
@@ -749,6 +765,7 @@ tools:
   revisions:
   - 6fc9f6dbcef5
   - 821062fc5782
+  - 9c417575eb83
   - bf28a0fc0db6
   - bf32ae95a06f
   - dbbedb14b44c
@@ -758,6 +775,7 @@ tools:
 - name: dimet_differential_multigroup_analysis
   owner: iuc
   revisions:
+  - 0f071ba6d34d
   - 603a8e254ee3
   - c4bcde2c17d0
   - e88cf5618b40
@@ -766,6 +784,7 @@ tools:
 - name: dimet_enrichment_plot
   owner: iuc
   revisions:
+  - 0da51d43d4f8
   - 254408bfc5c0
   - 916bfd9924ff
   - fb9fec2c5642
@@ -783,6 +802,7 @@ tools:
   owner: iuc
   revisions:
   - 06f8d9ba09cd
+  - 50d8252d6167
   - 8539c0a123a0
   - a7d3e880e74c
   tool_panel_section_id: metabolomics
@@ -806,6 +826,7 @@ tools:
 - name: dimet_timecourse_analysis
   owner: iuc
   revisions:
+  - abfb86f53907
   - b1a9eddf73d9
   - cb8c4ae59da9
   - f9bfb18d3fb1

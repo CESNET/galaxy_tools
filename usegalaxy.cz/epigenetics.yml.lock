@@ -30,6 +30,7 @@ tools:
   owner: iuc
   revisions:
   - 214874e24cd6
+  - 9ba290647b05
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
 - name: ewastools
@@ -42,6 +43,7 @@ tools:
 - name: metilene
   owner: rnateam
   revisions:
+  - 2de4266c06cc
   - 37abd09a0ae6
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
@@ -58,6 +60,7 @@ tools:
   owner: bgruening
   revisions:
   - d6787bab7b11
+  - f8369439d35a
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
 - name: hicup_truncater

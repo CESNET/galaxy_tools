@@ -56,6 +56,7 @@ tools:
   - b12d81af0291
   - eaa10652acc2
   - f4af63aaf57a
+  - f6ff91cb3120
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: rna_starsolo
@@ -68,6 +69,7 @@ tools:
   - 7f694df20f73
   - a00cceb45700
   - a2f232ff85ed
+  - d164ab7942cc
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: rgrnastar
@@ -75,6 +77,7 @@ tools:
   revisions:
   - 53255f6eecfc
   - 55c9ac3aa8f4
+  - 6e8618432bea
   - 79de45b5069b
   - 980d2a2e1180
   - d8d32326fbfb
@@ -94,6 +97,7 @@ tools:
   owner: iuc
   revisions:
   - 0e8330535ea0
+  - 16fcbbe37a61
   - 69b5fa6480ff
   - 6fe0fdd63a67
   - 7da532cd050c
@@ -107,6 +111,7 @@ tools:
 - name: star_fusion
   owner: iuc
   revisions:
+  - 12281c334d02
   - 137942fac417
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -152,6 +157,7 @@ tools:
   revisions:
   - 1dfc975b48d5
   - 2477830927ec
+  - 2e9f2d3d1b39
   - 4a196b9c72c2
   - 64f11cf59c6e
   - c598cbb8b019
@@ -175,12 +181,14 @@ tools:
   owner: iuc
   revisions:
   - 35ea4a8b1ea6
+  - 5211c9527965
   - f9ea02afa87d
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: bioext_bealign
   owner: iuc
   revisions:
+  - 10f185ef7aee
   - 4ad7321205c9
   - a07a2d9ddd42
   - d3ece1957fdb
@@ -189,6 +197,7 @@ tools:
 - name: bwa_mem2
   owner: iuc
   revisions:
+  - 7febc71de9c3
   - af91699b8d4c
   - b4a22d90cce9
   - bec6ba059ded
@@ -204,6 +213,7 @@ tools:
   - 517464809c33
   - 858a65b52cf9
   - 95e9d34c4cad
+  - d758d31ec054
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: bwameth

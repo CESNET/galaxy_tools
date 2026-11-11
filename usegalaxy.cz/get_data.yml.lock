@@ -30,6 +30,7 @@ tools:
   revisions:
   - 1790dcf3c32d
   - 26b7446bb17e
+  - 2b2eb47e8e84
   - 494b2ec08162
   - 4df8de2d0e48
   - 516a54ddf218
@@ -232,6 +233,7 @@ tools:
   - a6a475ed58cb
   - a7c1dc5207da
   - bc18e25d4204
+  - c0e84fc8b59a
   - c28c9cdf3660
   - f0872b88c5fc
   - fd848bb708de

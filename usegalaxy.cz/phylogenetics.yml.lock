@@ -379,6 +379,7 @@ tools:
   owner: iuc
   revisions:
   - 6077821e8ae7
+  - 80c3d1d9559e
   - f53beb324696
   - fc95788aff90
   tool_panel_section_id: phylogenetics
@@ -386,6 +387,7 @@ tools:
 - name: picrust2_pipeline
   owner: iuc
   revisions:
+  - 323e5669975a
   - 540aedfc81c7
   - d6bb2e3febda
   tool_panel_section_id: phylogenetics
