@@ -84,3 +84,5 @@ tools:
   owner: iuc
 - name: tooldistillator_summarize
   owner: iuc
+- name: ucsc_wigtobigwig
+  owner: iuc
