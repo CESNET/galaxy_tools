@@ -11,6 +11,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - a9caad671439
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -106,6 +107,7 @@ tools:
   - 7e8c677a7b71
   - 9ef202055d5c
   - be1fdce914c6
+  - c4209ea387d4
   - e6a8d5fdca85
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -136,6 +138,7 @@ tools:
 - name: anndata_import
   owner: iuc
   revisions:
+  - 6f143dfe902a
   - 923dcc644832
   - d0a337ddf062
   - d330b3082107
@@ -145,6 +148,7 @@ tools:
   owner: iuc
   revisions:
   - 0bf7fddf90c7
+  - 14c576ea6148
   - 9301df6f892d
   - afe044e6bc93
   tool_panel_section_id: single_cell
@@ -153,12 +157,14 @@ tools:
   owner: iuc
   revisions:
   - 27c054e8d949
+  - a8d291df615d
   - d86cb2ce311b
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 2e6029e47eb5
   - 8cb783c81905
   - 92a189c299d4
   tool_panel_section_id: single_cell
@@ -166,6 +172,7 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
+  - 2b6498d4c8c6
   - 56c0d4acef02
   - e639abb0de92
   tool_panel_section_id: single_cell
@@ -183,6 +190,7 @@ tools:
   revisions:
   - 38db3fef7aad
   - 49ce1315722c
+  - 795751257d82
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_plot
@@ -190,6 +198,7 @@ tools:
   revisions:
   - 0185bd174ea0
   - 16a1c3122996
+  - 7f478b3258ec
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: velocyto_cli

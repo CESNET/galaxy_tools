@@ -13,6 +13,7 @@ tools:
   owner: iuc
   revisions:
   - 3ddd99c7efee
+  - 4b00d89e8690
   tool_panel_section_id: join__subtract_and_group
   tool_panel_section_label: Join, Subtract and Group
 - name: subtract
