@@ -582,6 +582,7 @@ tools:
   - 2e6190c29c54
   - 473382134e56
   - 5968573462fa
+  - 5bc075714a8b
   - f242ee103277
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
