@@ -41,6 +41,7 @@ tools:
   owner: devteam
   revisions:
   - 5b7120c66efc
+  - 851e0d4ed101
   - ee60203e68d9
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF

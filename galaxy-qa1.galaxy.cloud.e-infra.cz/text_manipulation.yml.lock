@@ -40,6 +40,7 @@ tools:
   revisions:
   - 3bf5661c0280
   - 56a8da1f2243
+  - 6fb9abd4a64a
   - c656214aa052
   - cd36d6e45e29
   tool_panel_section_id: text_manipulation
@@ -91,6 +92,7 @@ tools:
   owner: iuc
   revisions:
   - 1ee282794de3
+  - dbd2e239117c
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: gff3_rebase
@@ -103,6 +105,7 @@ tools:
   owner: iuc
   revisions:
   - 2040e4c2750a
+  - 6428adb323eb
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: column_order_header_sort
@@ -194,6 +197,7 @@ tools:
 - name: query_tabular
   owner: iuc
   revisions:
+  - a8e9456dbead
   - cf34c344508d
   - cf4397560712
   tool_panel_section_id: text_manipulation

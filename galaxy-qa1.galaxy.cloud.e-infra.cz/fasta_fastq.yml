@@ -128,3 +128,5 @@ tools:
   owner: iuc
 - name: fastq_paired_end_deinterlacer
   owner: devteam
+- name: seqkit_stats
+  owner: iuc
