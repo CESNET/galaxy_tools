@@ -378,3 +378,9 @@ tools:
   owner: iuc
 - name: phyloseq_tax_glom
   owner: iuc
+- name: kneaddata
+  owner: iuc
+- name: motus
+  owner: bgruening
+- name: samestr
+  owner: iuc

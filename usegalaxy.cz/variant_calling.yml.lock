@@ -167,6 +167,7 @@ tools:
   - 09d6806c609e
   - 0abc5513f795
   - 2b3e65a4252f
+  - 2d6319686ea3
   - 2e497a770bca
   - 5fab4f81391d
   - b04635ebfab0
@@ -197,6 +198,7 @@ tools:
   revisions:
   - 14af3b671440
   - 4805fe3d8fda
+  - 72d76a5adbc9
   - b11e8e9c23bf
   - e1461b5c52a0
   tool_panel_section_id: variant_calling
@@ -263,6 +265,7 @@ tools:
   owner: iuc
   revisions:
   - 2a3a00c1fa0a
+  - b68ff9393fb6
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_viterbi
@@ -271,6 +274,7 @@ tools:
   - 3330ebe7c0c7
   - aa35ee7f3ab2
   - af7e416d8176
+  - facfecd498e4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: lofreq_alnqual
@@ -282,6 +286,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 354b534eeab7
   - 4165b712b569
   - 426d707dfc47
@@ -385,6 +390,7 @@ tools:
   owner: devteam
   revisions:
   - 166c4f50525f
+  - 2116f9563368
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: vcfbreakcreatemulti
@@ -445,6 +451,7 @@ tools:
 - name: vcfsort
   owner: devteam
   revisions:
+  - 851e0d4ed101
   - dd44c3f416c3
   - ee60203e68d9
   tool_panel_section_id: variant_calling
