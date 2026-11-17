@@ -12,11 +12,13 @@ tools:
   owner: bgruening
   revisions:
   - 549937c7349c
+  - d6fccdb87bf3
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_to_categorical
   owner: bgruening
   revisions:
+  - 722379be2338
   - 791fa244e44d
   - f86c0419af43
   tool_panel_section_id: machine_learning
@@ -25,6 +27,7 @@ tools:
   owner: bgruening
   revisions:
   - 6f7e3901728d
+  - e3d00d324fb7
   - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -33,12 +36,14 @@ tools:
   revisions:
   - 01131463df86
   - 08b52ffcd2b4
+  - fb731872d453
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_builder
   owner: bgruening
   revisions:
   - 98aeca624881
+  - ad11e219bd5a
   - beeeda757eba
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -47,6 +52,7 @@ tools:
   revisions:
   - 19407b7f815c
   - aeee74692508
+  - efa16475990a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: model_prediction
@@ -54,11 +60,13 @@ tools:
   revisions:
   - 3dd539570a60
   - 475b5171945f
+  - 8ef3ef591dc8
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: ml_visualization_ex
   owner: bgruening
   revisions:
+  - 553b147da4e9
   - 5f9c0e99016f
   - 9276346ed061
   tool_panel_section_id: machine_learning

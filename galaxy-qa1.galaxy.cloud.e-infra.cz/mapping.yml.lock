@@ -111,6 +111,7 @@ tools:
   revisions:
   - 53255f6eecfc
   - 55c9ac3aa8f4
+  - 6e8618432bea
   - d8d32326fbfb
   - de21b616f03a
   tool_panel_section_id: mapping
@@ -120,6 +121,7 @@ tools:
   revisions:
   - 1dfc975b48d5
   - 2477830927ec
+  - 2e9f2d3d1b39
   - 64f11cf59c6e
   - c598cbb8b019
   - e188dc7a68e6
@@ -128,6 +130,7 @@ tools:
 - name: rna_starsolo
   owner: iuc
   revisions:
+  - 7f694df20f73
   - a00cceb45700
   - a2f232ff85ed
   tool_panel_section_id: mapping
