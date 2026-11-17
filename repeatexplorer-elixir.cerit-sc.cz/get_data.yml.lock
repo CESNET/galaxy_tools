@@ -19,6 +19,7 @@ tools:
   - c0e84fc8b59a
   - c28c9cdf3660
   - f0872b88c5fc
+  - fd5615a3211e
   - fd848bb708de
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
