@@ -24,6 +24,7 @@ tools:
   owner: recetox
   revisions:
   - '275998667516'
+  - 36fad20bb730
   - 3b402610c6dc
   - 3e2cb0bc6959
   - 560053b805d2
@@ -213,6 +214,7 @@ tools:
   revisions:
   - 07b7a1012916
   - 388e19c4316e
+  - 44f74a3836e5
   tool_panel_section_id: recetox
   tool_panel_section_label: RECETOX
 - name: mzspeclib_convert
