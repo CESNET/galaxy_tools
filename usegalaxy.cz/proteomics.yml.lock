@@ -72,6 +72,7 @@ tools:
   - 387d3633cade
   - 8e27ee06aea4
   - 9b67a50799e9
+  - 9efd3645d0c4
   - d3adf102f1a5
   - de26b312c0d2
   tool_panel_section_id: proteomics
@@ -81,6 +82,7 @@ tools:
   revisions:
   - 064b53fd3131
   - 6a8cf86fd3b7
+  - 7aced6639bc6
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: calisp
@@ -352,6 +354,7 @@ tools:
 - name: pepquery2_show_sets
   owner: galaxyp
   revisions:
+  - aebd150fd138
   - b9e1e95758e8
   - d39a43a076fc
   tool_panel_section_id: proteomics
@@ -361,6 +364,7 @@ tools:
   revisions:
   - a07976bbc4d9
   - c32806a80862
+  - cdf811f441dd
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: msstatstmt
@@ -1588,6 +1592,7 @@ tools:
   - 6140163233a5
   - 85c411546123
   - 8a701e0754a1
+  - 98cfca8be135
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: proteinortho_grab_proteins
@@ -1595,6 +1600,7 @@ tools:
   revisions:
   - 1187ff061d62
   - 36dffb2bc194
+  - a5f63a373c22
   - a83f63833669
   - a87f7278b4ee
   - e2a8e134e928
@@ -1647,6 +1653,7 @@ tools:
   owner: galaxyp
   revisions:
   - 24681d6372f3
+  - 88fd1654fabd
   - c56ca72c129e
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
@@ -2032,6 +2039,7 @@ tools:
 - name: prot_scriber
   owner: iuc
   revisions:
+  - '454473065611'
   - 4d4df9779b7b
   - f05dfa43240f
   tool_panel_section_id: proteomics

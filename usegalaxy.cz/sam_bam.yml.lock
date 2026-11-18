@@ -293,6 +293,7 @@ tools:
   owner: bgruening
   revisions:
   - 63f6f42d112b
+  - 8906468c0a64
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_paired

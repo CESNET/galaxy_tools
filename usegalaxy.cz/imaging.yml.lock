@@ -12,6 +12,7 @@ tools:
 - name: graphicsmagick_image_convert
   owner: bgruening
   revisions:
+  - 0648279794e5
   - 0ecf92b5a7c5
   - 3ae9331790a6
   - 4e9a3745dce4
@@ -323,6 +324,7 @@ tools:
   owner: iuc
   revisions:
   - cbd605a24336
+  - df40d7033a9a
   - f92941d1a85e
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

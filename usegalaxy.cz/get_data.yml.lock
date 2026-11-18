@@ -30,6 +30,7 @@ tools:
   revisions:
   - 1790dcf3c32d
   - 26b7446bb17e
+  - 281a608c78fb
   - 494b2ec08162
   - 4df8de2d0e48
   - 516a54ddf218
@@ -234,6 +235,7 @@ tools:
   - bc18e25d4204
   - c28c9cdf3660
   - f0872b88c5fc
+  - fd5615a3211e
   - fd848bb708de
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
