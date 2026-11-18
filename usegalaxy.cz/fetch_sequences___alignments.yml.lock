@@ -7,11 +7,13 @@ tools:
   revisions:
   - 5cc8e93ee98f
   - 80414c33a59a
+  - c6e901032315
   tool_panel_section_id: fetch_sequences___alignments
   tool_panel_section_label: Fetch Sequences / Alignments
 - name: length_and_gc_content
   owner: iuc
   revisions:
+  - 0e7eadbd461c
   - e3ba567abdf5
   - f088370d2a3c
   tool_panel_section_id: fetch_sequences___alignments

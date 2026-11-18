@@ -7,6 +7,7 @@ tools:
   revisions:
   - 4daabc25df00
   - 5b097fde95dd
+  - baa38def0230
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: sina
@@ -32,12 +33,14 @@ tools:
   owner: iuc
   revisions:
   - 0c84cce7b030
+  - 4c8bab9ae1b1
   - 87c1c223c704
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: mummer_mummer
   owner: iuc
   revisions:
+  - 0f7ebb3a2f0e
   - 355f84a894bf
   - b7bc272143fb
   - bcd65de9725b
@@ -47,6 +50,7 @@ tools:
   owner: iuc
   revisions:
   - 029a793f39b6
+  - 0f42cf7485e8
   - 4fc0cb2ac8ae
   - 75e15ee43896
   tool_panel_section_id: multiple_alignments
@@ -65,6 +69,7 @@ tools:
   - 27fff8d3793e
   - 298dceed950c
   - 2d2fe522553d
+  - a79662294201
   - e18267f90096
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
@@ -87,6 +92,7 @@ tools:
 - name: kc_align
   owner: iuc
   revisions:
+  - 1e273199758f
   - 97476dfde728
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
