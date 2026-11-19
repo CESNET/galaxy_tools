@@ -101,6 +101,7 @@ tools:
   - 97255f6fdf7e
   - abfd8a6544d7
   - bb89ae58738c
+  - ca7fced90f71
   - dc0f5512911c
   - fac2260bc88a
   tool_panel_section_id: ngs__qc_and_manipulation
