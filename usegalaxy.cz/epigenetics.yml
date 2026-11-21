@@ -42,3 +42,5 @@ tools:
   owner: lldelisle
 - name: hicup2juicer
   owner: bgruening
+- name: atacseqqc
+  owner: iuc
