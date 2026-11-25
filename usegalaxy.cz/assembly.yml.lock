@@ -59,6 +59,7 @@ tools:
   revisions:
   - 09cf7b520734
   - 170061c052ad
+  - 202ac9dc920f
   - 5d365d5cbe9d
   - 60024a528cbd
   - b562f08eb13a
@@ -103,6 +104,7 @@ tools:
   - 505a9833ab5d
   - 8bedb8218eaa
   - 8f631679571f
+  - b34e9eeb39cf
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: trycycler_consensus
@@ -112,12 +114,14 @@ tools:
   - 19bdfd1e6fe3
   - 9ded6109434a
   - a7ed21de23fe
+  - e6c2cf36b215
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: trycycler_partition
   owner: iuc
   revisions:
   - 7673a6c920b2
+  - 7e16def914a5
   - 80a17897564d
   - b23249f81bc4
   - c9dca11222a6
@@ -131,12 +135,14 @@ tools:
   - b833dd2de66b
   - cb1e3db43020
   - ed312479d9eb
+  - ee24ea59e322
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: trycycler_subsample
   owner: iuc
   revisions:
   - 05bd7504fdb2
+  - 2178ac72a9e5
   - 2628f6790eda
   - 52d46473e265
   - b9b0246a2be3
@@ -286,6 +292,7 @@ tools:
   - cb8dfd28c16f
   - cd256484eb1a
   - e27815e82dd4
+  - e3c10e66ef8f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: quast

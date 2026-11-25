@@ -615,6 +615,7 @@ tools:
 - name: dimet_differential_analysis
   owner: iuc
   revisions:
+  - 90facd131ffc
   - b7d8a8202ad6
   - c46d33411495
   - c6c1a0cfb9e1
@@ -625,6 +626,7 @@ tools:
   owner: iuc
   revisions:
   - 13846689db6b
+  - 32713227099b
   - 4b4dead87318
   - c9040bdb918c
   - f65ffb01a6be
@@ -778,6 +780,7 @@ tools:
   - 0f071ba6d34d
   - 603a8e254ee3
   - c4bcde2c17d0
+  - cbbdbd0c8402
   - e88cf5618b40
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -786,6 +789,7 @@ tools:
   revisions:
   - 0da51d43d4f8
   - 254408bfc5c0
+  - 4c951c1648a3
   - 916bfd9924ff
   - fb9fec2c5642
   tool_panel_section_id: metabolomics
@@ -795,6 +799,7 @@ tools:
   revisions:
   - 41a4d8c9d6a2
   - 67dbdf5e7a7a
+  - 90a61dab8fc1
   - a3349c105bd0
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -802,6 +807,7 @@ tools:
   owner: iuc
   revisions:
   - 06f8d9ba09cd
+  - 0f5a2ec7db36
   - 50d8252d6167
   - 8539c0a123a0
   - a7d3e880e74c
@@ -812,12 +818,14 @@ tools:
   revisions:
   - 04d213632103
   - 442b6a2e57f4
+  - 46696d2348d0
   - 626016c1acdf
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: dimet_pca_plot
   owner: iuc
   revisions:
+  - 037fbfee083c
   - 952808ffa842
   - a71aeb82eae4
   - c112e7f989bf
@@ -827,6 +835,7 @@ tools:
   owner: iuc
   revisions:
   - abfb86f53907
+  - af20ceacd0c7
   - b1a9eddf73d9
   - cb8c4ae59da9
   - f9bfb18d3fb1

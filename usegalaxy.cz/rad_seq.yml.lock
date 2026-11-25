@@ -6,11 +6,13 @@ tools:
   owner: iuc
   revisions:
   - 72f3a333f155
+  - 7a066f854f35
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks_assembleperead
   owner: iuc
   revisions:
+  - 38e91d8be67c
   - 38ecfb8d52c6
   - 6eaf0f9836c8
   - fdbed68f179f
@@ -21,6 +23,7 @@ tools:
   revisions:
   - 1bd61efeff47
   - 40cde06ae34a
+  - 8cb86eb7dac1
   - be3df81c0353
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
@@ -28,6 +31,7 @@ tools:
   owner: iuc
   revisions:
   - 8123ca2d9351
+  - 92c3a3b8e907
   - a4fb78d0b9e8
   - c287418eb288
   tool_panel_section_id: rad_seq
@@ -35,6 +39,7 @@ tools:
 - name: stacks2_kmerfilter
   owner: iuc
   revisions:
+  - 273520a5728b
   - 7d9aa0dc2d59
   - a3e86cd9cac7
   - af2881556a67
@@ -45,6 +50,7 @@ tools:
   revisions:
   - 110a346daf36
   - 7b699cc7aaa9
+  - 83af128f26d6
   - 9a884520017b
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
@@ -53,12 +59,14 @@ tools:
   revisions:
   - 2645575d1bf2
   - 79ee594e7c3b
+  - aa3b4b5fcce1
   - c12141843d32
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_refmap
   owner: iuc
   revisions:
+  - 2fd156764710
   - 4c84b488deb2
   - adc7a7610d4f
   - eae928f7fcb3
@@ -70,11 +78,13 @@ tools:
   - 01854af3b1ed
   - 33486216eec0
   - 9e8a17579a2d
+  - fb4ffa126d56
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_procrad
   owner: iuc
   revisions:
+  - 139ca59d3fdb
   - 8cff84759bf6
   - bfef17191aa6
   - e0bf5d9cd05a
@@ -84,6 +94,7 @@ tools:
   owner: iuc
   revisions:
   - 564c33e5c3e3
+  - 868f23b8657d
   - 94025494f95d
   - f6446f2f1045
   tool_panel_section_id: rad_seq
@@ -91,6 +102,7 @@ tools:
 - name: stacks2_gstacks
   owner: iuc
   revisions:
+  - 6876881cab50
   - 878ddc285280
   - ab3df2172960
   - fa51dc5e8386
@@ -102,6 +114,7 @@ tools:
   - 4c29c999ef8d
   - 53fd063fcc0f
   - a819ec3b362d
+  - e6ebb3cf37e0
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_cstacks
@@ -110,6 +123,7 @@ tools:
   - 42d9087b4789
   - 994c77aeeef1
   - 9dd57d7dc863
+  - f38fce4a28fa
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks2_ustacks
@@ -117,12 +131,14 @@ tools:
   revisions:
   - 912f904a6e1e
   - bfe47ec761a0
+  - e2fd3bf46005
   - fa65e5e7577f
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks_populations
   owner: iuc
   revisions:
+  - 2d61833dd0fe
   - 95286af4139b
   - ac2d98d6ff8e
   - d1fad35bdb4a
@@ -134,11 +150,13 @@ tools:
   - 3009a21724e7
   - 60d86dc1b19d
   - 7bf2ace33b02
+  - e62dff7d6698
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks_stats
   owner: iuc
   revisions:
+  - 44ba5bc4734b
   - 93b16407d6e9
   - a0c52b82b9d3
   tool_panel_section_id: rad_seq
@@ -146,6 +164,7 @@ tools:
 - name: stacks_sstacks
   owner: iuc
   revisions:
+  - 298e819fb344
   - 563af4497055
   - 96de7538bf0c
   tool_panel_section_id: rad_seq
@@ -155,6 +174,7 @@ tools:
   revisions:
   - 46f061f3cfeb
   - 62a4b8e5e139
+  - 8f727d4a0e43
   - ccadf9b291cd
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
@@ -163,6 +183,7 @@ tools:
   revisions:
   - 48b49c5b3427
   - 9f9d39f582f3
+  - c538f98f8091
   - fdbcc560c691
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
@@ -171,12 +192,14 @@ tools:
   revisions:
   - 4cce81af50a8
   - a4ec4f620a77
+  - b5109fabf739
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks_procrad
   owner: iuc
   revisions:
   - 343073e3b095
+  - a4c952fe048e
   - be78e39d56b3
   - eded025438db
   tool_panel_section_id: rad_seq
@@ -185,6 +208,7 @@ tools:
   owner: iuc
   revisions:
   - 1ba1185929c1
+  - 38d6bd8124fc
   - 8b6f471264f0
   - d7a482f44e08
   tool_panel_section_id: rad_seq
@@ -195,6 +219,7 @@ tools:
   - 33e11cb7d404
   - 3e43e51b3c3b
   - 8479d9a67998
+  - ac0f18b54356
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
 - name: stacks_pstacks
@@ -202,5 +227,6 @@ tools:
   revisions:
   - 67cbd80b83f5
   - a9ff3d0184b8
+  - aea40f9ccf39
   tool_panel_section_id: rad_seq
   tool_panel_section_label: RAD-seq
