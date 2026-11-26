@@ -117,6 +117,7 @@ tools:
   - 8276962186f2
   - 8b1ff0343492
   - b2e9a56e5259
+  - bca43867b6f4
   - ff33957bf802
   tool_panel_section_id: ngs__qc_and_manipulation
   tool_panel_section_label: 'NGS: QC and manipulation'
