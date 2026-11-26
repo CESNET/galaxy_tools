@@ -530,6 +530,7 @@ tools:
   owner: devteam
   revisions:
   - 0d8581534009
+  - ae2f044f7b1c
   - c752293b798c
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
