@@ -242,6 +242,7 @@ tools:
   owner: iuc
   revisions:
   - afee33334a63
+  - c942af70a4fc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metabat2_jgi_summarize_bam_contig_depths
@@ -255,6 +256,7 @@ tools:
   owner: mbernt
   revisions:
   - 0917b2d6010d
+  - c16d6bfc7783
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metabat2
