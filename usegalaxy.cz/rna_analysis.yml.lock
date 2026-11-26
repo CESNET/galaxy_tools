@@ -7,6 +7,7 @@ tools:
   revisions:
   - 1672b9bea89b
   - 72927fc9e9ed
+  - 99ed38e2c2e1
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
 - name: salmonquantmerge
@@ -323,6 +324,7 @@ tools:
   owner: iuc
   revisions:
   - 35e00077ba61
+  - 3edace061e89
   - ce0da6c9f49e
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -881,6 +883,7 @@ tools:
 - name: circexplorer
   owner: bgruening
   revisions:
+  - 700215ccd00e
   - c3b5869b95fd
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis

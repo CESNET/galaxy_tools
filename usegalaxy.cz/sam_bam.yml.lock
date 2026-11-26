@@ -120,6 +120,7 @@ tools:
   - 19ece8afbaab
   - 30a201c9c310
   - 4a89c6f84425
+  - 950ea24d0079
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: qualimap_multi_bamqc
@@ -127,6 +128,7 @@ tools:
   revisions:
   - 17b35d23731f
   - adfe9fda2c5f
+  - edec46248555
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: bamtools

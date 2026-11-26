@@ -15,6 +15,7 @@ tools:
   - 468b90c41cde
   - 6f52ebc01098
   - 7021ed347f7e
+  - 92dcc1060a3f
   - 93cfe7df7f8a
   - c218cc6bf765
   tool_panel_section_id: variant_calling
@@ -25,6 +26,7 @@ tools:
   - 00e20a06ff1e
   - 311d11c4a68b
   - 372def2f8fd6
+  - 8761f1397463
   - c23737f9714f
   - e92767bd4412
   tool_panel_section_id: variant_calling
@@ -112,6 +114,7 @@ tools:
   owner: iuc
   revisions:
   - 147de996e34f
+  - 1df5daae11ed
   - 5490a1c40d58
   - 8aa352093d73
   - 9a260f6fab93
@@ -136,6 +139,7 @@ tools:
   - 2c526639f63c
   - 4f3c5e634679
   - 7b2ee758de86
+  - 8e0588b091a9
   - c192a2c7ef00
   - ecc7758d828f
   - fb20fa735dfe
@@ -256,6 +260,7 @@ tools:
   - '503487218735'
   - 53ce8be43212
   - d90f9190eb27
+  - f4ffa507c13f
   - fb0bb7174530
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -266,6 +271,7 @@ tools:
   - 08296952d12f
   - 2844fbbcaa92
   - 3d0090b86c7a
+  - 65595c20844e
   - c3c930926708
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -356,6 +362,7 @@ tools:
   revisions:
   - 52f6b7ac3739
   - 5b006286a458
+  - 8a617658cabe
   - af163c712539
   - b7b097acc0b1
   - d3286f971e89
@@ -522,6 +529,7 @@ tools:
   revisions:
   - 07396b423218
   - 5e9fb41c56a4
+  - 6ee0065a5eef
   - 89be90465e11
   - c277260d3fab
   - f0d44631365f
@@ -530,6 +538,7 @@ tools:
 - name: bcftools_norm
   owner: iuc
   revisions:
+  - 1b9d272d667b
   - 262d695b5456
   - 271965b55437
   - 5226c31ac6d3
@@ -542,6 +551,7 @@ tools:
   owner: iuc
   revisions:
   - 13fe5ac0fe2e
+  - 52e80e381c79
   - 633588f5cf1b
   - 9f69e7d58d03
   - d237eaef451f
@@ -551,6 +561,7 @@ tools:
 - name: bcftools_plugin_frameshifts
   owner: iuc
   revisions:
+  - 2b008b4a9eb2
   - 399b40b2bcab
   - 3c6952a2b0e4
   - 4517996e7c99
@@ -562,6 +573,7 @@ tools:
   owner: iuc
   revisions:
   - 09694f0edd75
+  - 0ef0c12d7187
   - 36960e552ddc
   - 54def72f84b2
   - 7d9166ecd10f
@@ -572,6 +584,7 @@ tools:
   owner: iuc
   revisions:
   - 2b7e7aa56527
+  - 55b81de8596e
   - 61dfbc82ffc8
   - 6d35a3780bfd
   - ccb83bf54de0
@@ -812,6 +825,7 @@ tools:
   revisions:
   - 19bc0b6f6bc8
   - 527c286bda7e
+  - 57b85482198e
   - 66682ee970c6
   - 7b71281eb0ca
   - d55feecb6dc1
@@ -837,6 +851,7 @@ tools:
   - 0a5dcc9a8ec2
   - 2776f8e0a1d3
   - 43f0efd586c4
+  - 61b171ed53b5
   - cd06642e9c20
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -847,6 +862,7 @@ tools:
   - 12c1e7346150
   - 1a2ef636f48e
   - 2a7d7ee53975
+  - 45076ee0438a
   - abc3ced31cd1
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -855,6 +871,7 @@ tools:
   revisions:
   - 591cc8518033
   - 7aea930ab6cc
+  - 89a5368babd2
   - a2f8dc22d7c0
   - d87658262215
   - fcf941c241cc
@@ -864,6 +881,7 @@ tools:
   owner: iuc
   revisions:
   - 3c3b4af46dd6
+  - 6b8dc8b2e22f
   - acfd6984d130
   - bdc67eeb0bc9
   - f44f646aa172
@@ -876,6 +894,7 @@ tools:
   - 2331ddcbd5aa
   - 8057cf55fa41
   - a0b1c0bdfa5a
+  - aa3b39d2a7f6
   - b69c8f031de3
   - b7432d10bd2d
   tool_panel_section_id: variant_calling
@@ -888,6 +907,7 @@ tools:
   - 623fa53e4208
   - a850902cac64
   - a9f66225bacd
+  - caa6224bafa9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_isec
@@ -898,6 +918,7 @@ tools:
   - 60e73d60fe1a
   - 63aabc920911
   - 6de9e8a3619b
+  - 9f504b8ef13e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_gtcheck
@@ -907,12 +928,14 @@ tools:
   - 4d18869714bb
   - 68d04cd5d35a
   - 7b4454382d39
+  - b303ce48d7d3
   - d1ffe13f696e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: bcftools_filter
   owner: iuc
   revisions:
+  - 166d21fae98e
   - 1c7dee9f0bf8
   - 3502f0e1f0e4
   - 46fcafba49ec
@@ -927,6 +950,7 @@ tools:
   - 4935320a59a8
   - 4bbdf586aeff
   - 68736d355615
+  - 6b6eaa54a4ff
   - cfd81f17580b
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -934,6 +958,7 @@ tools:
   owner: iuc
   revisions:
   - 012656fd329f
+  - 407be6744cd4
   - 506cb7ed2a11
   - 685f181d5378
   - a20d6492132d
@@ -947,6 +972,7 @@ tools:
   - 2c372041ed8c
   - 3f62d4939d54
   - 403553ae19f6
+  - 56b2ff2b3eb0
   - af15465b9923
   - b79aae13e613
   tool_panel_section_id: variant_calling
@@ -1031,6 +1057,7 @@ tools:
   - 262bba5b90ef
   - 394dbf428c7b
   - a730269af659
+  - b50ea3467c57
   - d4fb37427a61
   - f319f4089d5e
   tool_panel_section_id: variant_calling

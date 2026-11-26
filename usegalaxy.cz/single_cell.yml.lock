@@ -25,6 +25,7 @@ tools:
   - 6f143dfe902a
   - 8f8c0fdd625d
   - 923dcc644832
+  - a82bed364e1a
   - d0a337ddf062
   - d330b3082107
   - d9ae58b926fc
@@ -39,6 +40,7 @@ tools:
   - 83609ef746e9
   - 87d9511249cf
   - 8b9bf8b5157a
+  - ba87dc6946a1
   - d99a178d1ab5
   - f843b9afd94e
   tool_panel_section_id: single_cell
@@ -47,6 +49,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 4f52a1835164
   - 637e50759b72
   - 7e8c677a7b71
   - 9ef202055d5c
@@ -64,6 +67,7 @@ tools:
   - 14c576ea6148
   - 33c0081e16c6
   - 3a9aee9e3551
+  - 8d71879034eb
   - 9301df6f892d
   - a54b3bac44aa
   - afe044e6bc93
@@ -74,6 +78,7 @@ tools:
 - name: modify_loom
   owner: iuc
   revisions:
+  - 03a479581820
   - 0ee9395e1eb2
   - 27f120c69246
   - 4b0adaa31c95
@@ -120,6 +125,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 28fca3c7f00d
   - 2e6029e47eb5
   - 5813f9920877
   - 5b3c1679d29b
@@ -138,6 +144,7 @@ tools:
   - a9160efa16c8
   - c5d3684f7c4c
   - d86cb2ce311b
+  - f096e702f7d4
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_normalize
@@ -149,6 +156,7 @@ tools:
   - 56c0d4acef02
   - ab55fe8030b6
   - c13b10841210
+  - cce57eeeaa54
   - e639abb0de92
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -157,6 +165,7 @@ tools:
   revisions:
   - 0185bd174ea0
   - 16a1c3122996
+  - 3560333de511
   - 5a5468c0d26f
   - 62acdd96d4a0
   - 7f478b3258ec
@@ -168,6 +177,7 @@ tools:
   owner: iuc
   revisions:
   - 1849d1a3b69e
+  - 1d5d61a8f47b
   - 458d4ab0f894
   - 80fe16f87825
   - 9fb627495ec2
@@ -189,6 +199,7 @@ tools:
   revisions:
   - 38db3fef7aad
   - 49ce1315722c
+  - 635795e8e2d4
   - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
